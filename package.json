@@ -1,0 +1,27 @@
+{
+  "name": "ttba",
+  "version": "1.0.0",
+  "description": "TTBA group website",
+  "main": "index.js",
+  "scripts": {
+    "test": "jekyll build",
+    "start": "jekyll build",
+    "build": "jekyll build",
+    "watch": "jekyll build --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttbagroup/ttbagroup.github.io.git"
+  },
+  "keywords": [
+    "ttba",
+    "static",
+    "site"
+  ],
+  "author": "Dima Yv <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ttbagroup/ttbagroup.github.io/issues"
+  },
+  "homepage": "https://github.com/ttbagroup/ttbagroup.github.io#readme"
+}

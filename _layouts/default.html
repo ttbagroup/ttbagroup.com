@@ -1,0 +1,22 @@
+<!doctype html>
+
+{% assign lang=page.lang | default: 'en' %}
+
+<html lang="{{ lang }}" class="no-js">
+
+	{% include head.html %}
+
+	<body class="page {{ layout.type }}">
+		{% include header.html %}
+
+		<main class="site-content">
+			{{ content }}
+		</main>
+
+		{% include footer.html %}
+
+	</body>
+
+	{% include foot.html %}
+
+</html>

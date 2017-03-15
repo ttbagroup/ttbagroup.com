@@ -1,0 +1,94 @@
+title:
+  en: TTBA group
+  fr: Groupe TTBA
+  ru: Группа ТТБА
+tagline:
+  en: Marketing Agency for Small Business in Montreal
+  fr: Agence web pour les PME à Montréal
+  ru: Маркетинговое агентство для малого бизнеса в Монреале
+index:
+  en: index.html
+  fr: accueil.html
+description:
+  en:
+  fr:
+languages:
+  - name: 'English'
+    key: 'en'
+  - name: 'Français'
+    key: 'fr'
+#  - name: 'Русский'
+#    key: 'ru'
+#  - name: 'Español'
+#    key: 'es'
+menu:
+  en:
+    home: "Agency"
+    services: "Services"
+    projects: "Insights"
+    blog: "Our Work"
+    about: "About"
+    contact: "Contact us"
+  fr:
+    home: "L’Agence"
+    services: "Services"
+    projects: "Projets"
+    blog: "Blogue"
+    about: "À propos"
+    contact: "Contact"
+copyright:
+  en: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
+  fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
+
+email: info@ttbagroup.com
+baseurl: ""
+url: "http://ttbagroup.com"
+twitter_username: ttbagroup
+github_username:  ttbagroup
+permalink: :title
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+defaults:
+    - {scope: {path: ""}, values: {layout: "post"}}
+
+exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
+
+prose:
+  rooturl: ''
+  siteurl: 'http://ttbagroup.com'
+  media: 'assets'
+  ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
+  metadata:
+    _posts:
+      - name: "language"
+        field:
+          element: "select"
+          label: "Language"
+          help: "Choose post language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Français'
+              value: 'fr'
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          type: "text"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "The image will be used as a background cover for the post. Can be absolute or relative URL."
+          placeholder: "img/cover.jpg"
+          type: "url"
+      - name: "comments"
+        field:
+          element: "checkbox"
+          label: "Enable comments"
+          help: "This will enable comments for the post"
+          value: false

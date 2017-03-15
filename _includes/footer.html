@@ -1,0 +1,77 @@
+<footer id="footer" class="site-footer">
+	<div class="site-footer-section site-footer-columns centered">
+		<div class="site-footer-column">
+			<h3 class="site-footer-column-title">Reach us</h3>
+			<div id="footer-map"></div>
+			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+			<script type="text/javascript">
+			google.maps.event.addDomListener(window, 'load', init);
+
+			function init() {
+			    var mapOptions = {
+			        zoom: 15,
+			        disableDefaultUI: true,
+			        center: new google.maps.LatLng(45.4634237,-73.5965658),
+			        styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":13},{"color":"#000000"},{"lightness":13}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":15}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":15},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":11}]}]
+			    };
+			    var mapElement = document.getElementById('footer-map');
+			    var map = new google.maps.Map(mapElement, mapOptions);
+			    var marker = new google.maps.Marker({
+			        position: new google.maps.LatLng(45.4634237,-73.5965658),
+			        map: map,
+			        title: 'TTBA Group'
+			    });
+			}
+			</script>
+
+
+			<p style="color: #e5e5e5; font-family: Raleway;">TTBA Group Inc. | Digital Marketing Agency</p>
+			<p style="color: #e5e5e5; font-family: Raleway;">5538 Rue St-Patrick, Montreal, QC, H4E 1A8</p>
+			<p style="color: #e5e5e5; font-family: Raleway;">Tel.: (514) 995-3515</p>
+			<p style="color: #e5e5e5; font-family: Raleway;">info@ttbagroup.com</p>
+
+
+			<div class="site-footer-icons">
+			<a href="https://www.facebook.com/TTBAgroup/"><i class="fa fa-facebook-official"></i></a>
+			<a href="https://twitter.com/GroupeTTBA"><i class="fa fa-twitter"></i></a>
+			<a href="https://www.linkedin.com/company/ttba-event-lab"><i class="fa fa-linkedin"></i></a>
+			<a href="https://www.instagram.com/ttbagroup/"><i class="fa fa-instagram"></i></a>
+			<a href="https://plus.google.com/+Groupettba"><i class="fa fa-google-plus"></i></a>
+			<a href="https://www.youtube.com/user/ttbaevents"><i class="fa fa-youtube-play"></i></a>
+			<a href="https://www.pinterest.com/ttbagroup/"><i class="fa fa-pinterest"></i></a>
+			</div>
+		</div>
+
+		<div class="site-footer-column">
+			<h3 class="site-footer-column-title">Recent blog articles</h3>
+		</div>
+
+		<div class="site-footer-column">
+			<h3 class="site-footer-column-title">Instagram</h3>
+		</div>
+
+		<div class="site-footer-column">
+			<h3 class="site-footer-column-title">Let’s be friends</h3>
+		</div>
+	</div>
+
+	<div class="site-footer-section">
+		<nav class="site-footer-nav">
+			<a href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+			<a href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].services }}</a>
+			<a href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+			<a href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+			<a href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+			<a href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+		</nav>
+
+		<div class="site-footer-copyright">{{ site.copyright[lang] }}</div>
+	</div>
+
+	<div class="site-footer-section">
+		<nav class="site-footer-lang">
+			{% if lang != 'en' %}<a href="./">English</a>{% endif %}
+			{% if lang != 'fr' %}<a href="./fr">Français</a>{% endif %}
+		</nav>
+	</div>
+</footer>

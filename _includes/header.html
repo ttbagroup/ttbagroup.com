@@ -1,0 +1,49 @@
+<header class="site-header">
+	<div class="centered">
+		<a class="site-logo" href="{{ site.baseurl }}/">TTBA group</a>
+
+		<nav class="site-nav">
+			<a class="site-nav-link" href="{% if layout.type %}/{% endif %}#services">Услуги</a>
+			<a class="site-nav-link" href="{% if layout.type %}/{% endif %}#about">О нас</a>
+			<a class="site-nav-link" href="{% if layout.type %}/{% endif %}#contacts">Контакты</a>
+			<span class="site-nav-divider">|</span>
+			<a href="https://www.instagram.com/proakpp/" title="Instagram" class="site-nav-link site-nav-link--social"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+			<a href="https://vk.com/proakpp" title="Vkontakte" class="site-nav-link site-nav-link--social"><i class="fa fa-vk" aria-hidden="true"></i></a>
+		</nav>
+	</div>
+</header>
+
+<style>
+.site-header {
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+	background: rgba(255,255,255,0);
+	transition: .35s ease-in-out;
+	height: 80px;
+	z-index: 1;
+}
+.site-header.sticky {
+	background: rgba(255,255,255,1);
+	height: 40px;
+}
+</style>
+
+<script>
+var shrinkHeader = 300
+var siteHeaderEl = document.querySelector('.site-header')
+window.addEventListener('scroll', function(e) {
+	var scroll = getCurrentScroll()
+
+	if ( scroll >= shrinkHeader ) {
+		siteHeaderEl.classList.add('sticky')
+	}
+	else {
+		siteHeaderEl.classList.remove('sticky')
+	}
+});
+function getCurrentScroll() {
+	return window.pageYOffset || document.documentElement.scrollTop;
+}
+</script>
