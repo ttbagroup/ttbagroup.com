@@ -1,0 +1,8 @@
+<nav class="{{ include.class }} menu">
+	<a class="menu-link" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+	<a class="menu-link" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].services }}</a>
+	<a class="menu-link" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+	<a class="menu-link" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+	<a class="menu-link" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+	<a class="menu-link" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+</nav>

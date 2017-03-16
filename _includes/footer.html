@@ -56,14 +56,7 @@
 	</div>
 
 	<div class="site-footer-section">
-		<nav class="site-footer-nav">
-			<a href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
-			<a href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].services }}</a>
-			<a href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
-			<a href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
-			<a href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
-			<a href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
-		</nav>
+		{% include menu.html class="site-footer-nav" %}
 
 		<div class="site-footer-copyright">{{ site.copyright[lang] }}</div>
 	</div>

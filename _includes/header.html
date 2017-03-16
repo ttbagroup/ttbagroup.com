@@ -1,17 +1,13 @@
 <header class="site-header">
-	<div class="centered">
-		<a class="site-logo" href="{{ site.baseurl }}/">TTBA group</a>
+	<div class="site-header-container">
+		<a class="site-logo" href="{{ site.baseurl }}/">
+			<img class="site-logo-image" src="data:image/webp;base64,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" alt="TTBA Group Logo"/>
+		</a>
 
-		<nav class="site-nav">
-			<a class="site-nav-link" href="{% if layout.type %}/{% endif %}#services">Услуги</a>
-			<a class="site-nav-link" href="{% if layout.type %}/{% endif %}#about">О нас</a>
-			<a class="site-nav-link" href="{% if layout.type %}/{% endif %}#contacts">Контакты</a>
-			<span class="site-nav-divider">|</span>
-			<a href="https://www.instagram.com/proakpp/" title="Instagram" class="site-nav-link site-nav-link--social"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-			<a href="https://vk.com/proakpp" title="Vkontakte" class="site-nav-link site-nav-link--social"><i class="fa fa-vk" aria-hidden="true"></i></a>
-		</nav>
+		{% include menu.html class="site-header-nav" %}
 	</div>
 </header>
+
 
 <style>
 .site-header {
@@ -21,26 +17,96 @@
 	right: 0;
 	background: rgba(255,255,255,0);
 	transition: .35s ease-in-out;
+	line-height: 80px;
 	height: 80px;
-	z-index: 1;
+	z-index: 2;
+	padding-bottom: 5px;
 }
-.site-header.sticky {
+.site-header--sticky {
 	background: rgba(255,255,255,1);
-	height: 40px;
+	line-height: 60px;
+	height: 60px;
+	box-shadow: 0 1px 0 0 rgba(0,0,0,.1);
+}
+.site-header-container {
+	position: relative;
+	max-width: {{ site.style.maxWidth }};
+	margin: 0 auto;
+}
+.site-logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+.site-logo-image {
+	display: block;
+	transition: .25s ease-in-out transform;
+	transform: scale(1);
+	transform-origin: left center;
+}
+.site-header--sticky .site-logo-image {
+	transform: scale(.8);
+}
+.site-header-nav {
+	position: absolute;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto 0;
+	font-family: {{ site.style.navFont }};
+}
+.site-header-nav .menu-link {
+	position: relative;
+	margin: 0 .5rem;
+	padding: 0.75rem 0;
+	text-align: center;
+	text-decoration: none;
+	-webkit-transition: color 0.25s;
+	transition: color 0.25s;
+	color: {{ site.style.navColor }};
+}
+.site-header-nav .menu-link:hover,
+.site-header-nav .menu-link:focus {
+	color: {{ site.style.hoverColor }};
+}
+
+
+/* Prospero */
+.site-header-nav .menu-link::before {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 3px;
+	background: #d94f5c;
+	-webkit-transform: scale3d(0, 1, 1);
+	transform: scale3d(0, 1, 1);
+	-webkit-transition: -webkit-transform 0.1s;
+	transition: transform 0.1s;
+}
+
+.site-header-nav .menu-link:hover::before {
+	-webkit-transform: scale3d(1, 1, 1);
+	transform: scale3d(1, 1, 1);
+	-webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+	-webkit-transition-duration: 0.3s;
+	transition-duration: 0.3s;
 }
 </style>
 
+
 <script>
-var shrinkHeader = 300
+var shrinkHeader = 100
 var siteHeaderEl = document.querySelector('.site-header')
 window.addEventListener('scroll', function(e) {
 	var scroll = getCurrentScroll()
 
 	if ( scroll >= shrinkHeader ) {
-		siteHeaderEl.classList.add('sticky')
+		siteHeaderEl.classList.add('site-header--sticky')
 	}
 	else {
-		siteHeaderEl.classList.remove('sticky')
+		siteHeaderEl.classList.remove('site-header--sticky')
 	}
 });
 function getCurrentScroll() {

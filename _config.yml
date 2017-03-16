@@ -39,6 +39,11 @@ menu:
 copyright:
   en: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
   fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
+style:
+  hoverColor: "#DC4444"
+  navColor: "#898a8c"
+  navFont: "Raleway, Helvetica, Arial, sans-serif"
+  maxWidth: "960px"
 
 email: info@ttbagroup.com
 baseurl: ""
