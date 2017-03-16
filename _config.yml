@@ -44,7 +44,7 @@ style:
   hoverColor: "#DC4444"
   navColor: "#898a8c"
   navFont: "Raleway, Helvetica, Arial, sans-serif"
-  maxWidth: "960px"
+  maxWidth: "1140px"
 
 email: info@ttbagroup.com
 baseurl: ""
