@@ -5,4 +5,7 @@
 	<a class="menu-link {% if page.url == '/blog/' %}menu-link--active{% endif %}" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
 	<a class="menu-link {% if page.url == '/about/' %}menu-link--active{% endif %}" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
 	<a class="menu-link {% if page.url == '/contact/' %}menu-link--active{% endif %}" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+
+	{% if lang != 'en' %}<a class="site-header-lang-link menu-link" href="/en">{% include flag-en.html %} English</a>{% endif %}
+	{% if lang != 'fr' %}<a class="site-header-lang-link menu-link" href="/fr">{% include flag-fr.html %} Français</a>{% endif %}
 </nav>

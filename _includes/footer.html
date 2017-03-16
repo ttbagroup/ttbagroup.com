@@ -55,6 +55,23 @@
 	color: white;
 	text-align: center;
 }
+.site-footer-lang {
+	line-height: 2.4rem;
+}
+.site-footer-lang-link {
+	color: white;
+	text-decoration: none;
+	font-size: .8333rem;
+	transition: .25s linear color;
+	margin: 0 .5rem;
+}
+.site-footer-lang-link .flag {
+	position: relative;
+	margin-bottom: -2px;
+}
+.site-footer-lang-link:hover {
+	color: black;
+}
 </style>
 
 <footer id="footer" class="site-footer">
@@ -122,8 +139,8 @@
 
 	<div class="site-footer-section site-footer-section--lang">
 		<nav class="site-footer-lang">
-			{% if lang != 'en' %}<a href="./">English</a>{% endif %}
-			{% if lang != 'fr' %}<a href="./fr">Français</a>{% endif %}
+			<a class="site-footer-lang-link" href="/en">{% include flag-en.html %} English</a>
+			<a class="site-footer-lang-link" href="/fr">{% include flag-fr.html %} Français</a>
 		</nav>
 	</div>
 </footer>
