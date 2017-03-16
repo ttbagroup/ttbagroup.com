@@ -1,5 +1,64 @@
+<style>
+.site-footer {
+	background: #202224;
+	color: #fff;
+	font-family: {{ site.style.navFont }};
+}
+.site-footer-section {
+}
+.site-footer-section--columns {
+	max-width: {{ site.style.maxWidth }};
+	position: relative;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 2.4rem 0;
+}
+.site-footer-column {
+	width: 25%;
+	float: left;
+}
+.site-footer-column-title {
+	border-bottom: 2px solid white;
+	line-height: 2.4rem;
+	display: inline-block;
+}
+
+.site-footer-section--nav {
+	text-align: center;
+	background: #191B1D;
+	font-size: .8rem;
+	padding: 2.4rem 0;
+}
+.site-footer-nav .menu-link {
+	text-decoration: none;
+	color: white;
+	transition: .25s linear color;
+}
+.site-footer-nav .menu-link::after {
+	content: '|';
+	display: inline-block;
+	margin: .5rem 0;
+	opacity: .5;
+}
+.site-footer-nav .menu-link:last-child::after {
+	content: none;
+}
+.site-footer-nav .menu-link:hover {
+	color: {{ site.style.hoverColor }};
+}
+.site-footer-copyright {
+	color: #6c6f71;
+}
+
+.site-footer-section--lang {
+	background: #CC3333;
+	color: white;
+	text-align: center;
+}
+</style>
+
 <footer id="footer" class="site-footer">
-	<div class="site-footer-section site-footer-columns centered">
+	<div class="site-footer-section site-footer-section--columns">
 		<div class="site-footer-column">
 			<h3 class="site-footer-column-title">Reach us</h3>
 			<div id="footer-map"></div>
@@ -55,16 +114,17 @@
 		</div>
 	</div>
 
-	<div class="site-footer-section">
+	<div class="site-footer-section site-footer-section--nav">
 		{% include menu.html class="site-footer-nav" %}
 
 		<div class="site-footer-copyright">{{ site.copyright[lang] }}</div>
 	</div>
 
-	<div class="site-footer-section">
+	<div class="site-footer-section site-footer-section--lang">
 		<nav class="site-footer-lang">
 			{% if lang != 'en' %}<a href="./">English</a>{% endif %}
 			{% if lang != 'fr' %}<a href="./fr">Français</a>{% endif %}
 		</nav>
 	</div>
 </footer>
+
