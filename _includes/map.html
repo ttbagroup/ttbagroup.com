@@ -1,0 +1,38 @@
+{% assign id=include.id | default: 'map' %}
+
+<style>
+	.map-container {
+		width: 100%;
+        height: {{ include.height | default: 8rem }};
+        overflow: hidden;
+        position: relative;
+        margin-bottom: 1rem;
+    }
+    .map {
+        width: 100%;
+		height: calc(100% + 40px);
+	}
+</style>
+
+<div class="map-container">
+	<div id="{{ id }}" class="map"></div>
+</div>
+
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDh1gTWO5V-HZl2T_9iXLCDPcuLt8aXNc&callback=initMap" async defer></script>
+<script type="text/javascript">
+function initMap() {
+    var mapOptions = {
+        zoom: 15,
+        disableDefaultUI: true,
+        center: new google.maps.LatLng(45.4634237,-73.5965658),
+        styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":13},{"color":"#000000"},{"lightness":13}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":15}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":15},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":11}]}]
+    };
+    var mapElement = document.getElementById('{{ id }}');
+    var map = new google.maps.Map(mapElement, mapOptions);
+    var marker = new google.maps.Marker({
+        position: new google.maps.LatLng(45.4634237,-73.5965658),
+        map: map,
+        title: 'TTBA Group'
+    });
+}
+</script>

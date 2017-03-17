@@ -1,11 +1,28 @@
+{% comment %}
+Menu widget.
+
+Possible params:
+* separator symbol
+
+TODO: automatically generate menu from config
+{% endcomment %}
+
+{% assign sep=include.separator | default: '' %}
+
 <nav class="{{ include.class }} menu">
 	<a class="menu-link {% if page.url == '/' %}menu-link--active{% endif %}" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+	{{sep}}
 	<a class="menu-link {% if page.url == '/services/' %}menu-link--active{% endif %}" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].services }}</a>
+	{{sep}}
 	<a class="menu-link {% if page.url == '/projects/' %}menu-link--active{% endif %}" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+	{{sep}}
 	<a class="menu-link {% if page.url == '/blog/' %}menu-link--active{% endif %}" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+	{{sep}}
 	<a class="menu-link {% if page.url == '/about/' %}menu-link--active{% endif %}" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+	{{sep}}
 	<a class="menu-link {% if page.url == '/contact/' %}menu-link--active{% endif %}" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
-
-	{% if lang != 'en' %}<a class="site-header-lang-link menu-link" href="/en">{% include flag-en.html %} English</a>{% endif %}
-	{% if lang != 'fr' %}<a class="site-header-lang-link menu-link" href="/fr">{% include flag-fr.html %} Français</a>{% endif %}
+	{% if include.nolang != true %}{{ sep }}
+	{% if lang != 'en' %}<a class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} English</a>{% endif %}
+	{% if lang != 'fr' %}<a class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Français</a>{% endif %}
+	{% endif %}
 </nav>

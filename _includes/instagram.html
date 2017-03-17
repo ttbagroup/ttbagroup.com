@@ -1,0 +1,32 @@
+<script type="text/javascript" src="{{ "/assets/instafeed.min.js" | prepend: site.baseurl }}"></script>
+
+<style>
+.insta-feed {
+	position: relative;
+}
+.insta-item {
+	text-decoration: none;
+	width: 33.33%;
+	float: left;
+	border: none!important;
+	position: relative;
+}
+.insta-image {
+	width: 100%;
+	display: block;
+}
+</style>
+
+<div id="instafeed" class="insta-feed"></div>
+
+<script type="text/javascript">
+	var feed = new Instafeed({
+		accessToken: '235480280.3a81a9f.45a7edf8b588430f850c2cec801d3d9f',
+		userId: '235480280',
+		get: 'user',
+		limit: 9,
+		resolution: 'thumbnail',
+		template: {% raw %}'<a class="insta-item" href="{{link}}"><img class="insta-image" src="{{image}}" /></a>'{% endraw %}
+	});
+	feed.run();
+</script>

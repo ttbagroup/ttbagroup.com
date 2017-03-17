@@ -3,6 +3,15 @@
 	background: #202224;
 	color: #fff;
 	font-family: {{ site.style.navFont }};
+	line-height: 1.5;
+}
+.site-footer a {
+	color: white;
+	text-decoration: none;
+	border-bottom: 1px solid rgba(255,255,255,.15);
+}
+.site-footer a:hover {
+	border-bottom: 1px solid rgba(255,255,255,1);
 }
 .site-footer-section {
 }
@@ -16,11 +25,15 @@
 .site-footer-column {
 	width: 25%;
 	float: left;
+	font-size: .95rem;
+	padding-right: 1rem;
+	box-sizing: border-box;
 }
 .site-footer-column-title {
 	border-bottom: 2px solid white;
 	line-height: 2.4rem;
 	display: inline-block;
+	margin-bottom: 1.2rem;
 }
 
 .site-footer-section--nav {
@@ -33,15 +46,6 @@
 	text-decoration: none;
 	color: white;
 	transition: .25s linear color;
-}
-.site-footer-nav .menu-link::after {
-	content: '|';
-	display: inline-block;
-	margin: .5rem 0;
-	opacity: .5;
-}
-.site-footer-nav .menu-link:last-child::after {
-	content: none;
 }
 .site-footer-nav .menu-link:hover {
 	color: {{ site.style.hoverColor }};
@@ -78,34 +82,10 @@
 	<div class="site-footer-section site-footer-section--columns">
 		<div class="site-footer-column">
 			<h3 class="site-footer-column-title">Reach us</h3>
-			<div id="footer-map"></div>
-			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
-			<script type="text/javascript">
-			google.maps.event.addDomListener(window, 'load', init);
 
-			function init() {
-			    var mapOptions = {
-			        zoom: 15,
-			        disableDefaultUI: true,
-			        center: new google.maps.LatLng(45.4634237,-73.5965658),
-			        styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":13},{"color":"#000000"},{"lightness":13}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":15}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":15},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":15}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":11}]}]
-			    };
-			    var mapElement = document.getElementById('footer-map');
-			    var map = new google.maps.Map(mapElement, mapOptions);
-			    var marker = new google.maps.Marker({
-			        position: new google.maps.LatLng(45.4634237,-73.5965658),
-			        map: map,
-			        title: 'TTBA Group'
-			    });
-			}
-			</script>
+			{% include map.html id="footer-map" height="8rem" %}
 
-
-			<p style="color: #e5e5e5; font-family: Raleway;">TTBA Group Inc. | Digital Marketing Agency</p>
-			<p style="color: #e5e5e5; font-family: Raleway;">5538 Rue St-Patrick, Montreal, QC, H4E 1A8</p>
-			<p style="color: #e5e5e5; font-family: Raleway;">Tel.: (514) 995-3515</p>
-			<p style="color: #e5e5e5; font-family: Raleway;">info@ttbagroup.com</p>
-
+			{% include address.html %}
 
 			<div class="site-footer-icons">
 			<a href="https://www.facebook.com/TTBAgroup/"><i class="fa fa-facebook-official"></i></a>
@@ -120,19 +100,26 @@
 
 		<div class="site-footer-column">
 			<h3 class="site-footer-column-title">Recent blog articles</h3>
+			{% assign posts=site.posts|slice: 0,3 %}
+			{% include articles.html posts=posts %}
 		</div>
 
 		<div class="site-footer-column">
 			<h3 class="site-footer-column-title">Instagram</h3>
+
+			{% include instagram.html %}
 		</div>
 
 		<div class="site-footer-column">
 			<h3 class="site-footer-column-title">Let’s be friends</h3>
+
+			<!-- facebook group -->
+			<div class="fb-page" data-href="https://www.facebook.com/TTBAgroup" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/TTBAgroup" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TTBAgroup">TTBA Group</a></blockquote></div>
 		</div>
 	</div>
 
 	<div class="site-footer-section site-footer-section--nav">
-		{% include menu.html class="site-footer-nav" %}
+		{% include menu.html class="site-footer-nav" separator="|" nolang=true %}
 
 		<div class="site-footer-copyright">{{ site.copyright[lang] }}</div>
 	</div>

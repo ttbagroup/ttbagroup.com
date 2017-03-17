@@ -1,0 +1,21 @@
+{% assign posts=include.posts | default: site.posts %}
+
+{% for post in posts %}<article class="article" itemscope itemtype="http://schema.org/BlogPosting" {% if post.hidden %}hidden{% endif %}>
+    <a class="article-link" href="{{ post.url | prepend: site.baseurl }}">
+        {% if post.image %}
+        <figure class="article-figure">
+            <img class="article-image" src="{{ post.image }}" alt="{{ post.title }}"/>
+        </figure>
+        {% endif %}
+        <h4 class="article-title">{{ post.title }}</h4>
+    </a>
+    <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ post.date | date: "%-d" }}
+        {% assign m = post.date | date: "%-m" | minus: 1 %}
+        {{ site.months.ru[m] }}
+        {{ post.date | date: "%Y" }}
+    </time>
+    <div class="article-excerpt">
+        {{ post.excerpt | strip_html | truncatewords: 22 }}
+    </div>
+</article>{% endfor %}
