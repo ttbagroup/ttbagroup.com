@@ -25,22 +25,24 @@
 .site-footer-column {
 	width: 25%;
 	float: left;
-	font-size: .95rem;
-	padding-right: 1rem;
+	font-size: .84rem;
+	padding-right: 1.2rem;
 	box-sizing: border-box;
+	color: #E5E5E5;
 }
 .site-footer-column-title {
 	border-bottom: 2px solid white;
 	line-height: 2.4rem;
 	display: inline-block;
 	margin-bottom: 1.2rem;
+	color: white;
 }
 
 .site-footer-section--nav {
 	text-align: center;
 	background: #191B1D;
 	font-size: .8rem;
-	padding: 2.4rem 0;
+	padding: 3.2rem 0;
 }
 .site-footer-nav .menu-link {
 	text-decoration: none;
@@ -76,6 +78,59 @@
 .site-footer-lang-link:hover {
 	color: black;
 }
+
+.site-footer-social {
+	margin-top: .4rem;
+	margin-left: -2rem;
+}
+.site-footer-social .social-link {
+	position: relative;
+	width: 1.6rem;
+	height: 1.6rem;
+	line-height: 1.6rem;
+	border-bottom: none;
+	display: inline-block;
+	text-align: center;
+}
+.site-footer-social .social-link svg {
+	fill: #A2A2A3;
+	display: inline-block;
+	vertical-align: middle;
+	width: 1rem;
+	height: 1rem;
+	transition: .25s linear fill;
+}
+.site-footer-social .social-link:hover {
+	border: none;
+}
+.site-footer-social .social-link:hover svg {
+	fill: white;
+}
+
+.site-footer .article-figure {
+	margin: 0;
+	float: left;
+}
+.site-footer .article-image {
+	display: block;
+	width: 4rem;
+	height: 4rem;
+	margin-right: .8rem;
+}
+.site-footer .article-title {
+	display: inline;
+}
+.site-footer .article-date {
+	display: none;
+}
+.site-footer .article-excerpt {
+	display: none;
+}
+
+.site-footer-copyright {
+	margin-top: 1.6rem;
+}
+
 </style>
 
 <footer id="footer" class="site-footer">
@@ -87,15 +142,7 @@
 
 			{% include address.html %}
 
-			<div class="site-footer-icons">
-			<a href="https://www.facebook.com/TTBAgroup/"><i class="fa fa-facebook-official"></i></a>
-			<a href="https://twitter.com/GroupeTTBA"><i class="fa fa-twitter"></i></a>
-			<a href="https://www.linkedin.com/company/ttba-event-lab"><i class="fa fa-linkedin"></i></a>
-			<a href="https://www.instagram.com/ttbagroup/"><i class="fa fa-instagram"></i></a>
-			<a href="https://plus.google.com/+Groupettba"><i class="fa fa-google-plus"></i></a>
-			<a href="https://www.youtube.com/user/ttbaevents"><i class="fa fa-youtube-play"></i></a>
-			<a href="https://www.pinterest.com/ttbagroup/"><i class="fa fa-pinterest"></i></a>
-			</div>
+			{% include social.html class="site-footer-social" %}
 		</div>
 
 		<div class="site-footer-column">

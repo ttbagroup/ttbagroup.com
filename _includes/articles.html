@@ -8,14 +8,14 @@
         </figure>
         {% endif %}
         <h4 class="article-title">{{ post.title }}</h4>
+        <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+            {{ post.date | date: "%-d" }}
+            {% assign m = post.date | date: "%-m" | minus: 1 %}
+            {{ site.months.ru[m] }}
+            {{ post.date | date: "%Y" }}
+        </time>
+        <div class="article-excerpt">
+            {{ post.excerpt | strip_html | truncatewords: 22 }}
+        </div>
     </a>
-    <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ post.date | date: "%-d" }}
-        {% assign m = post.date | date: "%-m" | minus: 1 %}
-        {{ site.months.ru[m] }}
-        {{ post.date | date: "%Y" }}
-    </time>
-    <div class="article-excerpt">
-        {{ post.excerpt | strip_html | truncatewords: 22 }}
-    </div>
 </article>{% endfor %}

@@ -31,26 +31,34 @@
 .site-header--sticky .site-header-bar {
 	margin-top: -2.4rem;
 }
-.site-header-bar-social {
+.site-header-social {
 	float: right;
 	margin-left: 1rem;
 }
-.site-header-bar-social-link {
+.site-header-social .social-link {
 	position: relative;
 	width: 2.4rem;
 	height: 2.4rem;
 	float: left;
 	text-align: center;
+	transition: .25s linear background;
 	border-left: 1px solid rgba(255,255,255,.25);
+	background: rgba(255,255,255,0);
 }
-.site-header-bar-social-link svg {
+.site-header-social .social-link svg {
 	fill: white;
 	display: inline-block;
 	vertical-align: middle;
 	width: .8rem;
 	height: .8rem;
 }
+.site-header-social .social-link:hover {
+	background: rgba(255,255,255,.25);
+}
 .site-header-bar-slogan {
+	float: right;
+}
+.site-header-slogan {
 	text-align: right;
 }
 .site-header-bar-content,
@@ -134,15 +142,7 @@
 <header class="site-header">
 	<div class="site-header-bar">
 		<div class="site-header-bar-content">
-			<nav class="site-header-bar-social">
-				<a class="site-header-bar-social-link" href="https://www.facebook.com/TTBAgroup/">{% include facebook.svg %}</a>
-				<a class="site-header-bar-social-link" href="https://twitter.com/GroupeTTBA">{% include twitter.svg %}</a>
-				<a class="site-header-bar-social-link" href="https://plus.google.com/+Groupettba">{% include googleplus.svg %}</a>
-				<a class="site-header-bar-social-link" href="https://www.linkedin.com/company/ttba-event-lab">{% include linkedin.svg %}</a>
-				<a class="site-header-bar-social-link" href="https://www.pinterest.com/ttbagroup/">{% include pinterest.svg %}</a>
-				<a class="site-header-bar-social-link" href="https://www.youtube.com/user/ttbaevents">{% include youtube.svg %}</a>
-				<a class="site-header-bar-social-link" href="https://ttbagroup.com/en/web-marketing-blog/">{% include rss.svg %}</a>
-			</nav>
+			{% include social.html class="site-header-social" %}
 			<div class="site-header-bar-slogan">
 				{{ site.tagline[lang] }}
 			</div>
@@ -162,7 +162,7 @@
 
 
 <script>
-var shrinkHeader = 100
+var shrinkHeader = 10
 var siteHeaderEl = document.querySelector('.site-header')
 window.addEventListener('scroll', function(e) {
 	var scroll = getCurrentScroll()
