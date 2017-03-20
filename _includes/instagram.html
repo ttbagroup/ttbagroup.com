@@ -7,7 +7,7 @@
 }
 .insta-item {
 	text-decoration: none;
-	/*width: 33.33%;*/
+	width: 33.33%;
 	float: left;
 	box-sizing: border-box;
     padding: 0 0.2rem .2rem 0;
@@ -59,7 +59,7 @@
 			get: 'user',
 			limit: 9,
 			resolution: 'thumbnail',
-			template: {% raw %}'<a class="insta-item" href="{{link}}"><img class="insta-image" src="{{image}}" /></a>'{% endraw %}
+			template: {% raw %}'<a class="insta-item" href="{{link}}"><!--<img class="insta-image" src="{{image}}"/>--></a>'{% endraw %}
 		});
 		feed.run();
 	})
