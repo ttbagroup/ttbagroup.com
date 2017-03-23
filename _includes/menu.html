@@ -74,7 +74,7 @@
 	position: absolute;
 	left: -1.2rem;
 	top: 100%;
-	padding-top: 14px;
+	padding-top: 16px;
 	display: block;
 	visibility: hidden;
 }
@@ -85,7 +85,8 @@
 	box-sizing: border-box;
 	white-space: nowrap;
 	display: block;
-	box-shadow: 0 2px 8px 0px rgba(0,0,0,0.15);
+	box-shadow: 0 2px 2px 0px rgba(0,0,0,0.15);
+	border-bottom: 1px solid rgb(243, 243, 243);
 	text-align: left;
 	line-height: 2.4rem;
 	min-height: 2.4rem;
@@ -96,7 +97,7 @@
 	min-width: 10rem;
 	font-size: .9em;
 	padding: 0 1.2rem;
-	margin-top: 2px;
+	margin-top: 0;
 	-webkit-backface-visibility: hidden;
 	-webkit-touch-callout: none;
 	-webkit-user-select: none;
@@ -151,7 +152,7 @@
 	transition: color 0.25s;
 	font-weight: 100;
 }
-.menu-dropdown-item .menu-link:hover {
+.menu-dropdown-item:hover .menu-link {
 	color: {{ site.style.hoverColor }};
 }
 .menu-dropdown-item::after {
