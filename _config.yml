@@ -29,6 +29,12 @@ menu:
     blog: "Our Work"
     about: "About"
     contact: "Contact us"
+    website_design: "Website Design"
+    sm_reputation: "Social Media & Online Reputation"
+    seo: "Search Engine Optimization (SEO)"
+    online_ad: "Online Advertising (Adwords & PPC)"
+    branding: "Branding and Graphic Design"
+    video: "Video Production"
   fr:
     home: "L’Agence"
     services: "Services"
@@ -36,6 +42,12 @@ menu:
     blog: "Blogue"
     about: "À propos"
     contact: "Contact"
+    website_design: "Conception de sites web"
+    sm_reputation: "Gestion des médias sociaux"
+    seo: "Référencement naturel (SEO)"
+    online_ad: "Publicité en ligne"
+    branding: "Branding et graphisme"
+    video: "Vidéographie"
 copyright:
   en: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
   fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
@@ -43,7 +55,7 @@ copyright:
 style:
   hoverColor: "#DC4444"
   navColor: "#898a8c"
-  navFont: "Raleway, Helvetica, Arial, sans-serif"
+  navFont: "Roboto, Helvetica, Arial, sans-serif"
   maxWidth: "1140px"
 
 email: info@ttbagroup.com
