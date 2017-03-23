@@ -1,28 +1,173 @@
-{% comment %}
-Menu widget.
-
-Possible params:
-* separator symbol
-
-TODO: automatically generate menu from config
-{% endcomment %}
-
 {% assign sep=include.separator | default: '' %}
+{% assign dropdown=include.dropdown | defult: false %}
 
 <nav class="{{ include.class }} menu">
-	<a class="menu-link {% if page.url == '/' %}menu-link--active{% endif %}" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+	<div class="menu-item {% if page.url == '/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/services/' %}menu-link--active{% endif %}" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].services }}</a>
+	<div class="menu-item">
+		<a class="menu-link{% if page.url == '/services/' %}menu-item--active{% endif %}" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">
+			{{ site.menu[lang].services }}
+		</a>
+		{% if include.dropdown == true %}
+		<ul class="menu-dropdown">
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].website_design }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].sm_reputation }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].seo }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].online_ad }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].branding }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].video }}</a></li>
+		</ul>
+		{% endif %}
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/projects/' %}menu-link--active{% endif %}" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+	<div class="menu-item {% if page.url == '/projects/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/blog/' %}menu-link--active{% endif %}" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+	<div class="menu-item {% if page.url == '/blog/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/about/' %}menu-link--active{% endif %}" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+	<div class="menu-item {% if page.url == '/about/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+		{% if include.dropdown == true %}
+		<ul class="menu-dropdown">
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].team }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].careers }}</a></li>
+			<!--<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].frontend }}</a></li>-->
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].internship }}</a></li>
+		</ul>
+		{% endif %}
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/contact/' %}menu-link--active{% endif %}" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+	<div class="menu-item {% if page.url == '/contact/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+	</div>
 	{% if include.nolang != true %}{{ sep }}
-	{% if lang != 'en' %}<a class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} English</a>{% endif %}
-	{% if lang != 'fr' %}<a class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Français</a>{% endif %}
+	{% if lang != 'en' %}
+	<div class="menu-item">
+		<a class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} En</a>
+	</div>
+	{% endif %}
+	{% if lang != 'fr' %}
+	<div class="menu-item">
+		<a class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Fr</a>
+	</div>
+	{% endif %}
 	{% endif %}
 </nav>
+
+<style>
+.menu-item {
+	position: relative;
+	display: inline-block;
+}
+.menu-link {
+	cursor: pointer;
+}
+.menu-dropdown {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: -1.2rem;
+	top: 100%;
+	padding-top: 14px;
+	display: block;
+	visibility: hidden;
+}
+.menu-item:hover .menu-dropdown {
+	visibility: visible;
+}
+.menu-dropdown-item {
+	box-sizing: border-box;
+	white-space: nowrap;
+	display: block;
+	box-shadow: 0 2px 8px 0px rgba(0,0,0,0.15);
+	text-align: left;
+	line-height: 2.4rem;
+	min-height: 2.4rem;
+	background: #fff;
+	position: relative;
+	transition: .25s ease-in-out;
+	opacity: 0;
+	min-width: 10rem;
+	font-size: .9em;
+	padding: 0 1.2rem;
+	margin-top: 2px;
+	-webkit-backface-visibility: hidden;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+.menu-dropdown-item:nth-child(0) {
+	transition-delay: .025s;
+}
+.menu-dropdown-item:nth-child(1) {
+	transition-delay: .05s;
+}
+.menu-dropdown-item:nth-child(2) {
+	transition-delay: .075s;
+}
+.menu-dropdown-item:nth-child(3) {
+	transition-delay: .1s;
+}
+.menu-dropdown-item:nth-child(4) {
+	transition-delay: .125s;
+}
+.menu-dropdown-item:nth-child(5) {
+	transition-delay: .15s;
+}
+.menu-dropdown-item:nth-child(6) {
+	transition-delay: .175s;
+}
+.menu-dropdown-item:nth-child(7) {
+	transition-delay: .2s;
+}
+.menu-dropdown-item:nth-child(8) {
+	transition-delay: .225s;
+}
+.menu-dropdown-item:nth-child(even) {
+	transform: translate3d(-4rem, 0, 0);
+}
+.menu-dropdown-item:nth-child(odd) {
+	transform: translate3d(4rem, 0, 0);
+}
+.menu-item:hover .menu-dropdown-item {
+	opacity: 1;
+	transform: translate3d(0, 0, 0);
+}
+
+.menu-dropdown-item .menu-link {
+	cursor: pointer;
+	color: #a9aaac;
+	text-decoration: none;
+	-webkit-transition: color 0.25s;
+	transition: color 0.25s;
+	font-weight: 100;
+}
+.menu-dropdown-item .menu-link:hover {
+	color: {{ site.style.hoverColor }};
+}
+.menu-dropdown-item::after {
+}
+.menu-dropdown-item:hover::after {
+	content: '';
+	left: 0;
+	top: 0;
+	bottom: 0;
+	width: 2px;
+	z-index: 2;
+	position: absolute;
+	background: {{ site.style.hoverColor }};
+}
+
+.menu-link--lang .flag {
+	margin-right: .2rem;
+}
+</style>
