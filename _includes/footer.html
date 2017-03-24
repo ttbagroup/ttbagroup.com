@@ -21,23 +21,40 @@
 	position: relative;
 	margin: 0 auto;
 	overflow: hidden;
-	padding: 2.4rem 0;
 }
 .site-footer-column {
 	width: 25%;
 	float: left;
 	font-size: .84rem;
-	padding-right: 1.6rem;
+	padding: 2.4rem 1.6rem 2.4rem 0;
 	box-sizing: border-box;
 	color: #E5E5E5;
 }
+@media (max-width: 640px) {
+	.site-footer-column {
+		width: 100%;
+		float: none;
+		padding: 2.4rem 1.6rem;
+		text-align: center;
+	}
+}
+.site-footer-column--2 {
+	display: none;
+}
+.site-footer-column--3 {
+	display: none;
+}
+.site-footer-column--4 {
+	display: none;
+}
 .site-footer-column-title {
 	border-bottom: 2px solid white;
-	line-height: 2.4rem;
+	line-height: 1.3;
+	padding: .4rem 0;
 	font-size: 1.2rem;
 	font-weight: 500;
 	display: inline-block;
-	margin-bottom: 2rem;
+	margin-bottom: 1.6rem;
 	color: white;
 }
 
@@ -97,6 +114,11 @@
 	margin-top: .8rem;
 	margin-left: -2rem;
 }
+@media (max-width: 640px) {
+	.site-footer-social {
+		margin-left: -.2rem;
+	}
+}
 .site-footer-social .social-link {
 	position: relative;
 	width: 1.6rem;
@@ -149,7 +171,7 @@
 
 <footer id="footer" class="site-footer">
 	<div class="site-footer-section site-footer-section--columns">
-		<div class="site-footer-column">
+		<div class="site-footer-column site-footer-column--1">
 			<h3 class="site-footer-column-title">Reach us</h3>
 
 			{% include map.html id="footer-map" height="8rem" %}
@@ -159,19 +181,19 @@
 			{% include social.html class="site-footer-social" %}
 		</div>
 
-		<div class="site-footer-column">
+		<div class="site-footer-column site-footer-column--2">
 			<h3 class="site-footer-column-title">Recent blog articles</h3>
 			{% assign posts=site.posts|slice: 0,3 %}
 			{% include articles.html posts=posts %}
 		</div>
 
-		<div class="site-footer-column">
+		<div class="site-footer-column site-footer-column--3">
 			<h3 class="site-footer-column-title">Instagram</h3>
 
 			{% include instagram.html %}
 		</div>
 
-		<div class="site-footer-column">
+		<div class="site-footer-column site-footer-column--4">
 			<h3 class="site-footer-column-title">Let’s be friends</h3>
 
 			<!-- facebook group -->
