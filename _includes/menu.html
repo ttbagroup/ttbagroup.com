@@ -1,28 +1,87 @@
-{% comment %}
-Menu widget.
-
-Possible params:
-* separator symbol
-
-TODO: automatically generate menu from config
-{% endcomment %}
-
 {% assign sep=include.separator | default: '' %}
+{% assign dropdown=include.dropdown | defult: false %}
+{% assign toggle=include.toggle | defult: false %}
 
+
+{% if toggle == true %}
+<button class="hamburger hamburger--slider menu-toggle" type="button" aria-label="Menu" role="button" aria-controls="navigation">
+	<span class="hamburger-box">
+		<span class="hamburger-inner"></span>
+	</span>
+</button>
+{% endif %}
 <nav class="{{ include.class }} menu">
-	<a class="menu-link {% if page.url == '/' %}menu-link--active{% endif %}" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+	<div class="menu-item {% if page.url == '/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/services/' %}menu-link--active{% endif %}" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].services }}</a>
+	<div class="menu-item">
+		<a class="menu-link{% if page.url == '/services/' %}menu-item--active{% endif %}" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">
+			{{ site.menu[lang].services }}
+		</a>
+		{% if include.dropdown == true %}
+		<ul class="menu-dropdown">
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].website_design }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].sm_reputation }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].seo }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].online_ad }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].branding }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].video }}</a></li>
+		</ul>
+		{% endif %}
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/projects/' %}menu-link--active{% endif %}" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+	<div class="menu-item {% if page.url == '/projects/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/blog/' %}menu-link--active{% endif %}" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+	<div class="menu-item {% if page.url == '/blog/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/about/' %}menu-link--active{% endif %}" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+	<div class="menu-item {% if page.url == '/about/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+		{% if include.dropdown == true %}
+		<ul class="menu-dropdown">
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].team }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].careers }}</a></li>
+			<!--<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].frontend }}</a></li>-->
+			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].internship }}</a></li>
+		</ul>
+		{% endif %}
+	</div>
 	{{sep}}
-	<a class="menu-link {% if page.url == '/contact/' %}menu-link--active{% endif %}" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+	<div class="menu-item {% if page.url == '/contact/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
+	</div>
 	{% if include.nolang != true %}{{ sep }}
-	{% if lang != 'en' %}<a class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} English</a>{% endif %}
-	{% if lang != 'fr' %}<a class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Français</a>{% endif %}
+	{% if lang != 'en' %}
+	<div class="menu-item">
+		<a class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} En</a>
+	</div>
+	{% endif %}
+	{% if lang != 'fr' %}
+	<div class="menu-item">
+		<a class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Fr</a>
+	</div>
+	{% endif %}
 	{% endif %}
 </nav>
+
+{% if toggle == true %}
+<script>
+var menuToggles = document.querySelectorAll('.menu-toggle')
+var menuToggle = menuToggles[menuToggles.length - 1]
+menuToggle.addEventListener('touchstart', toggleMenu)
+
+function toggleMenu () {
+	if (menuToggle.classList.contains('is-active')) {
+		menuToggle.classList.remove('is-active')
+	}
+	else {
+		menuToggle.classList.add('is-active')
+	}
+}
+</script>
+{% endif %}
+
