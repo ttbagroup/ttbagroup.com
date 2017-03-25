@@ -49,18 +49,20 @@
 </div>
 
 
-<script type="text/javascript" src="/assets/instafeed.min.js" defer async></script>
+<script type="text/javascript" src="{{ site.assetsurl }}/instafeed.min.js" defer async></script>
 
 <script type="text/javascript">
-	window.addEventListener('load', function () {
-		var feed = new Instafeed({
-			accessToken: '235480280.3a81a9f.45a7edf8b588430f850c2cec801d3d9f',
-			userId: '235480280',
-			get: 'user',
-			limit: 9,
-			resolution: 'thumbnail',
-			template: {% raw %}'<a class="insta-item" href="{{link}}"><img class="insta-image" src="{{image}}"/></a>'{% endraw %}
-		});
-		feed.run();
-	})
+	if (!/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+		window.addEventListener('load', function () {
+			var feed = new Instafeed({
+				accessToken: '235480280.3a81a9f.45a7edf8b588430f850c2cec801d3d9f',
+				userId: '235480280',
+				get: 'user',
+				limit: 9,
+				resolution: 'thumbnail',
+				template: {% raw %}'<a class="insta-item" href="{{link}}"><img class="insta-image" src="{{image}}"/></a>'{% endraw %}
+			});
+			feed.run();
+		})
+	}
 </script>
