@@ -11,12 +11,12 @@
 </button>
 {% endif %}
 <nav class="{{ include.class }} menu">
-	<div class="menu-item {% if page.url == '/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].home }}</a>
-	</div>
+	<a class="menu-item {% if page.url == '/' %}menu-item--active{% endif %}" href="/{% if lang != 'en' %}{{ lang }}{% endif %}">
+		<span class="menu-link">{{ site.menu[lang].home }}</span>
+	</a>
 	{{sep}}
-	<div class="menu-item">
-		<a class="menu-link{% if page.url == '/services/' %}menu-item--active{% endif %}" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">
+	<div class="menu-item menu-item--dropdown {% if page.url == '/services/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">
 			{{ site.menu[lang].services }}
 		</a>
 		{% if include.dropdown == true %}
@@ -31,15 +31,15 @@
 		{% endif %}
 	</div>
 	{{sep}}
-	<div class="menu-item {% if page.url == '/projects/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</a>
-	</div>
+	<a class="menu-item {% if page.url == '/projects/' %}menu-item--active{% endif %}">
+		<span class="menu-link" href="/projects/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].projects }}</span>
+	</a>
 	{{sep}}
-	<div class="menu-item {% if page.url == '/blog/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</a>
-	</div>
+	<a class="menu-item {% if page.url == '/blog/' %}menu-item--active{% endif %}">
+		<span class="menu-link" href="/blog/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].blog }}</span>
+	</a>
 	{{sep}}
-	<div class="menu-item {% if page.url == '/about/' %}menu-item--active{% endif %}">
+	<div class="menu-item menu-item--dropdown {% if page.url == '/about/' %}menu-item--active{% endif %}">
 		<a class="menu-link" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
 		{% if include.dropdown == true %}
 		<ul class="menu-dropdown">
@@ -51,19 +51,19 @@
 		{% endif %}
 	</div>
 	{{sep}}
-	<div class="menu-item {% if page.url == '/contact/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</a>
-	</div>
+	<a class="menu-item {% if page.url == '/contact/' %}menu-item--active{% endif %}">
+		<span class="menu-link" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].contact }}</span>
+	</a>
 	{% if include.nolang != true %}{{ sep }}
 	{% if lang != 'en' %}
-	<div class="menu-item">
-		<a class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} En</a>
-	</div>
+	<a class="menu-item">
+		<span class="menu-link menu-link--lang" href="/en">{% include flag-en.html %} En</span>
+	</a>
 	{% endif %}
 	{% if lang != 'fr' %}
-	<div class="menu-item">
-		<a class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Fr</a>
-	</div>
+	<a class="menu-item">
+		<span class="menu-link menu-link--lang" href="/fr">{% include flag-fr.html %} Fr</span>
+	</a>
 	{% endif %}
 	{% endif %}
 </nav>
@@ -75,12 +75,48 @@ var menuToggle = menuToggles[menuToggles.length - 1]
 menuToggle.addEventListener('touchstart', toggleMenu)
 
 function toggleMenu () {
-	if (menuToggle.classList.contains('is-active')) {
+	if (menuToggle.classList.contains('menu-toggle--active')) {
+		menuToggle.classList.remove('menu-toggle--active')
 		menuToggle.classList.remove('is-active')
+
+		hidedDDs()
 	}
 	else {
+		menuToggle.classList.add('menu-toggle--active')
 		menuToggle.classList.add('is-active')
 	}
 }
+
+//FIXME: overinit dropdowns here
+var ddToggles = document.querySelectorAll('.menu-item--dropdown')
+for (var i = 0; i < ddToggles.length; i++) {
+	initDD(ddToggles[i])
+}
+
+function initDD (ddToggle) {
+	if (ddToggle.getAttribute('data-dropdown')) return;
+	ddToggle.setAttribute('data-dropdown', true);
+	ddToggle.addEventListener('touchend', function () {
+		hidedDDs(ddToggle)
+
+		if (ddToggle.classList.contains('menu-item--opened')) {
+			ddToggle.classList.remove('menu-item--opened')
+		}
+		else {
+			ddToggle.classList.add('menu-item--opened')
+		}
+	})
+}
+
+function hidedDDs (ddToggle) {
+	var dds = document.querySelectorAll('.menu-item--opened')
+
+	for (var j = 0; j < dds.length; j++) {
+		if (dds[j] !== ddToggle) {
+			dds[j].classList.remove('menu-item--opened')
+		}
+	}
+}
+
 </script>
 {% endif %}
