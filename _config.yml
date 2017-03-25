@@ -68,6 +68,7 @@ style:
 
 email: info@ttbagroup.com
 baseurl: ""
+assetsurl: "https://ttbagroup.com/assets"
 url: "http://ttbagroup.com"
 twitter_username: ttbagroup
 github_username:  ttbagroup
