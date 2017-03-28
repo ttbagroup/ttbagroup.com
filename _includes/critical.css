@@ -1,0 +1,356 @@
+img { color: gray; text-align: center; }
+
+.site-header {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  transition: .35s ease-in-out;
+  line-height: 4.8rem;
+  box-sizing: border-box;
+  z-index: 3;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  background: rgba(255,255,255,1);
+  box-shadow: 0 1px 1px 0 rgba(0,0,0,.15);
+}
+.site-header--transparent:not(.site-header--sticky) {
+  background: rgba(255,255,255,0);
+  box-shadow: none;
+  line-height: 6.4rem;
+}
+@media (min-width: 640px) {
+  .site-header {
+    position: fixed;
+  }
+  .site-header--sticky {
+    line-height: 3.2rem;
+  }
+}
+.site-header-bar {
+  background: #DC4444;
+  color: white;
+  line-height: 2.4rem;
+  height: 2.4rem;
+  font-size: .8rem;
+  font-weight: 200;
+  transition: .25s ease-in-out margin;
+  margin-top: 0;
+  position: relative;
+  white-space: nowrap;
+}
+@media (min-width: 640px) {
+  .site-header--sticky .site-header-bar {
+    margin-top: -2.4rem;
+  }
+}
+.site-header-social {
+  float: right;
+  margin-left: 1rem;
+}
+.site-header-social .social-link {
+  position: relative;
+  width: 2.4rem;
+  height: 2.4rem;
+  display: inline-block;
+  text-align: center;
+  transition: .25s linear background;
+  border-left: 1px solid rgba(255,255,255,.25);
+  background: rgba(255,255,255,0);
+}
+.site-header-social .social-link svg {
+  fill: white;
+  display: inline-block;
+  vertical-align: middle;
+  width: .8rem;
+  height: .8rem;
+}
+.site-header-social .social-link:hover {
+  background: rgba(255,255,255,.25);
+}
+.site-header-bar-slogan {
+  text-align: right;
+}
+@media (max-width: 640px) {
+  .site-header-bar-slogan {
+    display: none;
+  }
+}
+.site-header-bar-content,
+.site-header-main {
+  position: relative;
+  max-width: 1180px;
+  margin: 0 auto .2rem;
+}
+.site-logo {
+  display: inline-block;
+  vertical-align: middle;
+}
+.site-logo-image {
+  display: block;
+  transition: .25s ease-in-out transform;
+  transform: scale(1);
+  transform-origin: left center;
+}
+@media (max-width: 640px) {
+  .site-header-main {
+    text-align: center;
+  }
+  .site-logo-image {
+    transform-origin: center center;
+  }
+}
+@media (min-width: 640px) {
+  .site-header--sticky .site-logo-image {
+    transform: scale(.8);
+  }
+}
+@media (max-width: 640px) {
+  .site-header-main {
+    text-align: center;
+  }
+}
+
+.site-header-nav {
+  position: absolute;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto 0;
+}
+.site-header-nav .menu-item {
+  position: relative;
+  font-size: .95rem;
+  margin: 0 .75rem;
+  padding: 0 0;
+  display: inline-block;
+  line-height: 2rem;
+  text-align: center;
+  text-decoration: none;
+}
+.site-header-nav .menu-item > .menu-link {
+  text-decoration: none;
+  -webkit-transition 0.25s;
+  transition: 0.25s;
+  font-weight: 200;
+  color: #898a8c;
+}
+.site-header-nav .menu-item:hover > .menu-link,
+.site-header-nav .menu-item--active > .menu-link,
+.site-header-nav .menu-item:focus > .menu-link {
+  color: #DC4444;
+}
+.site-header-nav .menu-item .flag {
+  position: relative;
+}
+
+/* Prospero */
+.site-header-nav .menu-item::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: #d94f5c;
+  -webkit-transform: scale3d(0, 1, 1);
+  transform: scale3d(0, 1, 1);
+  -webkit-transition: -webkit-transform 0.1s;
+  transition: transform 0.1s;
+}
+
+.site-header-nav .menu-item:focus::before,
+.site-header-nav .menu-item--active::before,
+.site-header-nav .menu-item:hover::before {
+  -webkit-transform: scale3d(1, 1, 1);
+  transform: scale3d(1, 1, 1);
+  -webkit-transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+
+.site-header ~ .site-content {
+  margin-top: 7.4rem;
+}
+.site-header--transparent ~ .site-content {
+  margin-top: 2.4rem;
+}
+
+
+
+/*!
+ * Hamburgers excerpt
+ * @description Tasty CSS-animated hamburgers
+ * @author Jonathan Suh @jonsuh
+ * @site https://jonsuh.com/hamburgers
+ * @link https://github.com/jonsuh/hamburgers
+ */
+.hamburger {
+  padding: 15px 15px;
+  display: inline-block;
+  cursor: pointer;
+  transition-property: opacity, filter;
+  transition-duration: 0.15s;
+  transition-timing-function: linear;
+  font: inherit;
+  color: inherit;
+  text-transform: none;
+  background-color: transparent;
+  border: 0;
+  margin: 0;
+  overflow: visible; }
+  .hamburger:hover {
+    opacity: 0.7; }
+
+.hamburger-box {
+  width: 40px;
+  height: 24px;
+  display: inline-block;
+  position: relative; }
+
+.hamburger-inner {
+  display: block;
+  top: 50%;
+  margin-top: -2px; }
+  .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
+    width: 40px;
+    height: 4px;
+    background-color: #000;
+    border-radius: 4px;
+    position: absolute;
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease; }
+  .hamburger-inner::before, .hamburger-inner::after {
+    content: "";
+    display: block; }
+  .hamburger-inner::before {
+    top: -10px; }
+  .hamburger-inner::after {
+    bottom: -10px; }
+
+
+/*
+   * Slider
+   */
+.hamburger--slider .hamburger-inner {
+  top: 2px; }
+  .hamburger--slider .hamburger-inner::before {
+    top: 10px;
+    transition-property: transform, opacity;
+    transition-timing-function: ease;
+    transition-duration: 0.15s; }
+  .hamburger--slider .hamburger-inner::after {
+    top: 20px; }
+
+.hamburger--slider.is-active .hamburger-inner {
+  transform: translate3d(0, 10px, 0) rotate(45deg); }
+  .hamburger--slider.is-active .hamburger-inner::before {
+    transform: rotate(-45deg) translate3d(-5.71429px, -6px, 0);
+    opacity: 0; }
+  .hamburger--slider.is-active .hamburger-inner::after {
+    transform: translate3d(0, -20px, 0) rotate(-90deg); }
+
+
+.menu-toggle {
+  transform: scale(.7);
+  outline: none;
+  box-shadow: none;
+  position: absolute;
+  top: 0;
+  right: 1.2rem;
+  padding: 0;
+  z-index: 3;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  tap-highlight-color: rgba(0,0,0,0);
+
+}
+.menu-toggle:active {
+  background: none;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  tap-highlight-color: rgba(0,0,0,0);
+}
+.menu-toggle .hamburger-box {
+  vertical-align: middle;
+}
+
+@media (max-width: 640px) {
+  .site-logo {
+    margin-left: -2.4rem;
+  }
+}
+
+@media (min-width: 640px) {
+  .menu-toggle {
+    display: none;
+  }
+}
+
+.menu-item {
+  position: relative;
+  display: inline-block;
+}
+.menu-link {
+  cursor: pointer;
+}
+.menu-dropdown {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  left: -1.2rem;
+  top: 100%;
+  padding-top: 16px;
+  display: block;
+  visibility: hidden;
+}
+
+
+
+@media (max-width: 640px) {
+  .menu {
+    overflow: hidden;
+    pointer-events: none;
+  }
+
+  .site-header--sticky .menu-toggle {
+    position: fixed;
+  }
+  .site-header--sticky .menu {
+    position: fixed;
+  }
+
+  .site-header-nav {
+    bottom: auto;
+    top: 5.2rem;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 1.2rem;
+  }
+
+  .site-header-nav .menu-item {
+    box-sizing: border-box;
+    white-space: nowrap;
+    display: block;
+    box-shadow: 0 2px 13px 0px rgba(0,0,0,0.15);
+    border-bottom: 1px solid rgb(243, 243, 243);
+    text-align: left;
+    line-height: 3.2rem;
+    min-height: 3.2rem;
+    margin: 0;
+    background: #fff;
+    position: relative;
+    transition: .25s ease-in-out;
+    opacity: 0;
+    font-size: 1rem;
+    padding: 0 1rem 0 1.4rem;
+    margin-top: 0;
+    -webkit-backface-visibility: hidden;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+}
