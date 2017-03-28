@@ -47,7 +47,6 @@
 		<ul class="menu-dropdown">
 			<li class="menu-dropdown-item"><a class="menu-link" href="/our-montreal-marketing-team/">{{ site.menu[lang].team }}</a></li>
 			<li class="menu-dropdown-item"><a class="menu-link" href="/careers/">{{ site.menu[lang].careers }}</a></li>
-			<!--<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].frontend }}</a></li>-->
 			<li class="menu-dropdown-item"><a class="menu-link" href="/social-media-internship/">{{ site.menu[lang].internship }}</a></li>
 		</ul>
 		{% endif %}
@@ -57,13 +56,16 @@
 		<span class="menu-link">{{ site.menu[lang].contact }}</span>
 	</a>
 	{% if include.nolang != true %}{{ sep }}
+
 	{% if lang != 'en' %}
-	<a class="menu-item" href="/en">
+	{% assign pages = site.pages | where:"ref", page.ref | where:"lang", "en" %}
+	<a class="menu-item" href="{{ pages.first.permalink }}">
 		<span class="menu-link menu-link--lang">{% include flag-en.html %} En</span>
 	</a>
 	{% endif %}
 	{% if lang != 'fr' %}
-	<a class="menu-item" href="/fr">
+	{% assign pages = site.pages | where:"ref", page.ref | where:"lang", "fr" %}
+	<a class="menu-item" href="{{ pages.first.permalink }}">
 		<span class="menu-link menu-link--lang">{% include flag-fr.html %} Fr</span>
 	</a>
 	{% endif %}
