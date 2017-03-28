@@ -25,8 +25,8 @@ menu:
   en:
     home: "Agency"
     services: "Services"
-    projects: "Insights"
-    blog: "Our Work"
+    blog: "Insights"
+    projects: "Our Work"
     about: "About"
     contact: "Contact us"
     website_design: "Web Design"
@@ -59,12 +59,6 @@ menu:
 copyright:
   en: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
   fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
-
-style:
-  hoverColor: "#DC4444"
-  navColor: "#898a8c"
-  navFont: "Open Sans, Helvetica, Arial, sans-serif"
-  maxWidth: "1180px"
 
 email: info@ttbagroup.com
 baseurl: ""
