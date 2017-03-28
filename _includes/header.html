@@ -4,23 +4,25 @@
 	left: 0;
 	top: 0;
 	right: 0;
-	background: rgba(255,255,255,0);
 	transition: .35s ease-in-out;
-	line-height: 6rem;
-	height: 6rem;
+	line-height: 4.8rem;
 	box-sizing: border-box;
 	z-index: 3;
 	font-family: {{ site.style.navFont }};
+	background: rgba(255,255,255,1);
+	box-shadow: 0 1px 1px 0 rgba(0,0,0,.15);
+}
+.site-header--transparent:not(.site-header--sticky) {
+	background: rgba(255,255,255,0);
+	box-shadow: none;
+	line-height: 6.4rem;
 }
 @media (min-width: 640px) {
 	.site-header {
 		position: fixed;
 	}
 	.site-header--sticky {
-		background: rgba(255,255,255,1);
 		line-height: 3.2rem;
-		height: 3.42rem;
-		box-shadow: 0 1px 1px 0 rgba(0,0,0,.15);
 	}
 }
 .site-header-bar {
@@ -76,7 +78,7 @@
 .site-header-main {
 	position: relative;
 	max-width: {{ site.style.maxWidth }};
-	margin: 0 auto;
+	margin: 0 auto .2rem;
 }
 .site-logo {
 	display: inline-block;
@@ -554,8 +556,7 @@
 }
 </style>
 
-
-<header class="site-header">
+<header class="site-header{% if page.transparent %} site-header--transparent{% endif %}">
 	<div class="site-header-bar">
 		<div class="site-header-bar-content">
 			{% include social.html class="site-header-social" %}
@@ -574,7 +575,6 @@
 
 	</div>
 </header>
-
 
 
 
@@ -606,7 +606,8 @@ function getCurrentScroll() {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
-  js.src = "{{ site.assetsurl }}/fb-sdk.js";//"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  // js.src = "{{ site.assetsurl }}/fb-sdk.js";
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));
 

@@ -1,0 +1,28 @@
+<!doctype html>
+
+{% assign lang=page.lang | default: 'en' %}
+
+<html lang="{{ lang }}" class="no-js">
+
+	{% include head.html %}
+
+	<!-- slightly modified default.html to allow for easy tilda copy-paste insertions.
+	Note that this is not the optimal according to speed insights -->
+	<link rel="stylesheet" href="https://cdn.rawgit.com/ttbagroup/ttbagroup.github.io/master/assets/tilda.css" rel="stylesheet" media="screen">
+	<script
+	  src="https://code.jquery.com/jquery-2.2.4.min.js"
+	  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+	  crossorigin="anonymous"></script>
+	<script src="https://cdn.rawgit.com/ttbagroup/ttbagroup.github.io/master/assets/tilda.js"></script>
+
+	<body class="page {{ layout.type }}">
+		{% include header.html %}
+
+		<main class="site-content">
+			{{ content }}
+		</main>
+
+		{% include footer.html %}
+		{% include foot.html %}
+	</body>
+</html>
