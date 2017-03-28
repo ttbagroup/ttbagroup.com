@@ -1,4 +1,13 @@
+:root {
+	background: rgb(204,204,204);
+}
+
+.page {
+	background: white;
+}
+
 img { color: gray; text-align: center; }
+
 
 .site-header {
   position: absolute;

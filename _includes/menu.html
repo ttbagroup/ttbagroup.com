@@ -3,6 +3,8 @@
 {% assign toggle=include.toggle | defult: false %}
 
 
+<!-- TODO: automate -->
+
 {% if toggle == true %}
 <button class="hamburger hamburger--slider menu-toggle" type="button" aria-label="Menu" role="button" aria-controls="navigation">
 	<span class="hamburger-box">
@@ -15,18 +17,18 @@
 		<span class="menu-link">{{ site.menu[lang].home }}</span>
 	</a>
 	{{sep}}
-	<div class="menu-item menu-item--dropdown {% if page.url == '/services/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/services/{% if lang != 'en' %}{{ lang }}{% endif %}">
+	<div class="menu-item menu-item--dropdown {% if page.url == '/marketing-services-montreal/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/marketing-services-montreal/{% if lang != 'en' %}{{ lang }}{% endif %}">
 			{{ site.menu[lang].services }}
 		</a>
 		{% if include.dropdown == true %}
 		<ul class="menu-dropdown">
-			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].website_design }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].sm_reputation }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].seo }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].online_ad }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].branding }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="">{{ site.menu[lang].video }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/website-design/">{{ site.menu[lang].website_design }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/social-media-management/">{{ site.menu[lang].sm_reputation }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/seo-search-engine-optimization/">{{ site.menu[lang].seo }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/online-advertising/">{{ site.menu[lang].advertising }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/branding-and-graphic-design/">{{ site.menu[lang].branding }}</a></li>
+			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/video-production/">{{ site.menu[lang].video }}</a></li>
 		</ul>
 		{% endif %}
 	</div>
@@ -39,8 +41,8 @@
 		<span class="menu-link">{{ site.menu[lang].projects }}</span>
 	</a>
 	{{sep}}
-	<div class="menu-item menu-item--dropdown {% if page.url == '/about/' or page.url == '/careers/' or page.url == '/internship/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/about/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
+	<div class="menu-item menu-item--dropdown {% if page.url == '/our-montreal-marketing-team/' or page.url == '/careers/' or page.url == '/internship/' %}menu-item--active{% endif %}">
+		<a class="menu-link" href="/our-montreal-marketing-team/{% if lang != 'en' %}{{ lang }}{% endif %}">{{ site.menu[lang].about }}</a>
 		{% if include.dropdown == true %}
 		<ul class="menu-dropdown">
 			<li class="menu-dropdown-item"><a class="menu-link" href="/our-montreal-marketing-team/">{{ site.menu[lang].team }}</a></li>
@@ -51,7 +53,7 @@
 		{% endif %}
 	</div>
 	{{sep}}
-	<a class="menu-item {% if page.url == '/contact/' %}menu-item--active{% endif %}" href="/contact/{% if lang != 'en' %}{{ lang }}{% endif %}">
+	<a class="menu-item {% if page.url == '/contact-information/' %}menu-item--active{% endif %}" href="/contact-information/{% if lang != 'en' %}{{ lang }}{% endif %}">
 		<span class="menu-link">{{ site.menu[lang].contact }}</span>
 	</a>
 	{% if include.nolang != true %}{{ sep }}
