@@ -1,1 +1,1 @@
-{% assign lang = include.lang | default: lang %}{% assign ref = include.ref | default: "index" %}{% assign pages = site.pages | where:"ref", ref | where:"lang", lang %}{{ pages.first.permalink }}
+{% assign lang = include.lang | default: lang %}{% assign ref = include.ref | default: "home" %}{% assign pages = site.pages | where:"ref", ref | where:"lang", lang %}{{ pages.first.permalink }}

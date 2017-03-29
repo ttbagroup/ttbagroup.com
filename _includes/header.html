@@ -1,4 +1,4 @@
-<header class="site-header{% if page.transparent %} site-header--transparent{% endif %}">
+<header class="site-header{% if page.transparent %} site-header--transparent{% endif %}{% if page.inverse %} site-header--inverse{% endif %}">
 	<div class="site-header-bar">
 		<div class="site-header-bar-content">
 			{% include social.html class="site-header-social" %}
@@ -9,8 +9,9 @@
 	</div>
 
 	<div class="site-header-main">
-		<a class="site-logo" href="{{ site.baseurl }}/">
-			<img class="site-logo-image" src="{{ site.assetsurl }}/logo.png" alt="TTBA Group Logo"/>
+		<a class="site-logo" href="{% include t-link.html ref='home' %}">
+			<img class="site-logo-image site-logo-image--inverse" src="/img/logo-inverse.png?v=1" alt="TTBA Group Logo"/>
+			<img class="site-logo-image site-logo-image--direct" src="/img/logo.png" alt="TTBA Group Logo"/>
 		</a>
 
 		{% include menu.html class="site-header-nav" dropdown=true toggle=true %}

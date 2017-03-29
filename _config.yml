@@ -84,6 +84,17 @@ prose:
   media: 'assets'
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
+    pages:
+      - name: "language"
+        field:
+          element: "select"
+          label: "Language"
+          help: "Choose page language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Français'
+              value: 'fr'
     _posts:
       - name: "language"
         field:
