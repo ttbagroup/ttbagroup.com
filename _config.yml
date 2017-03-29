@@ -147,16 +147,15 @@ prose:
           element: "text"
           label: "Title"
           type: "text"
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "The image will be used as a background cover for the post. Can be absolute or relative URL."
-          placeholder: "img/cover.jpg"
-          type: "url"
-      - name: "comments"
+      - name: "transparent"
         field:
           element: "checkbox"
-          label: "Enable comments"
-          help: "This will enable comments for the post"
+          label: "Transparent header"
+          help: "Make header transparent, in case if you have juicy hero or something like that"
+          value: false
+      - name: "inverse"
+        field:
+          element: "checkbox"
+          label: "White header"
+          help: "Make header white, in case if you have dark hero"
           value: false
