@@ -3,8 +3,6 @@
 {% assign toggle=include.toggle | defult: false %}
 
 
-<!-- TODO: automate -->
-
 {% if toggle == true %}
 <button class="hamburger hamburger--slider menu-toggle" type="button" aria-label="Menu" role="button" aria-controls="navigation">
 	<span class="hamburger-box">
@@ -15,22 +13,7 @@
 <nav class="{{ include.class }} menu">
 	{% include menu-item.html ref='home' %}
 	{{sep}}
-	{% include menu-item.html refs='design,smm,seo,advertising' ref='services' %}
-	<!--<div class="menu-item menu-item--dropdown {% if page.url == '/marketing-services-montreal/' %}menu-item--active{% endif %}">
-		<a class="menu-link" href="/marketing-services-montreal/{% if lang != 'en' %}{{ lang }}{% endif %}">
-			{{ site.menu[lang].services }}
-		</a>
-		{% if include.dropdown == true %}
-		<ul class="menu-dropdown">
-			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/website-design/">{{ site.menu[lang].website_design }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/social-media-management/">{{ site.menu[lang].sm_reputation }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/seo-search-engine-optimization/">{{ site.menu[lang].seo }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/online-advertising/">{{ site.menu[lang].advertising }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/branding-and-graphic-design/">{{ site.menu[lang].branding }}</a></li>
-			<li class="menu-dropdown-item"><a class="menu-link" href="/marketing-services-montreal/video-production/">{{ site.menu[lang].video }}</a></li>
-		</ul>
-		{% endif %}
-	</div>-->
+	{% include menu-item.html ref='services' refs='design,smm,seo,advertising,branding,video' %}
 	{{sep}}
 	{% include menu-item.html ref='blog' %}
 	{{sep}}
