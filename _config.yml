@@ -85,6 +85,30 @@ prose:
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Layout"
+          help: "Default layout is plain header-footer, tilda includes tilda css and js"
+          options:
+            - name: 'Default'
+              value: 'default'
+            - name: 'Tilda'
+              value: 'tilda'
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "URL for the page"
+          help: "This URL will be used for the page, see [permalinks](https://jekyllrb.com/docs/permalinks/)"
+          type: "text"
+          placeholder: "/:title"
+      - name: "ref"
+        field:
+          element: "text"
+          label: "Reference"
+          help: "Short word to identify the translation of the page in other language"
+          type: "text"
+          placeholder: "home"
       - name: "lang"
         field:
           element: "select"
