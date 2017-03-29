@@ -85,7 +85,7 @@ prose:
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
-      - name: "language"
+      - name: "lang"
         field:
           element: "select"
           label: "Language"
@@ -108,7 +108,7 @@ prose:
           help: "Make header white, in case if you have dark hero"
           value: false
     _posts:
-      - name: "language"
+      - name: "lang"
         field:
           element: "select"
           label: "Language"
