@@ -95,6 +95,18 @@ prose:
               value: 'en'
             - name: 'Français'
               value: 'fr'
+      - name: "transparent"
+        field:
+          element: "checkbox"
+          label: "Transparent header"
+          help: "Make header transparent, in case if you have juicy hero or something like that"
+          value: false
+      - name: "inverse"
+        field:
+          element: "checkbox"
+          label: "White header"
+          help: "Make header white, in case if you have dark hero"
+          value: false
     _posts:
       - name: "language"
         field:
