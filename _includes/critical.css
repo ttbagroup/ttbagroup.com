@@ -403,3 +403,45 @@ img { color: gray; text-align: center; }
     user-select: none;
   }
 }
+
+
+
+.smooth-container { scroll-behavior: smooth }
+.back-button {
+  cursor: pointer;
+  width: 2.8rem;
+  height: 2.8rem;
+  line-height: 2.8rem;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background: red;
+  border-radius: 4rem;
+  background: rgba(25, 27, 29, .9);
+  opacity: 0;
+  transition: .25s;
+}
+.back-button svg {
+  position: absolute;
+  width: 1.4rem;
+  height: 1.4rem;
+  margin: auto;
+  top: 0;
+  left: 0;
+  fill: white;
+  bottom: .2rem;
+  right: 0;
+}
+
+.site-header--inverse .back-button:active {
+  background: rgba(255,255,255,.9)
+}
+.site-header--inverse .back-button:active svg {
+  fill: rgb(25, 27, 29);
+}
+
+.site-header--sticky .back-button {
+  opacity: 1;
+}
+
+
