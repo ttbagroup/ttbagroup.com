@@ -71,7 +71,7 @@ permalink: :title
 markdown: kramdown
 
 kramdown:
-  parse_block_html: true
+  parse_span_html: true
 
 defaults:
     - {scope: {path: ""}, values: {layout: "post"}}
