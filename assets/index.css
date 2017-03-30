@@ -377,9 +377,10 @@
 }
 .site-footer .article-date {
   display: block;
-  font-size: .8rem;
-  margin-top: .1rem;
-  color: rgb(108, 111, 113);
+  font-size: .75rem;
+  margin-top: .2rem;
+  font-weight: 500;
+  color: rgb(88, 88, 88);
 }
 .site-footer .article-excerpt {
   display: none;

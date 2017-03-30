@@ -55,6 +55,7 @@ img { color: gray; text-align: center; }
 .site-header-social {
   float: right;
   margin-left: 1rem;
+  height: 2.4rem;
 }
 .site-header-social .social-link {
   position: relative;
@@ -67,9 +68,14 @@ img { color: gray; text-align: center; }
   background: rgba(255,255,255,0);
 }
 .site-header-social .social-link svg {
-  fill: white;
-  display: inline-block;
-  vertical-align: middle;
+  fill: rgb(255, 255, 255);
+  display: block;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  margin: auto;
   width: .8rem;
   height: .8rem;
 }
@@ -88,13 +94,14 @@ img { color: gray; text-align: center; }
 .site-header-main {
   position: relative;
   max-width: 1180px;
-  margin: 0 auto .2rem;
+  margin: 0 auto 0;
 }
 .site-logo {
   display: inline-block;
   vertical-align: middle;
   position: relative;
   height: 1.7rem;
+  min-width: 220px;
 }
 .site-logo-image {
   display: block;
@@ -103,7 +110,7 @@ img { color: gray; text-align: center; }
   transform-origin: left center;
   opacity: 1;
   position: absolute;
-  top: 0;
+  top: -2px;
   left: 0;
 }
 .site-logo-image--inverse {
@@ -132,11 +139,6 @@ img { color: gray; text-align: center; }
 @media (min-width: 640px) {
   .site-header--sticky .site-logo-image {
     transform: scale(.8);
-  }
-}
-@media (max-width: 640px) {
-  .site-header-main {
-    text-align: center;
   }
 }
 
@@ -206,10 +208,15 @@ img { color: gray; text-align: center; }
 }
 
 .site-header ~ .site-content {
-  margin-top: 7.4rem;
+  margin-top: 7rem;
 }
 .site-header--transparent ~ .site-content {
   margin-top: 0rem;
+}
+@media (max-width: 640px) {
+  .site-header--transparent ~ .site-content {
+    margin-top: 2.4rem;
+  }
 }
 
 
@@ -264,6 +271,12 @@ img { color: gray; text-align: center; }
     top: -10px; }
   .hamburger-inner::after {
     bottom: -10px; }
+
+.site-header--inverse .hamburger-inner, .site-header--inverse .hamburger-inner::before, .site-header--inverse .hamburger-inner::after {
+    background-color: #fff;}
+
+.site-header--inverse.site-header--sticky .hamburger-inner, .site-header--inverse.site-header--sticky .hamburger-inner::before, .site-header--inverse.site-header--sticky .hamburger-inner::after {
+    background-color: #000;}
 
 
 /*
