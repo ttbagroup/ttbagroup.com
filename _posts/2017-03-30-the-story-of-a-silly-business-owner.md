@@ -4,7 +4,7 @@ ref: blog
 lang: en
 transparent: true
 inverse: true
-published: false
+published: true
 title: The Story of a "Silly" Business Owner
 permalink: /en/the-story-of-a-silly-business-owner/
 ---
