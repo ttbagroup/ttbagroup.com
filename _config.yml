@@ -132,6 +132,18 @@ prose:
           help: "Make header white, in case if you have dark hero"
           value: false
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          type: "text"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "URL for the page"
+          help: "This URL will be used for the page, see [permalinks](https://jekyllrb.com/docs/permalinks/)"
+          type: "text"
+          placeholder: "/:title"
       - name: "lang"
         field:
           element: "select"
@@ -142,11 +154,13 @@ prose:
               value: 'en'
             - name: 'Français'
               value: 'fr'
-      - name: "title"
+      - name: "ref"
         field:
           element: "text"
-          label: "Title"
+          label: "Reference"
+          help: "Short word to identify the translation of the page in other language"
           type: "text"
+          placeholder: "home"
       - name: "transparent"
         field:
           element: "checkbox"
