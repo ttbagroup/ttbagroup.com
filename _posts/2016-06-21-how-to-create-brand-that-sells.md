@@ -1,17 +1,11 @@
 ---
-comments: true
-where: 'Anticafé Montréal, 294, rue Sainte-Catherine Ouest, H2X 2A1, Montréal QC'
+layout: tilda
 published: true
 title: How to create brand that sells
-image: img/film.jpg
-when: '2016-06-21 02:08 -0400'
 lang: en
-related:
-  - tea-ceremony
-  - russian-film-screening-series
-  - the-saints-script-how-the-cyrillic-alphabet-was-made
 transparent: false
 inverse: false
+ref: blog
 permalink: /en/create-brand-that-sells/
 ---
 
@@ -23,15 +17,15 @@ permalink: /en/create-brand-that-sells/
 <div id="rec5846491" class="r" style=" " data-animationappear="off" data-record-type="274"   >
 <!-- t255 -->
 <!-- cover -->
-	
+
 <div class="t-cover" id="recorddiv5846491" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
 	<div class="t-cover__carrier" id="coverCarry5846491" data-content-cover-id="5846491"  data-content-cover-bg="https://static.tildacdn.com/tild3065-3131-4066-b464-306535643563/leonardodicapriowithamoneystack.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"      style="background-image:url('https://static.tildacdn.com/tild3065-3131-4066-b464-306535643563/leonardodicapriowithamoneystack.jpg');height:100vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.10), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#e5000000', endColorstr='#33000000');"></div>
   <div class="t255">
   <div class="t-container">
     <div class="t-width t-width_10 t255__mainblock">
-        <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+        <div class="t-cover__wrapper t-valign_middle" style="height:100vh;">
           <div class="t255__wrapper" data-hook-content="covercontent">
                         <h1 class="t255__title t-title t-title_sm t-uppercase" field="title"><div style="font-size:72px;" data-customstyle="yes">HOW TO CREATE a BRAND<br />THAT SELLS<br /><span style="font-size: 24px;"></span></div></h1>            <span class="space"></span>
           </div>
@@ -41,12 +35,12 @@ permalink: /en/create-brand-that-sells/
     </div>
   </div>
   </div>
-  
-</div>
-    
 
 </div>
- 
+
+
+</div>
+
 <div id="rec5846492" class="r" style="padding-top:60px;padding-bottom:60px;background-color:#ededed; "  data-record-type="127"   data-bg-color="#ededed">
 <!-- T119 -->
 <div class="t119">
@@ -58,13 +52,13 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 </div>
- 
+
 <div id="rec6387359" class="r" style=" " data-animationappear="off" data-record-type="232"   >
 <!-- cover -->
-	
+
 <div class="t-cover" id="recorddiv6387359" bgimgfield="img" style="height:90vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
 	<div class="t-cover__carrier" id="coverCarry6387359" data-content-cover-id="6387359"  data-content-cover-bg="https://static.tildacdn.com/ab19dbbb-3366-4d64-aba0-75ed530f27ba/photo1417021423914070979c8eb34" data-content-cover-height="90vh" data-content-cover-parallax="fixed"      style="background-image:url('https://static.tildacdn.com/ab19dbbb-3366-4d64-aba0-75ed530f27ba/photo1417021423914070979c8eb34');height:90vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:90vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4c000000', endColorstr='#4c000000');"></div>
 
 <div class="t203">
@@ -82,12 +76,12 @@ permalink: /en/create-brand-that-sells/
     </div>
 </div>
 
-  
-</div>
-    
 
 </div>
- 
+
+
+</div>
+
 <div id="rec5846493" class="r" style="padding-top:45px;padding-bottom:45px;background-color:#ededed; "  data-record-type="220"   data-bg-color="#ededed">
 
 <!-- T192 -->
@@ -114,7 +108,7 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 </div>
- 
+
 <div id="rec6038148" class="r" style="padding-top:56px;padding-bottom:30px; "  data-record-type="172"   >
 <!-- T158 -->
 <div class="t158">
@@ -128,7 +122,7 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 </div>
- 
+
 <div id="rec6046918" class="r" style="padding-top:0px;padding-bottom:0px; "  data-record-type="106"   >
 <!-- T004 -->
 <div class="t004">
@@ -140,7 +134,7 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 </div>
- 
+
 <div id="rec6038199" class="r" style="padding-top:0px;padding-bottom:15px;background-color:#ffffff; "  data-record-type="184"   data-bg-color="#ffffff">
 <!-- T169 -->
 <div class="t169">
@@ -154,7 +148,7 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 </div>
- 
+
 <div id="rec6038200" class="r" style="padding-top:45px;padding-bottom:45px;background-color:#737373; "  data-record-type="220"   data-bg-color="#737373">
 
 <!-- T192 -->
@@ -181,20 +175,20 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 </div>
- 
+
 <div id="rec6038243" class="r" style="padding-top:0px;padding-bottom:0px; "  data-record-type="179"   >
 <!-- cover -->
-	
+
 <div class="t-cover" id="recorddiv6038243" bgimgfield="img" style="height:90vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
 	<div class="t-cover__carrier" id="coverCarry6038243" data-content-cover-id="6038243"  data-content-cover-bg="https://static.tildacdn.com/c64695cb-ac75-47d3-82a2-5956e0818a0a/nyc2000.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed"      style="background-image:url('https://static.tildacdn.com/c64695cb-ac75-47d3-82a2-5956e0818a0a/nyc2000.jpg');height:90vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:90vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4c000000', endColorstr='#4c000000');"></div>
 
 
 <!-- T164 -->
 <div class="t164">
 	<div class="t-container">
-		<div class="t-cover__wrapper t-valign_middle" style="height:90vh;">      
+		<div class="t-cover__wrapper t-valign_middle" style="height:90vh;">
           <div class="t-col t-col_8 t-prefix_2 t-align_left">
             <div data-hook-content="covercontent">
             <div class="t164__wrapper">
@@ -206,23 +200,23 @@ permalink: /en/create-brand-that-sells/
 </div>
 
 
-  
-</div>
-    
 
 </div>
- 
+
+
+</div>
+
 <div id="rec6352376" class="r" style="padding-top:60px;padding-bottom:0px; "  data-record-type="43"   >
 <!-- T030 -->
 <div class="t030">
   <div class="t-container t-align_center">
-    <div class="t-col t-col_10 t-prefix_1">      
+    <div class="t-col t-col_10 t-prefix_1">
       <div class="t030__title t-title t-title_xxs" field="title">Read other interesting articles on our marketing blog</div>          </div>
   </div>
 </div>
 
 </div>
- 
+
 <div id="rec6352372" class="r" style="padding-top:30px;padding-bottom:75px; " data-animationappear="off" data-record-type="334"   >
 
 
@@ -248,7 +242,7 @@ permalink: /en/create-brand-that-sells/
                   </div>
                                               </div>
               </div>
-                          
+
           </div>
         </div>
       </a>    </div>
@@ -266,42 +260,42 @@ permalink: /en/create-brand-that-sells/
                   </div>
                                               </div>
               </div>
-                          
+
           </div>
         </div>
       </a>    </div>
               </div>
 </div>
-      
+
 
 <script type="text/javascript">
     $(document).ready(function() {
         t334.initeffect('6352372');
-    });   
+    });
 </script>
 
 </div>
- 
+
 <div id="rec6038364" class="r" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="307"   >
 <!-- t278 -->
 <!-- cover -->
-	
+
 <div class="t-cover" id="recorddiv6038364" bgimgfield="img" style="height:100vh; background-image:-webkit-linear-gradient(top, #ccc, #777); background-image:-moz-linear-gradient(top, #ccc, #777); background-image:-o-linear-gradient(top, #ccc, #777); background-image:-ms-linear-gradient(top, #ccc, #777); background-image:linear-gradient(top, #ccc, #777); " >
 	<div class="t-cover__carrier" id="coverCarry6038364" data-content-cover-id="6038364"  data-content-cover-bg="https://static.tildacdn.com/tild3337-6664-4338-b433-323266653965/mtlcityview.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"      style="background-image:url('https://static.tildacdn.com/tild3337-6664-4338-b433-323266653965/mtlcityview.jpg');height:100vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -webkit-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -o-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -ms-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#33575757', endColorstr='#33454545');"></div>
   <div class="t278">
   <div class="t-container">
     <div class="t-width t-width_6 t278__mainblock">
-      <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+      <div class="t-cover__wrapper t-valign_middle" style="height:100vh;">
         <div class="t278__mainwrapper" data-hook-content="covercontent">
           <div class="t278__title t-title t-title_xs" field="title">Receive expert marketing and sales insights to your Inbox.</div>          <div class="t278__descr t-descr t-descr_md" field="descr">We promise we will never spam you.</div>          <form id="form6038364" name='form6038364' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2"  data-inputbox=".t278__blockinput"   class="js-form-proccess">                                                <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
-                            
+
                             <div style="position: absolute; left: -5000px;"><input type="text" name="tspecomment" tabindex="-1" value=""></div>
-                      
-          
+
+
                 <div class="t278__input-mainblock t-width t-width_6">
-          
+
                   <div class="t278__allert-wrapper">
                     <div class="t278__blockinput-errorbox js-errorbox-all" style="display:none;">
                         <div class="t278__blockinput-errors-text t-descr t-descr_xs">
@@ -327,7 +321,7 @@ permalink: /en/create-brand-that-sells/
                         <div class="t278__success-message t-descr t-descr_lg">Your data has been submitted. Thank you!</div>
                     </div>
                   </div>
-                  
+
                   <div class="t278__wrapper">
                                         <div class="t278__blockinput">
                         <input type="text" name="EMAIL" class="t278__input t-input js-tilda-rule" value="" placeholder="Your e-mail" data-tilda-req="1" data-tilda-rule="email" style="color:#000000;  background-color:#ffffff; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;">
@@ -335,13 +329,13 @@ permalink: /en/create-brand-that-sells/
                                                                                 <div class="t278__blockinput">
                         <input type="text" name="name" class="t278__input t-input js-tilda-rule" value="" placeholder="Name" data-tilda-req="1" data-tilda-rule="none" style="color:#000000;  background-color:#ffffff; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;">
                     </div>
-                                                            
+
                     <div class="t278__blockbutton">
                         <button type="submit" class="t278__submit t-submit" style="color:#ffffff; border:0px solid ; background-color:#fa8669; border-radius: 30px; -moz-border-radius: 30px; -webkit-border-radius: 30px;">SEND ME ONLY INTERESTING CONTENT</button>                    </div>
                   </div>
 
-              </div>  
-        </form>		                      
+              </div>
+        </form>
         </div>
       </div>
     </div>
@@ -352,20 +346,20 @@ permalink: /en/create-brand-that-sells/
 #rec6038364 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
 #rec6038364 input::-moz-placeholder          {color:#000000; opacity: 0.5;}
 #rec6038364 input:-moz-placeholder           {color:#000000; opacity: 0.5;}
-#rec6038364 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}          
+#rec6038364 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}
 #rec6038364 textarea::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
 #rec6038364 textarea::-moz-placeholder          {color:#000000; opacity: 0.5;}
 #rec6038364 textarea:-moz-placeholder           {color:#000000; opacity: 0.5;}
-#rec6038364 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
+#rec6038364 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}
 </style>
 
-  
-</div>
-            
- 
 
 </div>
- 
+
+
+
+</div>
+
 <div id="rec6352436" class="r" style="padding-top:60px;padding-bottom:60px; "  data-record-type="132"   >
 <div class="t-container_100">
 	<div style="position: relative; right: 50%; float: right;">
@@ -373,9 +367,9 @@ permalink: /en/create-brand-that-sells/
 
 			<div style="display: table;">
 			<div style="display:table-row; width:auto; clear:both;">
-			
+
 						<div id="fb-root"></div>
-			
+
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
@@ -383,29 +377,29 @@ permalink: /en/create-brand-that-sells/
 			  js.src = "//connect.facebook.net/en_En/sdk.js#xfbml=1&appId=257953674358265&version=v2.0";
 			  fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));</script>
-						
-						
-			              
+
+
+
 						<div style="border:0px solid;height:25px; float:left; display:table-column; padding-left:10px; padding-top:4px;">
 			<div class="fb-share-button" data-type="button_count"></div>
 			</div>
-									
-			
-			
+
+
+
 						<div style="float:left; width:80px; display:table-column; height:25px; border:0px solid; padding-left:10px; padding-top:4px;">
 			<a href="https://twitter.com/share" class="twitter-share-button" data-text="How to create brand that sells">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</div>
-			              
+
 			</div>
 			</div>
 
 		</div>
 	</div>
-</div>  
+</div>
 
 </div>
- 
+
 </div>
 <!--/allrecords-->
 
