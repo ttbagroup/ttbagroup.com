@@ -363,6 +363,9 @@
   fill: white;
 }
 
+.site-footer .article {
+  min-height: 5rem;
+}
 .site-footer .article-figure {
   margin: 0;
   float: left;
@@ -371,13 +374,19 @@
   display: block;
   width: 4rem;
   height: 4rem;
+  background-position: center;
+  background-size: cover;
   margin-right: .8rem;
 }
 .site-footer .article-title {
   display: inline;
+  font-weight: 500;
 }
 .site-footer .article-date {
-  display: none;
+  display: block;
+  font-size: .8rem;
+  margin-top: .1rem;
+  color: rgb(108, 111, 113);
 }
 .site-footer .article-excerpt {
   display: none;
