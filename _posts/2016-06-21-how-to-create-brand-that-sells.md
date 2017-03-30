@@ -9,9 +9,6 @@ ref: blog
 permalink: /en/create-brand-that-sells/
 ---
 
-<link rel="stylesheet" href="http://tilda.ws/project56887/tilda-blocks-2.6.css" rel="stylesheet" media="screen">
-<script src="http://tilda.ws/project56887/tilda-blocks-2.3.js"></script>
-
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="186140"  >
 <div id="rec5846491" class="r" style=" " data-animationappear="off" data-record-type="274"   >

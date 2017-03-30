@@ -11,12 +11,6 @@ permalink: /en/no-power-salespeople/
 
 
 
-<link rel="stylesheet" href="http://tilda.ws/project56887/tilda-blocks-2.10.css" rel="stylesheet" media="screen">
-<script src="http://tilda.ws/project56887/tilda-blocks-2.5.js"></script>
-
-
-
-
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="699959"  >
 

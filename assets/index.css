@@ -245,6 +245,8 @@
   padding: 3.6rem 1.6rem 3.6rem 0;
   box-sizing: border-box;
   color: #E5E5E5;
+  font-weight: 100;
+  line-height: 1.7;
 }
 @media (max-width: 640px) {
   .site-footer-column {
