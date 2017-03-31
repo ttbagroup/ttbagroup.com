@@ -3,7 +3,7 @@ layout: tilda
 lang: en
 transparent: true
 inverse: true
-published: false
+published: true
 permalink: /fr/case-nutrivilla
 ref: case-nutrivilla
 ---
@@ -461,4 +461,3 @@ $(document).ready(function(){
 
 </div>
 <!--/allrecords-->
-
