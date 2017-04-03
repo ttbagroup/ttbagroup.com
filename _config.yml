@@ -1,17 +1,11 @@
 title:
-  en: TTBA group
+  en: TTBA Group
   fr: Groupe TTBA
   ru: Группа ТТБА
-tagline:
+description:
   en: Marketing Agency for Small Business in Montreal
   fr: Agence web pour les PME à Montréal
   ru: Маркетинговое агентство для малого бизнеса в Монреале
-index:
-  en: index.html
-  fr: accueil.html
-description:
-  en:
-  fr:
 languages:
   - name: 'English'
     key: 'en'
@@ -139,11 +133,10 @@ prose:
       - name: "meta-title"
         field:
           element: "text"
-          label: "Title tag"
-          help: "Keywords first, < 70 chars, no articles/preps/etc."
+          label: "Meta Title"
+          help: "Title tag. Keywords first, < 70 chars, no articles/preps/etc."
           type: "text"
-          placeholder: ""
-          value: "[Primary Keyword] - [Secondary Keyword] | TTBA Group | Montreal"
+          placeholder: "[Primary Keyword] - [Secondary Keyword] | TTBA Group | Montreal"
       - name: "meta-description"
         field:
           element: "textarea"
@@ -196,11 +189,10 @@ prose:
       - name: "meta-title"
         field:
           element: "text"
-          label: "Title tag"
-          help: "Keywords first, < 70 chars, no articles/preps/etc."
+          label: "Meta Title"
+          help: "Title tag. Keywords first, < 70 chars, no articles/preps/etc."
           type: "text"
-          placeholder: ""
-          value: "[Primary Keyword] - Marketing Blog | TTBA Group | Montreal"
+          placeholder: "[Primary Keyword] - Marketing Blog | TTBA Group | Montreal"
       - name: "meta-description"
         field:
           element: "textarea"
