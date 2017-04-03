@@ -85,6 +85,11 @@ prose:
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          type: "text"
       - name: "layout"
         field:
           element: "select"
@@ -99,7 +104,7 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          help: "This URL will be used for the page, see [permalinks](https://jekyllrb.com/docs/permalinks/)"
+          help: "This URL will be used for the page, see https://jekyllrb.com/docs/permalinks"
           type: "text"
           placeholder: "/:title"
       - name: "ref"
@@ -128,9 +133,23 @@ prose:
       - name: "inverse"
         field:
           element: "checkbox"
-          label: "White header"
-          help: "Make header white, in case if you have dark hero"
+          label: "Inverse header"
+          help: "Turn header into white font, in case if you have dark hero"
           value: false
+      - name: "meta-title"
+        field:
+          element: "text"
+          label: "Title tag"
+          help: "Keywords first, < 70 chars, no articles/preps/etc."
+          type: "text"
+          placeholder: ""
+          value: "[Primary Keyword] - [Secondary Keyword] | TTBA Group | Montreal"
+      - name: "meta-description"
+        field:
+          element: "textarea"
+          label: "Meta Description"
+          help: "Used as description snippet by search engines. < 160 chars"
+          placeholder: ""
     _posts:
       - name: "title"
         field:
@@ -171,6 +190,20 @@ prose:
       - name: "inverse"
         field:
           element: "checkbox"
-          label: "White header"
+          label: "Inverse header"
           help: "Make header white, in case if you have dark hero"
           value: false
+      - name: "meta-title"
+        field:
+          element: "text"
+          label: "Title tag"
+          help: "Keywords first, < 70 chars, no articles/preps/etc."
+          type: "text"
+          placeholder: ""
+          value: "[Primary Keyword] - Marketing Blog | TTBA Group | Montreal"
+      - name: "meta-description"
+        field:
+          element: "textarea"
+          label: "Meta Description"
+          help: "Used as description snippet by search engines. < 160 chars"
+          placeholder: ""

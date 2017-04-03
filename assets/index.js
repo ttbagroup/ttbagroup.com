@@ -15,9 +15,20 @@ function getCurrentScroll() {
 	return window.pageYOffset || document.documentElement.scrollTop;
 }
 
+
+
 //back-button
 var backBtn = document.querySelector('.back-button')
 
 backBtn.addEventListener('click', function () {
 	zenscroll.toY(0)
 })
+
+
+
+//elastic buttons
+var btns = document.querySelectorAll('.t-btn')
+
+for (var i = 0; i < btns.length; i++) {
+	//return
+}
