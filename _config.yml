@@ -154,7 +154,8 @@ prose:
           element: "text"
           label: "Publish Date"
           value: ""
-          placeholder: "YYYY-MM-DD"
+          help: "Overrides the date from the name of the post. HH:MM:SS are optional."
+          placeholder: "YYYY-MM-DD HH:MM:SS"
           type: "date"
       - name: "permalink"
         field:
