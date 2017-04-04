@@ -154,7 +154,7 @@ prose:
           element: "text"
           label: "Publish Date"
           value: "CURRENT_DATETIME"
-          type: "datetime"
+          type: "date"
       - name: "permalink"
         field:
           element: "text"
