@@ -153,7 +153,8 @@ prose:
         field:
           element: "text"
           label: "Publish Date"
-          value: "CURRENT_DATETIME"
+          value: ""
+          placeholder: "YYYY-MM-DD"
           type: "date"
       - name: "permalink"
         field:

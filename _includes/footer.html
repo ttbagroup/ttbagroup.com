@@ -13,7 +13,7 @@
 
 		<div class="site-footer-column site-footer-column--2">
 			<div class="site-footer-column-title">Recent blog articles</div>
-			{% assign posts=site.posts|slice: 0,3 %}
+			{% assign posts=site.posts | slice: 0,3 | sort: 'date' %}
 			{% include articles.html posts=posts %}
 		</div>
 
