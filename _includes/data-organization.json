@@ -1,14 +1,16 @@
 {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "url": "http://ttbagroup.com",
-  "email": "info@ttbagroup.com",
-  "foundingDate": "1 jan 2016",
+  "url": "{{ site.url }}",
+  "email": "{{ site.email }}",
+  "foundingDate": "2016-01-01",
   "leganName": "TTBA Gropup Inc.",
-  "telephone": "",
-  "contactPoint": [{
-    "@type": "ContactPoint",
-    "telephone": "+1-514-995-3515",
-    "contactType": "customer service"
-  }]
+  "name": "{{ site.title[lang] }}",
+  "telephone": "+15149953515",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Montreal, Quebec, Canada",
+    "postalCode": "H4E1A8",
+    "streetAddress": "5538 Rue St-Patrick"
+  }
 }
