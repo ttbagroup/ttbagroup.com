@@ -5,7 +5,7 @@ lang: en
 transparent: false
 inverse: false
 noindex: false
-published: false
+published: true
 title: develop-effective-web-marketing-strategy
 permalink: /en/develop-effective-web-marketing-strategy/
 ---
