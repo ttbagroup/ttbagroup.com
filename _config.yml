@@ -79,6 +79,11 @@ prose:
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
       - name: "layout"
         field:
           element: "select"
@@ -150,6 +155,11 @@ prose:
           element: "text"
           label: "Title"
           type: "text"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
       - name: "date"
         field:
           element: "text"
