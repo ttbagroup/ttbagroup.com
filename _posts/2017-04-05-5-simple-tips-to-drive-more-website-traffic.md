@@ -1,5 +1,4 @@
 ---
-layout: default
 ref: blog
 published: true
 lang: en

@@ -1,5 +1,4 @@
 ---
-layout: default
 published: true
 title: How to create brand that sells
 lang: en

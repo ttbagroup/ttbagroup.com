@@ -14,7 +14,7 @@
 	<script src="https://cdn.rawgit.com/ttbagroup/ttbagroup.github.io/master/assets/tilda.js"></script>
 	{% endif %}
 
-	<body class="page {{ layout.type }}">
+	<body class="page{% if page.tilda %} page--tilda{% endif %}">
 		{% include header.html %}
 
 		<main class="site-content">
