@@ -142,14 +142,14 @@ prose:
         field:
           element: "checkbox"
           label: "Noindex"
-          help: "Block search indexing of a page"
+          help: "Block search indexing of the page"
           value: false
       - name: "structured-data"
         field:
           element: "textarea"
           label: "Structured Data"
           help: "JSON-LD for structured data without script tag, see <a href='https://developers.google.com/schemas/formats/json-ld'>json-ld</a>. For multiple entries use list <code>[{ first }, { second }, ...]</code>"
-          placeholder: '{ "@context": "http://schema.org", "@type": "Person", ...}'
+          placeholder: ""
     _posts:
       - name: "title"
         field:
@@ -218,5 +218,5 @@ prose:
         field:
           element: "checkbox"
           label: "Noindex"
-          help: "Block search indexing of a page"
+          help: "Block search indexing of the page"
           value: false
