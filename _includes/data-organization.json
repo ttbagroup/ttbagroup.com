@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "url": "http://ttbagroup.com",
+  "email": "info@ttbagroup.com",
+  "foundingDate": "1 jan 2016",
+  "leganName": "TTBA Gropup Inc.",
+  "telephone": "",
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+1-514-995-3515",
+    "contactType": "customer service"
+  }]
+}

@@ -10,7 +10,7 @@
             <div class="article-image" style="background-image: url({{ src }});" title="{{ post.title }}"/>
         </figure>
         {% endif %}
-        <h4 class="article-title">{{ post.title }}</h4>
+        <div class="article-title">{{ post.title }}</div>
         <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
             {{ post.date | date_to_string }}
         </time>

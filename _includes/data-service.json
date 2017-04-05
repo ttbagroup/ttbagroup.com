@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Service",
+  "name": "Search Engine Optimization (SEO)",
+  "aggregateRating":
+    {"@type": "AggregateRating",
+     "ratingValue": "4.8",
+     "reviewCount": "27"
+    }
+}
