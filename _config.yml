@@ -138,18 +138,18 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
+      - name: "structured-data"
+        field:
+          element: "textarea"
+          label: "Structured Data"
+          help: "JSON-LD for structured data without script tag, see <a href='https://developers.google.com/schemas/formats/json-ld'>json-ld</a>. For multiple entries use list [ first, second, ...]"
+          placeholder: ""
       - name: "noindex"
         field:
           element: "checkbox"
           label: "Noindex"
           help: "Block search indexing of the page"
           value: false
-      - name: "meta-test"
-        field:
-          element: "textarea"
-          label: "Meta Test"
-          help: "Used as description snippet by search engines. < 160 chars"
-          placeholder: ""
     _posts:
       - name: "title"
         field:
