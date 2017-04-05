@@ -144,12 +144,6 @@ prose:
           label: "Noindex"
           help: "Block search indexing of a page"
           value: false
-      - name: "structured-data"
-        field:
-          element: "textarea"
-          label: "Structured Data"
-          help: "JSON-LD for structured data without <script> tag, see https://developers.google.com/schemas/formats/json-ld. For multiple entries use list [{ first }, { second }, ...]"
-          placeholder: ""
     _posts:
       - name: "title"
         field:
