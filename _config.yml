@@ -138,18 +138,18 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
-      - name: "meta-test"
-        field:
-          element: "textarea"
-          label: "Meta Test"
-          help: "Used as description snippet by search engines. < 160 chars"
-          placeholder: ""
       - name: "noindex"
         field:
           element: "checkbox"
           label: "Noindex"
           help: "Block search indexing of the page"
           value: false
+      - name: "meta-test"
+        field:
+          element: "textarea"
+          label: "Meta Test"
+          help: "Used as description snippet by search engines. < 160 chars"
+          placeholder: ""
     _posts:
       - name: "title"
         field:
