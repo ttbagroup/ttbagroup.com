@@ -43,8 +43,8 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 
 <!-- Global and page-specific structured data -->
 <script type="application/ld+json">{% include data-organization.json %}</script>
-{% if page.structured-data %}
-<script type="application/ld+json">page.structured-data</script>
+{% if page.service-name %}
+<script type="application/ld+json">{% include data-service.json rating=page.service-rating reviews=page.service-reviews name=page.service-name %}</script>
 {% endif %}
 
 
