@@ -138,11 +138,11 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
-      - name: "test"
+      - name: "structured-data"
         field:
           element: "textarea"
-          label: "test"
-          help: ""
+          label: "Structured Data"
+          help: "JSON-LD for structured data without script tag, see <a href='https://developers.google.com/schemas/formats/json-ld'>json-ld</a>. For multiple entries use list [ first, second, ...]."
       - name: "noindex"
         field:
           element: "checkbox"
