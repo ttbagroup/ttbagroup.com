@@ -1,5 +1,5 @@
 ---
-layout: tilda
+layout: default
 ref: blog
 lang: en
 transparent: false

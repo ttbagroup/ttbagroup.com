@@ -1,5 +1,5 @@
 ---
-layout: tilda
+layout: default
 published: true
 title: You have no power here salespeople!
 lang: en

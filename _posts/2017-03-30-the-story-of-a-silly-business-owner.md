@@ -1,5 +1,5 @@
 ---
-layout: tilda
+layout: default
 ref: blog
 lang: en
 transparent: true
@@ -14,7 +14,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div id="rec12669829" class="r" style=" " data-animationappear="off" data-record-type="274"   >
 <!-- t255 -->
 <!-- cover -->
-	
+
 
 
 
@@ -22,12 +22,12 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t-cover" id="recorddiv12669829" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6532-3131-4363-b436-653966663432/-/resize/20x/zj13ivc.jpg');" >
 
 	<div class="t-cover__carrier" id="coverCarry12669829" data-content-cover-id="12669829"  data-content-cover-bg="https://static.tildacdn.com/tild6532-3131-4363-b436-653966663432/zj13ivc.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -o-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cc000000', endColorstr='#19000000');"></div>
   <div class="t255">
   <div class="t-container">
     <div class="t-width t-width_10 t255__mainblock">
-        <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+        <div class="t-cover__wrapper t-valign_middle" style="height:100vh;">
           <div class="t255__wrapper" data-hook-content="covercontent">
                         <h1 class="t255__title t-title t-title_sm t-uppercase "  style="text-transform:uppercase;" field="title"><div style="font-size:72px;" data-customstyle="yes"><strong>The story of a "Silly" business owner</strong> <br /></div></h1>            <span class="space"></span>
           </div>
@@ -37,10 +37,10 @@ permalink: /en/the-story-of-a-silly-business-owner/
     </div>
   </div>
   </div>
-  
+
 
 </div>
-    
+
 </div>
 
 
@@ -58,7 +58,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 
 <div id="rec12669831" class="r" style="padding-bottom:0px; " data-animationappear="off" data-record-type="232"   >
 <!-- cover -->
-	
+
 
 
 
@@ -66,7 +66,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t-cover" id="recorddiv12669831" bgimgfield="img" style="height:70vh; background-image:url('https://static.tildacdn.com/tild6130-6631-4666-a635-313565653431/-/resize/20x/silly7.jpg');" >
 
 	<div class="t-cover__carrier" id="coverCarry12669831" data-content-cover-id="12669831"  data-content-cover-bg="https://static.tildacdn.com/tild6130-6631-4666-a635-313565653431/silly7.jpg" data-content-cover-height="70vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:70vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:70vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4c000000', endColorstr='#4c000000');"></div>
 
 <div class="t203">
@@ -83,10 +83,10 @@ permalink: /en/the-story-of-a-silly-business-owner/
         </div>
     </div>
 </div>
-  
+
 
 </div>
-    
+
 </div>
 
 
@@ -107,8 +107,8 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div id="rec12671094" class="r" style="padding-top:0px;padding-bottom:45px; "  data-record-type="3"   >
 <!-- T107 -->
 <div class="t107">
-  <div class="t-align_center" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3766-3339-4937-b239-306232303735/coco.png">    <img src="https://static.tildacdn.com/tild3766-3339-4937-b239-306232303735/-/empty/coco.png" data-original="https://static.tildacdn.com/tild3766-3339-4937-b239-306232303735/coco.png"  class="t107__widthauto t-img" imgfield="img"  />               
-  </div>  
+  <div class="t-align_center" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3766-3339-4937-b239-306232303735/coco.png">    <img src="https://static.tildacdn.com/tild3766-3339-4937-b239-306232303735/-/empty/coco.png" data-original="https://static.tildacdn.com/tild3766-3339-4937-b239-306232303735/coco.png"  class="t107__widthauto t-img" imgfield="img"  />
+  </div>
 </div>
 </div>
 
@@ -198,7 +198,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
                           <path d="M731.2272,1375.449 C730.117467,1376.155 728.887333,1376.668 727.5788,1376.944 C726.532533,1375.748 725.038267,1375 723.386267,1375 C720.2148,1375 717.642533,1377.756 717.642533,1381.155 C717.642533,1381.637 717.693867,1382.106 717.79,1382.557 C713.016,1382.3 708.783333,1379.85 705.949733,1376.126 C705.455067,1377.034 705.171333,1378.092 705.171333,1379.221 C705.171333,1381.356 706.185867,1383.24 707.7268,1384.343 C706.785067,1384.311 705.899333,1384.034 705.124667,1383.573 L705.124667,1383.65 C705.124667,1386.631 707.104267,1389.12 709.733467,1389.686 C709.250933,1389.827 708.7432,1389.902 708.2196,1389.902 C707.85,1389.902 707.489733,1389.863 707.1388,1389.792 C707.870533,1392.236 709.992,1394.017 712.505467,1394.066 C710.538933,1395.716 708.061867,1396.701 705.370133,1396.701 C704.906267,1396.701 704.449867,1396.672 704,1396.615 C706.5424,1398.361 709.561733,1399.38 712.806,1399.38 C723.3732,1399.38 729.150533,1390.002 729.150533,1381.868 C729.150533,1381.601 729.1468,1381.335 729.134667,1381.071 C730.256533,1380.204 731.230933,1379.12 732,1377.884 C730.970533,1378.374 729.8636,1378.704 728.7016,1378.853 C729.886933,1378.094 730.797867,1376.887 731.2272,1375.449 L731.2272,1375.449 Z" id="Shape" sketch:type="MSShapeGroup"></path>
                       </g>
                   </g>
-              </svg>              
+              </svg>
             </div>
                       </a>        </div>
       </div>
@@ -212,7 +212,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <!-- T030 -->
 <div class="t030">
   <div class="t-container t-align_center">
-    <div class="t-col t-col_10 t-prefix_1">      
+    <div class="t-col t-col_10 t-prefix_1">
       <div class="t030__title t-title t-title_xxs" field="title" style=""><span style="font-size: 26px;"><span data-redactor-style="font-weight: 300" style="font-weight: 300">What we recommend to businesses who want to create a product that sells:</span></span></div>          </div>
   </div>
 </div>
@@ -223,12 +223,12 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <!-- T513 -->
 
 <div class="t513">
-		
+
 <div class="t-container">
 <div class="t513__linewrapper t-col t-col_11 t-prefix_1">
   <div class="t513__line" style="  "></div>
 </div>
-  
+
 <div class="t513__row t-row t-clear">
   <div class="t513__leftcol t-col t-col_3 t-prefix_1">
     <div class="t513__time t-name t-name_md" style="" field="li_time__1477048862978"><div style="font-size:20px;" data-customstyle="yes">Think of the questions that matter to your business</div></div>  </div>
@@ -238,7 +238,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t513__linewrapper t-col t-col_11 t-prefix_1">
   <div class="t513__line" style="  "></div>
 </div>
-  
+
 <div class="t513__row t-row t-clear">
   <div class="t513__leftcol t-col t-col_3 t-prefix_1">
     <div class="t513__time t-name t-name_md" style="" field="li_time__1477048904073"><strong>Conduct surveys</strong></div>  </div>
@@ -248,7 +248,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t513__linewrapper t-col t-col_11 t-prefix_1">
   <div class="t513__line" style="  "></div>
 </div>
-  
+
 <div class="t513__row t-row t-clear">
   <div class="t513__leftcol t-col t-col_3 t-prefix_1">
     <div class="t513__time t-name t-name_md" style="" field="li_time__1477048948177"><strong>Identify meaningful isights</strong><br /><strong></strong></div>  </div>
@@ -258,7 +258,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t513__linewrapper t-col t-col_11 t-prefix_1">
   <div class="t513__line" style="  "></div>
 </div>
-  
+
 <div class="t513__row t-row t-clear">
   <div class="t513__leftcol t-col t-col_3 t-prefix_1">
     <div class="t513__time t-name t-name_md" style="" field="li_time__1477048981221">Come up with a hypothesis<strong></strong></div>  </div>
@@ -268,7 +268,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t513__linewrapper t-col t-col_11 t-prefix_1">
   <div class="t513__line" style="  "></div>
 </div>
-  
+
 <div class="t513__row t-row t-clear">
   <div class="t513__leftcol t-col t-col_3 t-prefix_1">
     <div class="t513__time t-name t-name_md" style="" field="li_time__1477048999791"><strong>Test -&gt; Fail -&gt; Great</strong></div>  </div>
@@ -278,9 +278,9 @@ permalink: /en/the-story-of-a-silly-business-owner/
 <div class="t513__linewrapper t-col t-col_11 t-prefix_1">
   <div class="t513__line" style="  "></div>
 </div>
-  
+
 </div>
-	
+
 
 
 </div>
@@ -335,9 +335,9 @@ permalink: /en/the-story-of-a-silly-business-owner/
 		<div style="position: relative; z-index: 1; right: -50%;">
 			<div style="display: table;">
 			<div style="display:table-row; width:auto; clear:both;">
-			
+
 						<div id="fb-root"></div>
-			
+
 			<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
 			  if (d.getElementById(id)) return;
@@ -345,26 +345,26 @@ permalink: /en/the-story-of-a-silly-business-owner/
 			  js.src = "//connect.facebook.net/en_En/sdk.js#xfbml=1&appId=257953674358265&version=v2.0";
 			  fjs.parentNode.insertBefore(js, fjs);
 			}(document, 'script', 'facebook-jssdk'));</script>
-						
-						
-			              
+
+
+
 						<div style="border:0px solid;height:25px; float:left; display:table-column; padding-left:10px; padding-top:4px;">
 			<div class="fb-share-button" data-type="button_count"></div>
 			</div>
-									
-			
-			              
-            
+
+
+
+
 						<div style="float:left; width:80px; display:table-column; height:25px; border:0px solid; padding-left:10px; padding-top:4px;">
 			<a href="https://twitter.com/share" class="twitter-share-button" data-text="The story of a "Silly" business owner">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</div>
-			              
+
 			</div>
 			</div>
 		</div>
 	</div>
-</div>  
+</div>
 </div>
 
 
@@ -374,11 +374,11 @@ permalink: /en/the-story-of-a-silly-business-owner/
 #rec12672075 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
 #rec12672075 input::-moz-placeholder          {color:#000000; opacity: 0.5;}
 #rec12672075 input:-moz-placeholder           {color:#000000; opacity: 0.5;}
-#rec12672075 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}          
+#rec12672075 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}
 #rec12672075 textarea::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
 #rec12672075 textarea::-moz-placeholder          {color:#000000; opacity: 0.5;}
 #rec12672075 textarea:-moz-placeholder           {color:#000000; opacity: 0.5;}
-#rec12672075 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
+#rec12672075 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}
 </style>
 <div class="t330">
   <div class="t-popup" data-tooltip-hook="#GrowMyBusiness" >
@@ -393,7 +393,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
     <div class="t-popup__container t-width t-width_6">
         <img class="t330__img t-img" src="https://static.tildacdn.com/tild6232-3063-4138-b434-323738356134/-/empty/ttba_moto.jpg" data-original="https://static.tildacdn.com/tild6232-3063-4138-b434-323738356134/ttba_moto.jpg" imgfield="img" >        <div class="t330__wrapper t-align_center" style=";">
           <div class="t330__title t-title t-title_xxs"><div style="font-size:16px;" data-customstyle="yes"><span style="font-weight: 400;">We always respond in less than 4 hours.<br /><br /></span></div></div>                    <form id="form12672075" name='form12672075' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2" data-inputbox=".t330__blockinput"  data-success-url="https://ttbagroup.com/en/request-submitted" class="js-form-proccess">                                                                  <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
-                                                      
+
                                                                                   <div>
                           <div class="js-errorbox-all t330__blockinput-errorbox" style="display:none;">
                               <div class="t330__blockinput-errors-text t-text t-text_xs">
@@ -407,7 +407,7 @@ permalink: /en/the-story-of-a-silly-business-owner/
                           </div>
                           <div class="js-successbox t330__blockinput-success t-text t-text_xs" style="display:none;">
                                                             Thank You! Your request has been submitted.
-                                                      </div>                
+                                                      </div>
                         </div>
                         <div class="t330__input-wrapper">
                                                                               <div class="t330__blockinput">
@@ -415,20 +415,20 @@ permalink: /en/the-story-of-a-silly-business-owner/
                           </div>
                                                                                                         <div class="t330__blockinput">
                               <input type="text" name="name" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Email"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
-                          </div>                
+                          </div>
                                                                                                         <div class="t330__blockinput">
                               <input type="text" name="phone" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Phone Number"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'" data-tilda-req="1" data-tilda-rule="phone" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
-                          </div>                                
-                                                      
-                          
-                                                      
+                          </div>
+
+
+
                                                                               <div class="t330__blockinput">
                               <textarea name="Whatdoyouwanttodiscuss" class="t330__input t-input js-tilda-rule " placeholder="What do you want to discuss?"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'What do you want to discuss?'"  style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:68px" rows="2"></textarea>
                           </div>
                                                     <div class="t330__blockbutton">
                               <button type="submit" class="t330__submit t-submit" style="color:#ffffff;background-color:#ed4b3a;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;">SEND</button>                          </div>
-                         </div> 
-          </form>                          
+                         </div>
+          </form>
         </div>
       </div>
     </div>
@@ -439,16 +439,16 @@ $(document).ready(function(){
     t330_initPopup('12672075');
   }, 500);
 });
-</script>  
+</script>
 
-                          
+
 </div>
 
 
 <div id="rec12669840" class="r" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="307"   >
 <!-- t278 -->
 <!-- cover -->
-	
+
 
 
 
@@ -456,20 +456,20 @@ $(document).ready(function(){
 <div class="t-cover" id="recorddiv12669840" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3335-6636-4465-b532-323637383662/-/resize/20x/mtlcityview.jpg');" >
 
 	<div class="t-cover__carrier" id="coverCarry12669840" data-content-cover-id="12669840"  data-content-cover-bg="https://static.tildacdn.com/tild3335-6636-4465-b532-323637383662/mtlcityview.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
-      
+
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -webkit-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -o-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -ms-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#33575757', endColorstr='#33454545');"></div>
   <div class="t278">
   <div class="t-container ">
     <div class="t-width t-width_6 t278__mainblock">
-      <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
+      <div class="t-cover__wrapper t-valign_middle" style="height:100vh;">
         <div class="t278__mainwrapper" data-hook-content="covercontent">
           <div class="t278__title t-title t-title_xs" field="title">Receive expert marketing advice and sales insights in your Inbox.</div>          <div class="t278__descr t-descr t-descr_md" field="descr">We promise we will never spam you.</div>          <form id="form12669840" name='form12669840' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2"  data-inputbox=".t278__blockinput"   class="js-form-proccess">                                                <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
-                            
+
                             <div style="position: absolute; left: -5000px;"><input type="text" name="tspecomment" tabindex="-1" value=""></div>
-                      
-          
+
+
                 <div class="t278__input-mainblock t-width t-width_6">
-          
+
                   <div class="t278__allert-wrapper">
                     <div class="t278__blockinput-errorbox js-errorbox-all" style="display:none;">
                         <div class="t278__blockinput-errors-text t-descr t-descr_xs">
@@ -495,7 +495,7 @@ $(document).ready(function(){
                         <div class="t278__success-message t-descr t-descr_lg">Your data has been submitted. Thank you!</div>
                     </div>
                   </div>
-                  
+
                   <div class="t278__wrapper">
                                         <div class="t278__blockinput">
                         <input type="text" name="EMAIL" class="t278__input t-input js-tilda-rule " value="" placeholder="Your e-mail" data-tilda-req="1" data-tilda-rule="email" style="color:#000000;  background-color:#ffffff; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;">
@@ -503,15 +503,15 @@ $(document).ready(function(){
                                                                                 <div class="t278__blockinput">
                         <input type="text" name="name" class="t278__input t-input js-tilda-rule " value="" placeholder="Name" data-tilda-req="1" data-tilda-rule="none" style="color:#000000;  background-color:#ffffff; border-radius: 4px; -moz-border-radius: 4px; -webkit-border-radius: 4px;">
                     </div>
-                                                            
-                                                            
-                                        
+
+
+
                     <div class="t278__blockbutton">
                                                   <button type="submit" class="t-submit" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEND ME ONLY INTERESTING CONTENT</button>
                                             </div>
                   </div>
-              </div>  
-        </form>		                      
+              </div>
+        </form>
         </div>
       </div>
     </div>
@@ -521,18 +521,18 @@ $(document).ready(function(){
 #rec12669840 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
 #rec12669840 input::-moz-placeholder          {color:#000000; opacity: 0.5;}
 #rec12669840 input:-moz-placeholder           {color:#000000; opacity: 0.5;}
-#rec12669840 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}          
+#rec12669840 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}
 #rec12669840 textarea::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
 #rec12669840 textarea::-moz-placeholder          {color:#000000; opacity: 0.5;}
 #rec12669840 textarea:-moz-placeholder           {color:#000000; opacity: 0.5;}
-#rec12669840 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
+#rec12669840 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}
 </style>
-  
+
 
 </div>
-                                            
-        
- 
+
+
+
 </div>
 
 </div>
