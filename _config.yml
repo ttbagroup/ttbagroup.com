@@ -68,7 +68,7 @@ kramdown:
   parse_span_html: true
 
 defaults:
-    - {scope: {path: ""}, values: {layout: "post"}}
+    - {scope: {path: ""}, values: {layout: "default"}}
 
 exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
 
@@ -189,10 +189,6 @@ prose:
         field:
           element: "hidden"
           value: "blog"
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "tilda"
       - name: "transparent"
         field:
           element: "checkbox"
