@@ -78,6 +78,93 @@ prose:
   media: 'assets'
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
+    pages:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Layout"
+          help: "Default layout is plain header-footer, tilda includes tilda css and js"
+          options:
+            - name: 'Default'
+              value: 'default'
+            - name: 'Tilda'
+              value: 'tilda'
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          help: "This URL will be used for the page, see https://jekyllrb.com/docs/permalinks"
+          type: "text"
+          placeholder: "/:title"
+      - name: "ref"
+        field:
+          element: "text"
+          label: "Reference"
+          help: "Short word to identify the translation of the page in other language"
+          type: "text"
+          placeholder: "home"
+      - name: "lang"
+        field:
+          element: "select"
+          label: "Language"
+          help: "Choose page language"
+          options:
+            - name: 'English'
+              value: 'en'
+            - name: 'Français'
+              value: 'fr'
+      - name: "transparent"
+        field:
+          element: "checkbox"
+          label: "Transparent header"
+          help: "Make header transparent, in case if you have juicy hero or something like that"
+          value: false
+      - name: "inverse"
+        field:
+          element: "checkbox"
+          label: "Inverse header"
+          help: "Turn header into white font, in case if you have dark hero"
+          value: false
+      - name: "meta-title"
+        field:
+          element: "text"
+          label: "Meta Title"
+          help: "Title tag. Keywords first, < 70 chars, no articles/preps/etc."
+          type: "text"
+          placeholder: "[Primary Keyword] - [Secondary Keyword] | TTBA Group | Montreal"
+      - name: "meta-description"
+        field:
+          element: "textarea"
+          label: "Meta Description"
+          help: "Used as description snippet by search engines. < 160 chars"
+          placeholder: ""
+      - name: "noindex"
+        field:
+          element: "checkbox"
+          label: "Noindex"
+          help: "Block search indexing of a page"
+          value: false
+      - name: "structured-data"
+        field:
+          element: "textarea"
+          label: "Structured Data"
+          help: "JSON-LD for structured data without script tag, see <a href='https://developers.google.com/schemas/formats/json-ld'>json-ld</a>. For multiple entries use list '[{ first }, { second }, ...]'"
+          placeholder: >-
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "name": "John Doe",
+              "jobTitle": "Graduate research assistant",
+              "affiliation": "University of Dreams",
+              "additionalName": "Johnny",
+              "url": "http://www.example.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1234 Peach Drive",
+                "addressLocality": "Wonderland",
+                "addressRegion": "Georgia"
+              }
+            }
     _posts:
       - name: "title"
         field:
