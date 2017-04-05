@@ -8,6 +8,7 @@ noindex: false
 published: true
 title: develop-effective-web-marketing-strategy
 permalink: /en/develop-effective-web-marketing-strategy/
+date: '2016-04-04'
 ---
 <img class="aligncenter" src="https://ttbagroup.com/wp-content/uploads/2016/04/effective-web-marketing-strategy.jpg" alt="Effective web marketing strategy for small business" width="734" height="487" />
 <p class="s1" style="font-size: 12pt; color: #000000;">Email marketing and social media have evolved into powerhouse tools for marketers, but they're not enough by themselves to increase sales. Small businesses need a complete web marketing strategy to make their products stand out and sell.</p>
