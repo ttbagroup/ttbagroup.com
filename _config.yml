@@ -93,7 +93,7 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          help: "This URL will be used for the page, see https://jekyllrb.com/docs/permalinks"
+          help: "This URL will be used for the page, see <a href='https://jekyllrb.com/docs/permalinks'>permalinks</a>"
           type: "text"
           placeholder: "/:title"
       - name: "ref"
@@ -183,7 +183,7 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          help: "This URL will be used for the page, see [permalinks](https://jekyllrb.com/docs/permalinks/)"
+          help: "This URL will be used for the page, see <a href='https://jekyllrb.com/docs/permalinks/'>permalinks</a>"
           type: "text"
           placeholder: "/:title"
       - name: "lang"
