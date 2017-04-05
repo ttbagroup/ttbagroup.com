@@ -1,5 +1,4 @@
 ---
-layout: tilda
 ref: blog
 published: true
 tilda: false

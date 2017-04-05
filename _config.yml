@@ -68,7 +68,11 @@ kramdown:
   parse_span_html: true
 
 defaults:
-    - {scope: {path: ""}, values: {layout: "default"}}
+    -
+      scope:
+        path: ""
+      values:
+        layout: "default"
 
 exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
 
