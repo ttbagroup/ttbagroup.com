@@ -1,0 +1,19 @@
+{
+  "@type": "Person",
+  {% if include.name %}"name": "{{ include.name }}",{% endif %}
+  {% if include.email %}"email": "{{ include.email }}",{% endif %}
+  {% if include.gender %}"gender": "{{ include.gender }}",{% endif %}
+  {% if include.jobTitle %}"jobTitle": "{{ include.jobTitle }}",{% endif %}
+  {% if include.nationality %}"nationality": "{{ include.nationality }}",{% endif %}
+  {% if include.telephone %}"telephone": "{{ include.telephone }}",{% endif %}
+  {% if include.url %}"url": "{{ include.url }}",{% endif %}
+  "sameAs": [
+    "",
+    {% if include.facebook %}"{{ include.facebook }}",{% endif %}
+    {% if include.instagram %}"{{ include.instagram }}",{% endif %}
+    {% if include.linkedin %}"{{ include.linkedin }}",{% endif %}
+    {% if include.twitter %}"{{ include.twitter }}",{% endif %}
+    {% if include.github %}"{{ include.github }}",{% endif %}
+    ""
+  ]
+}

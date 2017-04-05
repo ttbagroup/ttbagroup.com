@@ -4,13 +4,32 @@
   "url": "{{ site.url }}",
   "email": "{{ site.email }}",
   "foundingDate": "2016-01-01",
-  "leganName": "TTBA Gropup Inc.",
-  "name": "{{ site.title[lang] }}",
+  "name": "TTBA Gropup Inc.",
   "telephone": "+15149953515",
+  "logo": "https://ttbagroup.com/assets/logo.png",
+  "numberOfEmployees": 5,
+  "founders": [
+    {% include data-person.json name='Konstantin' jobTitle='CEO & Founder' %},
+    {% include data-person.json name='Leo' jobTitle='President, VP Operations' %},
+    {% include data-person.json name='Sasha' jobTitle='VP Business Development & CTO' %}
+  ],
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Montreal, Quebec, Canada",
     "postalCode": "H4E1A8",
     "streetAddress": "5538 Rue St-Patrick"
-  }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "5"
+  },
+  "sameAs": [
+    "https://www.youtube.com/user/ttbaevents",
+    "https://twitter.com/GroupeTTBA",
+    "https://plus.google.com/+Groupettba",
+    "https://www.linkedin.com/company/ttba-event-lab",
+    "https://www.pinterest.com/ttbagroup/",
+    "https://www.youtube.com/user/ttbaevents"
+  ]
 }
