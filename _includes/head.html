@@ -12,7 +12,10 @@
     <!-- critical -->
     <style type="text/css">{% include critical.css %}</style>
 
-
 	<meta property="fb:pages" content="1480973575459101" />
+
+	{% if page.noindex == true %}
+	<meta name="robots" content="noindex" />
+	{% endif %}
 
 </head>

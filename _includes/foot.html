@@ -1,6 +1,15 @@
+<!-- Retarded styles -->
 <link rel="stylesheet" type="text/css" href="/assets/index.css"/>
 <script src="/assets/zenscroll.js"></script>
 <script src="/assets/index.js" async></script>
+
+
+<!-- Global and page-specific structured data -->
+<script type="application/ld+json">{% include data-organization.json %}</script>
+{% if page.structured-data %}
+<script type="application/ld+json">page.structured-data</script>
+{% endif %}
+
 
 <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
 <script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>

@@ -79,11 +79,6 @@ prose:
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          type: "text"
       - name: "layout"
         field:
           element: "select"
@@ -143,6 +138,33 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
+      - name: "noindex"
+        field:
+          element: "checkbox"
+          label: "Noindex"
+          help: "Block search indexing of a page"
+          value: false
+      - name: "structured-data"
+        field:
+          element: "textarea"
+          label: "Structured Data"
+          help: "JSON-LD for structured data without <script> tag, see https://developers.google.com/schemas/formats/json-ld. For multiple entries use list [{ first }, { second }, ...]"
+          placeholder: >-
+            {
+              "@context": "http://schema.org",
+              "@type": "Person",
+              "name": "John Doe",
+              "jobTitle": "Graduate research assistant",
+              "affiliation": "University of Dreams",
+              "additionalName": "Johnny",
+              "url": "http://www.example.com",
+              "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "1234 Peach Drive",
+                "addressLocality": "Wonderland",
+                "addressRegion": "Georgia"
+              }
+            }
     _posts:
       - name: "title"
         field:
@@ -207,3 +229,9 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
+      - name: "noindex"
+        field:
+          element: "checkbox"
+          label: "Noindex"
+          help: "Block search indexing of a page"
+          value: false
