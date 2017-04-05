@@ -84,16 +84,11 @@ prose:
           element: "checkbox"
           label: "Published"
           value: true
-      - name: "layout"
+      - name: "tilda"
         field:
-          element: "select"
-          label: "Layout"
-          help: "Default layout is plain header-footer, tilda includes tilda css and js"
-          options:
-            - name: 'Default'
-              value: 'default'
-            - name: 'Tilda'
-              value: 'tilda'
+          element: "checkbox"
+          label: "Tilda"
+          value: true
       - name: "permalink"
         field:
           element: "text"
@@ -168,16 +163,11 @@ prose:
           help: "Overrides the date from the name of the post. HH:MM:SS are optional."
           placeholder: "YYYY-MM-DD HH:MM:SS"
           type: "date"
-      - name: "layout"
+      - name: "tilda"
         field:
-          element: "select"
-          label: "Layout"
-          help: "Choose tilda layout or default blog one"
-          options:
-            - name: 'Default'
-              value: 'default'
-            - name: 'Tilda'
-              value: 'tilda'
+          element: "checkbox"
+          label: "Tilda"
+          value: true
       - name: "permalink"
         field:
           element: "text"

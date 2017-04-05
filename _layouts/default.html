@@ -6,6 +6,14 @@
 
 	{% include head.html %}
 
+	{% if site.tilda != false %}
+	<!-- slightly modified default.html to allow for easy tilda copy-paste insertions.
+	Note that this is not the optimal according to speed insights -->
+	<link rel="stylesheet" href="/assets/tilda.css" rel="stylesheet" media="screen">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="https://cdn.rawgit.com/ttbagroup/ttbagroup.github.io/master/assets/tilda.js"></script>
+	{% endif %}
+
 	<body class="page {{ layout.type }}">
 		{% include header.html %}
 
@@ -14,6 +22,11 @@
 		</main>
 
 		{% include footer.html %}
+
+		{% if site.tilda != false %}
+		<script src="/assets/tilda.js"></script>
+		{% endif %}
+
 		{% include foot.html %}
 	</body>
 </html>
