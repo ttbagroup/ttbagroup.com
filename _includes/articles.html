@@ -1,6 +1,6 @@
 {% assign posts=include.posts | default: site.posts %}
 
-{% for post in posts %}<article class="article" itemscope itemtype="http://schema.org/BlogPosting" {% if post.hidden %}hidden{% endif %}>
+{% for post in posts %}<article class="article" {% if post.hidden %}hidden{% endif %}>
     <a class="article-link" href="{{ post.url | prepend: site.baseurl }}">
         {% assign src = post.content | split: 'data-content-cover-bg="' %}
         {% assign src = src[1] | split: '"' %}
@@ -11,7 +11,7 @@
         </figure>
         {% endif %}
         <div class="article-title">{{ post.title }}</div>
-        <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
+        <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}">
             {{ post.date | date_to_string }}
         </time>
         <div class="article-excerpt">
