@@ -10,8 +10,8 @@
 
 	<div class="site-header-main">
 		<a class="site-logo" href="{% include t-link.html ref='home' %}">
-			<img class="site-logo-image site-logo-image--inverse" src="/img/logo-inverse.png?v=1" alt="TTBA Group Logo"/>
-			<img class="site-logo-image site-logo-image--direct" src="/img/logo.png" alt="TTBA Group Logo"/>
+			<img class="site-logo-image site-logo-image--inverse" src="{{ assets }}/logo-inverse.png?v=1" alt="TTBA Group Logo"/>
+			<img class="site-logo-image site-logo-image--direct" src="{{ assets }}/logo.png" alt="TTBA Group Logo"/>
 		</a>
 
 		{% include menu.html class="site-header-nav" dropdown=true toggle=true %}
