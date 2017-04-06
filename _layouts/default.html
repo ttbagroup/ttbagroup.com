@@ -6,13 +6,45 @@
 
 	{% include head.html %}
 
-	{% if page.tilda != false %}
-	<!-- slightly modified default.html to allow for easy tilda copy-paste insertions.
-	Note that this is not the optimal according to speed insights -->
-	<link rel="stylesheet" href="/assets/tilda.css" rel="stylesheet" media="screen">
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-	<script src="https://cdn.rawgit.com/ttbagroup/ttbagroup.github.io/master/assets/tilda.js"></script>
-	{% endif %}
+	<script type="text/javascript">
+		//shim jquery for optimization purposes
+		window.$ = window.jQuery = function (x) {
+			return {
+				ready: function (fn) {
+					document.addEventListener('DOMContentLoaded', function (e) {
+						fn.call(x, e)
+					})
+				},
+				resize: function (fn) {
+					window.addEventListener('resize', function (e) {
+						fn.call(x, e)
+					})
+				},
+				load: function (fn) {
+					window.addEventListener('load', function (e) {
+						fn.call(x, e)
+					})
+				},
+				bind: function () {planJqueryCall('bind', arguments)},
+				on: function () {planJqueryCall('on', arguments)},
+				off: function () {planJqueryCall('off', arguments)}
+			}
+		}
+
+		var plannedJqueryCalls = []
+		function planJqueryCall (name, args) {
+			plannedJqueryCalls.push([name, args])
+		}
+
+		//go by planned calls and invoke them
+		document.addEventListener('DOMContentLoaded', function () {
+			for (var i = 0; i < plannedJqueryCalls.length; i++) {
+				var name = plannedJqueryCalls[i][0],
+					args = plannedJqueryCalls[i][1]
+				jQuery[name].apply(jQuery, args)
+			}
+		})
+	</script>
 
 	<body class="page{% if page.tilda %} page--tilda{% else %} page--default{% endif %}">
 		{% include header.html %}
@@ -30,7 +62,14 @@
 
 		{% include footer.html %}
 
+		<script type="text/javascript">
+			//deshim jquery
+			window.$ = window.jQuery = null
+		</script>
+
 		{% if page.tilda != false %}
+		<link rel="stylesheet" href="/assets/tilda.css" rel="stylesheet" media="screen">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 		<script src="/assets/tilda.js"></script>
 		{% endif %}
 
