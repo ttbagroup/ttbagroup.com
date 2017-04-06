@@ -12,12 +12,16 @@ body {
 
 
 .page--default .site-content {
-  max-width: 1180px;
+  max-width: 800px;
   margin-left: auto;
   margin-right: auto;
   padding: 1.6rem 0 7.2rem;
+  position: relative;
 }
 
+.page--default .site-content img {
+  max-width: 100%;
+}
 
 img { color: gray; text-align: center; }
 
