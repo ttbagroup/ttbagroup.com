@@ -423,6 +423,9 @@ img { color: gray; text-align: center; }
 }
 
 
+.site-footer a {
+  color: white;
+}
 
 .smooth-container { scroll-behavior: smooth }
 .back-button {
@@ -433,9 +436,8 @@ img { color: gray; text-align: center; }
   position: fixed;
   bottom: 1.4rem;
   right: 1.4rem;
-  background: red;
   border-radius: 4rem;
-  background: rgba(25, 27, 29, .9);
+  background: rgba(25, 27, 29, .85);
   opacity: 0;
   transition: .25s;
 }
