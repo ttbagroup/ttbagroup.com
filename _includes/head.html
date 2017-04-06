@@ -8,6 +8,9 @@
     <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 
     <style>{% include normalize.css %}</style>
+    {% if page.tilda != true %}
+    <style>{% include typebase.css %}</style>
+    {% endif %}
 
     <!-- critical -->
     <style type="text/css">{% include critical.css %}</style>

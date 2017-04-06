@@ -6,7 +6,7 @@
 
 	{% include head.html %}
 
-	{% if site.tilda != false %}
+	{% if page.tilda != false %}
 	<!-- slightly modified default.html to allow for easy tilda copy-paste insertions.
 	Note that this is not the optimal according to speed insights -->
 	<link rel="stylesheet" href="/assets/tilda.css" rel="stylesheet" media="screen">
@@ -14,16 +14,19 @@
 	<script src="https://cdn.rawgit.com/ttbagroup/ttbagroup.github.io/master/assets/tilda.js"></script>
 	{% endif %}
 
-	<body class="page{% if page.tilda %} page--tilda{% endif %}">
+	<body class="page{% if page.tilda %} page--tilda{% else %} page--default{% endif %}">
 		{% include header.html %}
 
 		<main class="site-content">
+			{% if page.tilda == false %}
+			<h1>{{ page.title }}</h1>
+			{% endif %}
 			{{ content }}
 		</main>
 
 		{% include footer.html %}
 
-		{% if site.tilda != false %}
+		{% if page.tilda != false %}
 		<script src="/assets/tilda.js"></script>
 		{% endif %}
 

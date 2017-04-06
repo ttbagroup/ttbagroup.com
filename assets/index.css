@@ -1,3 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&subset=latin,cyrillic);
+
 /**
  * dropdowns are not necessary to insert straight ahead
  * TODO: bring it to outer style?
@@ -218,7 +221,6 @@
 .site-footer {
   background: #202224;
   color: #fff;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
 .site-footer a {
