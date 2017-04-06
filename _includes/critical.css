@@ -465,4 +465,16 @@ img { color: gray; text-align: center; }
 }
 
 
-
+/** tilda critical */
+.t-cover {
+  background-size: cover;
+}
+.t-records{-webkit-font_smoothing:antialiased;background-color:none}.t-records a{color:#ff8562;text-decoration:none}.t-records a[href^=tel]{color:inherit;text-decoration:none}
+.t-name{font-family:'Roboto',sans-serif;font-weight:600;color:#000}
+.t-descr{font-family:'Roboto',sans-serif;font-weight:300;color:#000}
+.t-btn{display:inline-block;font-family:'Roboto',sans-serif;height:60px;border:0 none;font-size:16px;padding-left:60px;padding-right:60px;text-align:center;white-space:nowrap;vertical-align:middle;font-weight:700;background-image:none;cursor:pointer;-webkit-appearance:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-o-user-select:none;user-select:none;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;line-height: 60px;}
+.t-btn td{vertical-align:middle}.t-btn_sending{opacity:.5}
+@media screen and (max-width:640px){.t-btn{white-space:normal;padding-left:30px;padding-right:30px}}
+.t-uppercase{text-transform:uppercase}.t-align_center{text-align:center}.t-align_left{text-align:left}.t-align_right{text-align:right}
+.t-container{max-width:1200px;margin-left:auto;margin-right: auto;}
+.t-container:after{clear:both}
