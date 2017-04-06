@@ -79,7 +79,7 @@ exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 
 prose:
   rooturl: ''
   siteurl: 'http://ttbagroup.com'
-  media: 'assets'
+  media: 'img'
   ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
