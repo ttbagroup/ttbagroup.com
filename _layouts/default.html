@@ -69,6 +69,7 @@
 		{% if page.tilda != false %}
 		<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
 		<script type="text/javascript">
 			//do planned jQuery calls
 			for (var i = 0; i < plannedJqueryCalls.length; i++) {
@@ -77,6 +78,7 @@
 				jQuery[name].apply(jQuery, args)
 			}
 		</script>
+
 		<script src="{% include asset name='tilda.js' %}"></script>
 		{% endif %}
 
