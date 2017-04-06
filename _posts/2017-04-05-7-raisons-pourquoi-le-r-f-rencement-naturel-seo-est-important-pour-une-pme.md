@@ -1,7 +1,7 @@
 ---
 ref: blog
 published: true
-tilda: true
+tilda: false
 lang: fr
 transparent: true
 inverse: false
