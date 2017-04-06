@@ -26,10 +26,18 @@
 					})
 				},
 				bind: function () {planJqueryCall('bind', arguments)},
+				unbind: function () {planJqueryCall('unbind', arguments)},
 				on: function () {planJqueryCall('on', arguments)},
+				one: function () {planJqueryCall('one', arguments)},
 				off: function () {planJqueryCall('off', arguments)}
 			}
 		}
+
+		//add plannable method
+		var jqueryMethods = 'bind,unbind,on,one,off,focus,click,dblclick,mouseenter,mouseleave,blur,animate,css,hide,show,hover,select,get,post,ajax'.split(',')
+		jqueryMethods.forEach(function (method) {
+			$[method] = function () {planJqueryCall(method, arguments)}
+		})
 
 		var plannedJqueryCalls = []
 		function planJqueryCall (name, args) {
