@@ -6,7 +6,7 @@
   "foundingDate": "2016-01-01",
   "name": "TTBA Gropup Inc.",
   "telephone": "+15149953515",
-  "logo": "https://ttbagroup.com/assets/logo.png",
+  "logo": "{% include asset name='logo.png' %}",
   "numberOfEmployees": 5,
   "founders": [
     {% include data-person.json name='Konstantin' jobTitle='CEO & Founder' %},
