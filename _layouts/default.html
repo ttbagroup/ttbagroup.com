@@ -43,15 +43,6 @@
 		function planJqueryCall (name, args) {
 			plannedJqueryCalls.push([name, args])
 		}
-
-		//go by planned calls and invoke them
-		document.addEventListener('DOMContentLoaded', function () {
-			for (var i = 0; i < plannedJqueryCalls.length; i++) {
-				var name = plannedJqueryCalls[i][0],
-					args = plannedJqueryCalls[i][1]
-				jQuery[name].apply(jQuery, args)
-			}
-		})
 	</script>
 
 	<body class="page{% if page.tilda %} page--tilda{% else %} page--default{% endif %}">
@@ -78,6 +69,14 @@
 		{% if page.tilda != false %}
 		<link rel="stylesheet" href="/assets/tilda.css" rel="stylesheet" media="screen">
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script type="text/javascript">
+			//do planned jQuery calls
+			for (var i = 0; i < plannedJqueryCalls.length; i++) {
+				var name = plannedJqueryCalls[i][0],
+					args = plannedJqueryCalls[i][1]
+				jQuery[name].apply(jQuery, args)
+			}
+		</script>
 		<script src="/assets/tilda.js"></script>
 		{% endif %}
 
