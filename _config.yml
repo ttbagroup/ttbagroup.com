@@ -66,8 +66,7 @@ kramdown:
   parse_span_html: true
 
 defaults:
-    -
-      scope:
+    - scope:
         path: ""
       values:
         layout: "default"
