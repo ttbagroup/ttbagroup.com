@@ -4,7 +4,7 @@ var siteHeaderEl = document.querySelector('.site-header')
 var isInstagramReady = false
 
 window.addEventListener('scroll', checkScroll)
-checkScroll()
+window.addEventListener('load', checkScroll)
 
 function checkScroll () {
 	var scroll = window.pageYOffset || document.documentElement.scrollTop
@@ -40,6 +40,7 @@ var btns = document.querySelectorAll('.t-btn')
 for (var i = 0; i < btns.length; i++) {
 	//return
 }
+
 
 function initInstagram () {
 	isInstagramReady = true;
