@@ -56,8 +56,8 @@ copyright:
 
 email: info@ttbagroup.com
 baseurl: ""
-assetsurl: "https://ttbagroup.com/assets"
-#assetsurl: "/assets"
+assets: "https://ttbagroup.com/assets"
+#assets: "/assets"
 url: "http://ttbagroup.com"
 twitter_username: ttbagroup
 github_username:  ttbagroup
