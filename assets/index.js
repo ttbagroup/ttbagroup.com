@@ -1,8 +1,12 @@
 //sticky header thing
 var shrinkHeader = 96
 var siteHeaderEl = document.querySelector('.site-header')
-window.addEventListener('scroll', function(e) {
-	var scroll = getCurrentScroll()
+
+window.addEventListener('scroll', checkScroll)
+checkScroll()
+
+function checkScroll () {
+	var scroll = window.pageYOffset || document.documentElement.scrollTop
 
 	if ( scroll >= shrinkHeader ) {
 		siteHeaderEl.classList.add('site-header--sticky')
@@ -10,9 +14,6 @@ window.addEventListener('scroll', function(e) {
 	else {
 		siteHeaderEl.classList.remove('site-header--sticky')
 	}
-});
-function getCurrentScroll() {
-	return window.pageYOffset || document.documentElement.scrollTop;
 }
 
 
