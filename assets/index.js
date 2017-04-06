@@ -6,9 +6,11 @@ var isInstagramReady = false
 window.addEventListener('scroll', checkScroll)
 window.addEventListener('load', checkScroll)
 
+
 function checkScroll () {
 	var scroll = window.pageYOffset || document.documentElement.scrollTop
 
+	//do sticky header
 	if ( scroll >= shrinkHeader ) {
 		siteHeaderEl.classList.add('site-header--sticky')
 	}
@@ -16,6 +18,7 @@ function checkScroll () {
 		siteHeaderEl.classList.remove('site-header--sticky')
 	}
 
+	//init instagram
 	var height = Math.max( document.body.scrollHeight, document.body.offsetHeight)
 
 	if (!isInstagramReady && scroll > height - window.innerHeight*4) {
