@@ -7,7 +7,7 @@
     "test": "jekyll build",
     "start": "jekyll build",
     "build": "jekyll build",
-    "watch": "jekyll build --watch --incremental"
+    "watch": "jekyll build --config _config.yml,_config-dev.yml --watch --incremental"
   },
   "repository": {
     "type": "git",

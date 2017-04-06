@@ -406,16 +406,20 @@
 }
 .insta-item {
   text-decoration: none;
-  width: 33.33%;
   float: left;
+  max-width: 33.3%;
   box-sizing: border-box;
     padding: 0 0.2rem .2rem 0;
   border: none!important;
   position: relative;
 }
 .insta-image {
-  width: 100%;
+  max-width: 100%;
+  width: 80px;
+  height: 80px;
   display: block;
+  background-size: cover;
+  background-position: center;
 }
 .insta-feed-container .insta-feed-follow {
   margin-top: .6rem;

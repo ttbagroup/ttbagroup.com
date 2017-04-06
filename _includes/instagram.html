@@ -16,7 +16,7 @@
 				get: 'user',
 				limit: 9,
 				resolution: 'thumbnail',
-				template: {% raw %}'<a class="insta-item" href="{{link}}"><img class="insta-image" src="{{image}}"/></a>'{% endraw %}
+				template: {% raw %}'<a class="insta-item" href="{{link}}"><div class="insta-image" style="background-image:url({{image}})"></div></a>'{% endraw %}
 			});
 			feed.run();
 		})

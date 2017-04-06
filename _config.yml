@@ -57,10 +57,7 @@ copyright:
 email: info@ttbagroup.com
 baseurl: ""
 assets: "https://ttbagroup.com/assets"
-#assets: "/assets"
 url: "http://ttbagroup.com"
-twitter_username: ttbagroup
-github_username:  ttbagroup
 permalink: :title
 
 markdown: kramdown
@@ -80,8 +77,8 @@ exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 
 prose:
   rooturl: ''
   siteurl: 'http://ttbagroup.com'
-  media: 'img'
-  ignore: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
+  media: 'assets'
+  ignore: ['CNAME', '_config.yml', '_config-dev.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:
     pages:
       - name: "published"
