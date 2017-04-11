@@ -40,10 +40,4 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 <script src="{% include asset name='index.js' %}" defer async></script>
 
 
-<!-- Global and page-specific structured data -->
-<script type="application/ld+json">{% include data-organization.json %}</script>
-{% if page.service-name %}
-<script type="application/ld+json">{% include data-service.json rating=page.service-rating reviews=page.service-reviews name=page.service-name %}</script>
-{% endif %}
-
 

@@ -61,6 +61,13 @@
 			{% endif %}
 		</main>
 
+		<!-- Global and page-specific structured data -->
+		<script type="application/ld+json">{% include data-organization.json %}</script>
+		{% if page.service-name %}
+		<script type="application/ld+json">{% include data-service.json rating=page.service-rating reviews=page.service-reviews name=page.service-name %}</script>
+		{% endif %}
+
+
 		{% if page.blank != true %}
 			{% include footer.html %}
 
