@@ -45,11 +45,13 @@
 		}
 	</script>
 
-	<body class="page{% if page.tilda %} page--tilda{% else %} page--default{% endif %}">
-		{% include header.html %}
+	<body class="page{% if page.tilda %} page--tilda{% else if page.blank %} page--blank{% else %} page--default{% endif %}">
+		{% if page.blank != true %}
+			{% include header.html %}
+		{% endif %}
 
 		<main class="site-content">
-			{% if page.tilda == false %}
+			{% if page.tilda == false and page.blank == false %}
 			<div class="site-content-container">
 				<h1>{{ page.title }}</h1>
 				{{ content }}
@@ -59,29 +61,31 @@
 			{% endif %}
 		</main>
 
-		{% include footer.html %}
+		{% if page.blank != true %}
+			{% include footer.html %}
 
-		<script type="text/javascript">
-			//deshim jquery
-			window.$ = window.jQuery = null
-		</script>
+			<script type="text/javascript">
+				//deshim jquery
+				window.$ = window.jQuery = null
+			</script>
 
-		{% if page.tilda != false %}
-		<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+			{% if page.tilda != false %}
+			<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
+			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
-		<script type="text/javascript">
-			//do planned jQuery calls
-			for (var i = 0; i < plannedJqueryCalls.length; i++) {
-				var name = plannedJqueryCalls[i][0],
-					args = plannedJqueryCalls[i][1]
-				jQuery[name].apply(jQuery, args)
-			}
-		</script>
+			<script type="text/javascript">
+				//do planned jQuery calls
+				for (var i = 0; i < plannedJqueryCalls.length; i++) {
+					var name = plannedJqueryCalls[i][0],
+						args = plannedJqueryCalls[i][1]
+					jQuery[name].apply(jQuery, args)
+				}
+			</script>
 
-		<script src="{% include asset name='tilda.js' %}"></script>
+			<script src="{% include asset name='tilda.js' %}"></script>
+			{% endif %}
+
+			{% include foot.html %}
 		{% endif %}
-
-		{% include foot.html %}
 	</body>
 </html>

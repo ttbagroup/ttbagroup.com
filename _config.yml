@@ -85,11 +85,6 @@ prose:
           element: "checkbox"
           label: "Published"
           value: true
-      - name: "tilda"
-        field:
-          element: "checkbox"
-          label: "Tilda"
-          value: true
       - name: "permalink"
         field:
           element: "text"
@@ -114,6 +109,16 @@ prose:
               value: 'en'
             - name: 'Français'
               value: 'fr'
+      - name: "tilda"
+        field:
+          element: "checkbox"
+          label: "Tilda"
+          value: true
+      - name: "blank"
+        field:
+          element: "checkbox"
+          label: "Blank template"
+          value: false
       - name: "transparent"
         field:
           element: "checkbox"

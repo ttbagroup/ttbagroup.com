@@ -10,9 +10,13 @@ body {
 	background: white;
 }
 
+.site-content {
+  min-height: 60vh;
+}
 
 .site-header ~ .site-content {
   margin-top: 7rem;
+  padding-top: .8rem;
 }
 
 .site-header--transparent ~ .site-content {

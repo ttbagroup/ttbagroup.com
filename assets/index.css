@@ -1,6 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&subset=latin,cyrillic);
 
+
+.page--blank .site-content {
+  height: 100vh;
+}
+
+
 /**
  * dropdowns are not necessary to insert straight ahead
  * TODO: bring it to outer style?
