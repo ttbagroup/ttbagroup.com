@@ -43,12 +43,9 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 
 
 {% if page.blank != true %}
-<!-- Retarded styles -->
-<link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
-{% endif %}
-
-{% if page.blank != true %}
-	<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
+	<script src="{% include asset name='instafeed.min.js' %}" defer async></script>
+	<script src="{% include asset name='zenscroll.js' %}" defer async></script>
+	<script src="{% include asset name='index.js' %}" defer async></script>
 
 	{% if page.tilda != false %}
 	<script type="text/javascript">
@@ -79,10 +76,9 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async defer onload="initJquery"></script> -->
 	<!-- <script src="{% include asset name='tilda.js' %}"></script> -->
+	<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
 	{% endif %}
 
-	<script src="{% include asset name='instafeed.min.js' %}" defer async></script>
-	<script src="{% include asset name='zenscroll.js' %}" defer async></script>
-	<script src="{% include asset name='index.js' %}" defer async></script>
+	<!-- Retarded styles -->
+	<link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
 {% endif %}
-
