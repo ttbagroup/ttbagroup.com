@@ -132,6 +132,13 @@ prose:
           label: "Inverse header"
           help: "Turn header into white font, in case if you have dark hero"
           value: false
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image URL"
+          help: "Insert URL to the image used as featured for the post: facebook, pinterest etc"
+          type: "text"
+          placeholder: "/assets/image.jpg"
       - name: "meta-title"
         field:
           element: "text"
@@ -170,11 +177,6 @@ prose:
           help: "Overrides the date from the name of the post. HH:MM:SS are optional."
           placeholder: "YYYY-MM-DD HH:MM:SS"
           type: "date"
-      - name: "tilda"
-        field:
-          element: "checkbox"
-          label: "Tilda"
-          value: true
       - name: "permalink"
         field:
           element: "text"
@@ -196,6 +198,11 @@ prose:
         field:
           element: "hidden"
           value: "blog"
+      - name: "tilda"
+        field:
+          element: "checkbox"
+          label: "Tilda"
+          value: true
       - name: "transparent"
         field:
           element: "checkbox"
@@ -208,6 +215,13 @@ prose:
           label: "Inverse header"
           help: "Make header white, in case if you have dark hero"
           value: false
+      - name: "image"
+        field:
+          element: "text"
+          label: "Featured image URL"
+          help: "Insert URL to the image used as featured for the post: facebook, pinterest etc"
+          type: "text"
+          placeholder: "/assets/image.jpg"
       - name: "meta-title"
         field:
           element: "text"
