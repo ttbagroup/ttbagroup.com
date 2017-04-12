@@ -16,7 +16,7 @@ body {
 
 .site-header ~ .site-content {
   margin-top: 7rem;
-  padding-top: .8rem;
+  /*padding-top: .8rem;*/
 }
 
 .site-header--transparent ~ .site-content {

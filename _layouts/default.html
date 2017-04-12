@@ -11,7 +11,7 @@
 		window.$ = window.jQuery = function (x) {
 			return {
 				ready: function (fn) {
-					document.addEventListener('DOMContentLoaded', function (e) {
+					window.addEventListener('jqueryReady', function (e) {
 						fn.call(x, e)
 					})
 				},
@@ -21,7 +21,7 @@
 					})
 				},
 				load: function (fn) {
-					window.addEventListener('load', function (e) {
+					window.addEventListener('jqueryReady', function (e) {
 						fn.call(x, e)
 					})
 				},
@@ -61,38 +61,10 @@
 			{% endif %}
 		</main>
 
-		<!-- Global and page-specific structured data -->
-		<script type="application/ld+json">{% include data-organization.json %}</script>
-		{% if page.service-name %}
-		<script type="application/ld+json">{% include data-service.json rating=page.service-rating reviews=page.service-reviews name=page.service-name %}</script>
-		{% endif %}
-
-
 		{% if page.blank != true %}
 			{% include footer.html %}
-
-			<script type="text/javascript">
-				//deshim jquery
-				window.$ = window.jQuery = null
-			</script>
-
-			{% if page.tilda != false %}
-			<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
-			<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-
-			<script type="text/javascript">
-				//do planned jQuery calls
-				for (var i = 0; i < plannedJqueryCalls.length; i++) {
-					var name = plannedJqueryCalls[i][0],
-						args = plannedJqueryCalls[i][1]
-					jQuery[name].apply(jQuery, args)
-				}
-			</script>
-
-			<script src="{% include asset name='tilda.js' %}"></script>
-			{% endif %}
-
-			{% include foot.html %}
 		{% endif %}
+
+		{% include foot.html %}
 	</body>
 </html>

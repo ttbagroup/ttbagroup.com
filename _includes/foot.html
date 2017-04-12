@@ -1,3 +1,10 @@
+<!-- Global and page-specific structured data -->
+<script type="application/ld+json">{% include data-organization.json %}</script>
+{% if page.service-name %}
+<script type="application/ld+json">{% include data-service.json rating=page.service-rating reviews=page.service-reviews name=page.service-name %}</script>
+{% endif %}
+
+
 <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
 <script src="https://cdn.jsdelivr.net/ga-lite/latest/ga-lite.min.js" async></script>
 <script>
@@ -33,11 +40,49 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
 
+
+
+{% if page.blank != true %}
 <!-- Retarded styles -->
 <link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
-<script src="{% include asset name='instafeed.min.js' %}" defer async></script>
-<script src="{% include asset name='zenscroll.js' %}" defer async></script>
-<script src="{% include asset name='index.js' %}" defer async></script>
+{% endif %}
 
+{% if page.blank != true %}
+	<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
 
+	{% if page.tilda != false %}
+	<script type="text/javascript">
+		//deshim jquery
+		window.$ = window.jQuery = null
+		importScript('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', function () {
+			importScript("{% include asset name='tilda.js' %}", function () {
+				window.dispatchEvent(new Event('jqueryReady'))
+
+				// do planned jQuery calls
+				for (var i = 0; i < plannedJqueryCalls.length; i++) {
+					var name = plannedJqueryCalls[i][0],
+						args = plannedJqueryCalls[i][1]
+					jQuery[name].apply(jQuery, args)
+				}
+			})
+		})
+
+		function importScript (sSrc, fOnload) {
+			var oScript = document.createElement("script");
+			oScript.type = "text\/javascript";
+			// oScript.onerror = loadError;
+			if (fOnload) { oScript.onload = fOnload; }
+			document.body.appendChild(oScript);
+			oScript.src = sSrc;
+		}
+	</script>
+
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async defer onload="initJquery"></script> -->
+	<!-- <script src="{% include asset name='tilda.js' %}"></script> -->
+	{% endif %}
+
+	<script src="{% include asset name='instafeed.min.js' %}" defer async></script>
+	<script src="{% include asset name='zenscroll.js' %}" defer async></script>
+	<script src="{% include asset name='index.js' %}" defer async></script>
+{% endif %}
 

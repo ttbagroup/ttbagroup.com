@@ -72,6 +72,7 @@ defaults:
         layout: "default"
 
 exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
+keep_files: ['sftp-config.json']
 
 prose:
   rooturl: ''
