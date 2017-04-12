@@ -59,6 +59,7 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 				for (var i = 0; i < plannedJqueryCalls.length; i++) {
 					var name = plannedJqueryCalls[i][0],
 						args = plannedJqueryCalls[i][1]
+
 					jQuery[name].apply(jQuery, args)
 				}
 			})
@@ -72,13 +73,27 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 			document.body.appendChild(oScript);
 			oScript.src = sSrc;
 		}
-	</script>
 
+		function loadDeferredStyles () {
+			var addStylesNode = document.getElementById("deferred-styles");
+			var replacement = document.createElement("div");
+			replacement.innerHTML = addStylesNode.textContent;
+			document.body.appendChild(replacement)
+			addStylesNode.parentElement.removeChild(addStylesNode);
+		};
+		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
+		if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+		else window.addEventListener('load', loadDeferredStyles);
+    </script>
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async defer onload="initJquery"></script> -->
 	<!-- <script src="{% include asset name='tilda.js' %}"></script> -->
-	<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
 	{% endif %}
 
 	<!-- Retarded styles -->
-	<link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
+	<noscript id="deferred-styles">
+		{% if page.tilda == true %}
+		<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
+		{% endif %}
+		<link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
+    </noscript>
 {% endif %}
