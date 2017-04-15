@@ -9,7 +9,9 @@ noindex: false
 title: Comment optimiser le site web pour un meilleur positionnement sur Google
 date: '2016-05-10'
 permalink: /comment-optimiser-le-site-web-pour-un-meilleur-positionnement-sur-google/
+image: /assets/analytics.jpg
 ---
+
 <img class="aligncenter" src="https://ttbagroup.com/wp-content/uploads/2016/05/meilleur-positionnement-sur-google.jpg" alt="Meilleur Positionnement Sur Google" width="638" height="478" />
 <p class="s1" style="font-size: 12pt; color: #000000;">La création d’un site internet est aujourd’hui simplifiée et monsieur madame tout le monde peut aisément à sa guise se créer une page personnelle ou d’entreprise, d’un très bel aspect, et sans nécessairement recourir aux services, parfois dispendieux, d’un professionnel. Cependant, et beaucoup en font l’expérience un peu trop tard, mettre en ligne un site internet ne garantit pas <strong>un meilleur positionnement sur Google</strong>, géant des moteurs de recherche. Donc, à moins d’une recherche ultra précise, vos clients potentiels risquent fort de ne jamais tomber sur votre page.</p>
 <img class="aligncenter wp-image-2452" src="https://ttbagroup.com/wp-content/uploads/2016/05/Referencement-est-art.jpg" alt="Référencement c'est l'art" width="638" height="478" />
