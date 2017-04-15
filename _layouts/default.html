@@ -44,8 +44,7 @@
 			plannedJqueryCalls.push([name, args])
 		}
 	</script>
-
-	<body class="page{% if page.tilda %} page--tilda{% else if page.blank %} page--blank{% else %} page--default{% endif %}">
+	<body class="page{% if page.tilda == true %} page--tilda{% elsif page.blank == true %} page--blank{% else %} page--default{% endif %}">
 		{% if page.blank != true %}
 			{% include header.html %}
 		{% endif %}

@@ -27,7 +27,7 @@
 	<a class="menu-item" href="{% include t-link.html ref=page.ref lang='en' %}">
 		<span class="menu-link menu-link--lang">{% include flag-en.html %} En</span>
 	</a>
-	{% else if lang != 'fr' %}
+	{% elsif lang != 'fr' %}
 	<a class="menu-item" href="{% include t-link.html ref=page.ref lang='fr' %}">
 		<span class="menu-link menu-link--lang">{% include flag-fr.html %} Fr</span>
 	</a>
