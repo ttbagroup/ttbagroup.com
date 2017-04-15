@@ -55,7 +55,7 @@ copyright:
   fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
 
 email: info@ttbagroup.com
-baseurl: ""
+baseurl: "https://ttbagroup.com"
 assets: "https://ttbagroup.com/assets"
 url: "http://ttbagroup.com"
 permalink: :title

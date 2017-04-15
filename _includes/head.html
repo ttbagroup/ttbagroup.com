@@ -13,7 +13,7 @@
 	<!-- for Facebook -->
 	<meta property="og:title" content="{{ page.meta-description | default: site.description[lang] }}" />
 	<meta property="og:type" content="article" />
-	<meta property="og:image" content="{{ page.image | default: '/assets/logo.png' | uri_escape }}" />
+	<meta property="og:image" content="{{ site.baseurl }}{{ page.image | default: '/assets/logo.png' | uri_escape }}" />
 	<meta property="og:url" content="" />
 	<meta property="og:description" content="{{ page.meta-description | default: site.description[lang] }}" />
 
@@ -21,7 +21,7 @@
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:title" content="{{ page.meta-description | default: site.description[lang] }}" />
 	<meta name="twitter:description" content="{{ page.meta-description | default: site.description[lang] }}" />
-	<meta name="twitter:image" content="{{ page.image | default: '/assets/logo.png' | uri_escape }}" />
+	<meta name="twitter:image" content="{{ site.baseurl }}{{ page.image | default: '/assets/logo.png' | uri_escape }}" />
 
     <style>{% include normalize.css %}</style>
     {% if page.tilda != true %}
