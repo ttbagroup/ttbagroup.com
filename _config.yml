@@ -222,6 +222,13 @@ prose:
           help: "Insert URL to the image used as featured for the post: facebook, pinterest etc"
           type: "text"
           placeholder: "/assets/image.jpg"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          type: "text"
+          help: "Personalization matters"
+          placeholder: "Leo, is that you?"
       - name: "meta-title"
         field:
           element: "text"
