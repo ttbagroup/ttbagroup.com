@@ -16,9 +16,12 @@
         </figure>
         {% endif %}
         <div class="article-title">{{ post.title }}</div>
-        <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}">
-            {{ post.date | date_to_string }}
-        </time>
+        <div class="article-meta">
+            {% if post.author %}<span class="article-author">{{ post.author }}</span>{% endif %}
+            <time class="article-date" datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date_to_string }}
+            </time>
+        </div>
         <div class="article-excerpt">
             {{ post.excerpt | strip_html | truncatewords: 22 }}
         </div>

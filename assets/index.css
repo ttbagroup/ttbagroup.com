@@ -388,11 +388,22 @@
   font-weight: 500;
 }
 .site-footer .article-date {
-  display: block;
   font-size: .75rem;
   margin-top: .2rem;
   font-weight: 500;
   color: rgb(88, 88, 88);
+  display: inline;
+}
+.site-footer .article-meta {
+  margin-left: 4.8rem;
+}
+.site-footer .article-author {
+  margin-right: .8rem;
+  display: inline;
+  text-transform: uppercase;
+  letter-spacing: .1ex;
+  font-size: .7rem;
+  color: rgb(153, 153, 153);
 }
 .site-footer .article-excerpt {
   display: none;
