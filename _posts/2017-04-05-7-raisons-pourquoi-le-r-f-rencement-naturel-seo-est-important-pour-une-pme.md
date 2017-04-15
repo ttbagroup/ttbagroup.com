@@ -9,6 +9,8 @@ noindex: false
 title: 7 raisons pourquoi le référencement naturel (SEO) est important pour une PME
 permalink: /7-raisons-referencement-naturel-est-important-pour-pme/
 date: '2016-02-10'
+image: /assets/référencement-naturel-offre.jpg
+meta-title: 7 raisons pourquoi le référencement naturel (SEO) est important pour une PME
 ---
 <img class="aligncenter size-full wp-image-2162" src="https://ttbagroup.com/wp-content/uploads/2016/02/Pourquoi-référencement-naturel-est-important.jpg" alt="Pourquoi référencement naturel est important" width="700" height="500" />
 <p style="font-size: 12pt; color: #000000;">En référencement naturel, le terme SEO vient de l’anglais et signifie Search Engine Optimization, traduction vers le français : <a href="http://fr.wikipedia.org/wiki/Optimisation_pour_les_moteurs_de_recherche" target="_blank">optimisation pour les moteurs de recherche</a>. Il faut comprendre tout d’abord que les moteurs de recherche tels Yahoo, Google ou encore Bing, utilisent des robots informatiques performants qui parcourent le web à la recherche des sites les plus attrayants et pertinents afin de rendre les expériences de recherche plus faciles, pour ses utilisateurs. Dans le but de donner un coup de pouce à cette robotique, le développeur web doit user de stratégies précises pour attirer un certain trafic sur son site internet et voir celui-ci sortir dans les premiers résultats de recherche.</p>
