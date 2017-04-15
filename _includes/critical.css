@@ -482,3 +482,6 @@ img { color: gray; text-align: center; }
 .t-uppercase{text-transform:uppercase}.t-align_center{text-align:center}.t-align_left{text-align:left}.t-align_right{text-align:right}
 .t-container{max-width:1200px;margin-left:auto;margin-right: auto;}
 .t-container:after{clear:both}
+.t-cell{display:table-cell;vertical-align:middle;height:100%;margin-left:0;margin-right:0}
+.t-cell_25{width:25vw}
+.t335__submit{line-height: 60px;}
