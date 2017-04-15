@@ -12,7 +12,7 @@
 
         {% if src %}
         <figure class="article-figure">
-            <div class="article-image" style="background-image: url({{ src }});" title="{{ post.title }}"/>
+            <div class="article-image" style="background-image: url('{{ src }}');" title="{{ post.title }}"/>
         </figure>
         {% endif %}
         <div class="article-title">{{ post.title }}</div>
