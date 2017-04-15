@@ -2,8 +2,8 @@
 
 {% for post in posts reversed %}{% if forloop.index <= 3%}<article class="article" {% if post.hidden %}hidden{% endif %}>
     <a class="article-link" href="{{ post.url | prepend: site.baseurl }}">
-        {% if post.featured %}
-            {% assign src = post.featured %}
+        {% if post.image %}
+            {% assign src = post.image %}
         {% else %}
             {% assign src = post.content | split: 'data-content-cover-bg="' %}
             {% assign src = src[1] | split: '"' %}
