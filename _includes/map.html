@@ -9,9 +9,9 @@
         margin-bottom: 1.2rem;
     }
     .map {
-        width: 100%;
-		height: calc(100% + 40px);
-	}
+      width: 100%;
+      height: calc(100% + 40px);
+	   }
 </style>
 
 <div class="map-container">
@@ -26,7 +26,7 @@ function initMap() {
         zoom: 15,
         backgroundColor: 'none',
         disableDefaultUI: true,
-        center: new google.maps.LatLng(45.4634237,-73.5965658),
+        center: {lat: 45.463578, lng: -73.596336},
         styles: [
   {
     "elementType": "geometry",
@@ -246,10 +246,11 @@ function initMap() {
     var mapElement = document.getElementById('{{ id }}');
     var map = new google.maps.Map(mapElement, mapOptions);
     var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(45.4634237,-73.5965658),
+        position: new google.maps.LatLng(45.463578, -73.596336),
         map: map,
         title: 'TTBA Group'
     });
 }
 </script>
+
 
