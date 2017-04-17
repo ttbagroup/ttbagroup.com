@@ -387,11 +387,17 @@
   display: inline;
   font-weight: 500;
 }
+.site-footer .article-link .article-title-text {
+  border-bottom: 1px solid rgba(255,255,255,.15)
+}
+.site-footer .article-link:hover .article-title-text {
+  border-bottom: 1px solid rgba(255,255,255,1)
+}
 .site-footer .article-date {
   font-size: .75rem;
   margin-top: .2rem;
   font-weight: 500;
-  color: rgb(88, 88, 88);
+  color: rgb(130, 130, 130);
   display: inline;
 }
 .site-footer .article-meta {
@@ -403,7 +409,7 @@
   text-transform: uppercase;
   letter-spacing: .1ex;
   font-size: .7rem;
-  color: rgb(153, 153, 153);
+  color: rgb(170, 170, 170);
 }
 .site-footer .article-excerpt {
   display: none;
