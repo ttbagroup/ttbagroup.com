@@ -155,6 +155,12 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
+      - name: "redirect_from"
+        field: "text"
+        label: "Redirect from"
+        help: "This URL will redirect to this page"
+        type: "text"
+        placeholder: "/alternative-url/"
       - name: "noindex"
         field:
           element: "checkbox"
@@ -187,6 +193,7 @@ prose:
           help: "This URL will be used for the page, see <a href='https://jekyllrb.com/docs/permalinks/'>permalinks</a>"
           type: "text"
           placeholder: "/:title"
+        placeholder: "/alternative-url/"
       - name: "lang"
         field:
           element: "select"
@@ -245,6 +252,11 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
+      - name: "redirect_from"
+        field: "text"
+        label: "Redirect from"
+        help: "This URL will redirect to this page"
+        type: "text"
       - name: "noindex"
         field:
           element: "checkbox"

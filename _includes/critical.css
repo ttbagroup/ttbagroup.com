@@ -192,12 +192,13 @@ img { color: gray; text-align: center; }
   line-height: 2rem;
   text-align: center;
   text-decoration: none;
+  -webkit-font-smoothing: antialiased;
 }
 .site-header-nav .menu-item > .menu-link {
   text-decoration: none;
   -webkit-transition 0.25s;
   transition: 0.25s;
-  font-weight: 300;
+  font-weight: 500;
   color: #898a8c;
 }
 .site-header--inverse .menu-item > .menu-link {
