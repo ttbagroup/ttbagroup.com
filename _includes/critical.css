@@ -492,8 +492,9 @@ img { color: gray; text-align: center; }
   border-bottom: 1px solid rgba(255,255,255,1);
 }
 .site-footer-section {
+  position: relative;
 }
-.site-footer-section--columns {
+.site-footer-container {
   max-width: 1180px;
   position: relative;
   margin: 0 auto;

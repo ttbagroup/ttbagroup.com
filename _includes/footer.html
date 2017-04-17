@@ -1,33 +1,40 @@
 {% assign lang=page.lang | default: 'en' %}
 <footer id="footer" class="site-footer">
 	<div class="site-footer-section site-footer-section--columns">
-		<div class="site-footer-column site-footer-column--1">
-			<div class="site-footer-column-title">Reach us</div>
+		<div class="site-footer-container">
+			<div class="site-footer-column site-footer-column--1">
+				<div class="site-footer-column-title">Reach us</div>
 
-			{% include map.html id="footer-map" height="8rem" %}
+				<div class="map-pin-spacer"></div>
 
-			{% include address.html %}
+				{% include address.html %}
 
-			{% include social.html class="site-footer-social" %}
+				{% include social.html class="site-footer-social" %}
+			</div>
+
+			<div class="site-footer-column site-footer-column--2">
+				<div class="site-footer-column-title">Recent blog articles</div>
+				{% assign posts=site.posts | where: 'lang', lang | sort: 'date' %}
+				{% include articles.html posts=posts %}
+			</div>
+
+			<div class="site-footer-column site-footer-column--3">
+				<div class="site-footer-column-title">Instagram</div>
+
+				{% include instagram.html %}
+			</div>
+
+			<div class="site-footer-column site-footer-column--4">
+				<div class="site-footer-column-title">Let’s be friends</div>
+
+				<!-- facebook group -->
+				<div class="fb-page" data-href="https://www.facebook.com/TTBAgroup" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/TTBAgroup" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TTBAgroup">TTBA Group</a></blockquote></div>
+			</div>
 		</div>
 
-		<div class="site-footer-column site-footer-column--2">
-			<div class="site-footer-column-title">Recent blog articles</div>
-			{% assign posts=site.posts | where: 'lang', lang | sort: 'date' %}
-			{% include articles.html posts=posts %}
-		</div>
 
-		<div class="site-footer-column site-footer-column--3">
-			<div class="site-footer-column-title">Instagram</div>
-
-			{% include instagram.html %}
-		</div>
-
-		<div class="site-footer-column site-footer-column--4">
-			<div class="site-footer-column-title">Let’s be friends</div>
-
-			<!-- facebook group -->
-			<div class="fb-page" data-href="https://www.facebook.com/TTBAgroup" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/TTBAgroup" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/TTBAgroup">TTBA Group</a></blockquote></div>
+		<div class="map-container">
+			<div id="map" class="map"></div>
 		</div>
 	</div>
 

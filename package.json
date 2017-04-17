@@ -2,7 +2,7 @@
   "name": "ttba",
   "version": "1.0.0",
   "description": "TTBA group website",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "jekyll build",
     "start": "jekyll build",
