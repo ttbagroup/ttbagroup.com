@@ -47,8 +47,8 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 	<script src="{% include asset name='zenscroll.js' %}" defer async></script>
 	<script src="{% include asset name='index.js' %}" defer async></script>
 
-	{% if page.tilda != false %}
 	<script type="text/javascript">
+		{% if page.tilda != false %}
 		//deshim jquery
 		window.$ = window.jQuery = null
 		importScript('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', function () {
@@ -64,6 +64,7 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 				}
 			})
 		})
+		{% endif %}
 
 		function importScript (sSrc, fOnload) {
 			var oScript = document.createElement("script");
@@ -87,7 +88,6 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
     </script>
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js" async defer onload="initJquery"></script> -->
 	<!-- <script src="{% include asset name='tilda.js' %}"></script> -->
-	{% endif %}
 
 
 	<!-- Retarded styles -->
@@ -98,6 +98,7 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 		{% if page.tilda == true %}
 		<link rel="stylesheet" href="{% include asset name='tilda.css' %}" media="screen">
 		{% endif %}
+
 		<link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
     </noscript>
 {% endif %}

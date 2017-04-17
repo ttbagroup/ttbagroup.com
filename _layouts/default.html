@@ -11,17 +11,31 @@
 			{% include header.html %}
 		{% endif %}
 
-		{% if page.previous %}
 		<!-- Init prev/next post arrows -->
-		<a class="post-arrow post-arrow--prev" href="{{ page.previous.url }}">
-			{% include up.svg %} <span class="post-arrow-text">{{page.previous.title}}</span>
-		</a>
+		{% if page.previous %}
+			{% if page.previous.lang == lang %}
+			{% assign prev=page.previous %}
+			{% else %}
+			{% assign prev=page.previous.previous %}
+			{% endif %}
+			{% if prev %}
+			<a class="post-arrow post-arrow--prev" href="{{ prev.url }}">
+				{% include up.svg %} <span class="post-arrow-text">{{ prev.title }}</span>
+			</a>
+			{% endif %}
 		{% endif %}
 
 		{% if page.next %}
-		<a class="post-arrow post-arrow--next" href="{{page.next.url}}">
-			<span class="post-arrow-text">{{page.next.title}}</span> {% include up.svg %}
-		</a>
+			{% if page.next.lang == lang %}
+			{% assign next=page.next %}
+			{% else %}
+			{% assign next=page.next.next %}
+			{% endif %}
+			{% if next %}
+			<a class="post-arrow post-arrow--next" href="{{ next.url }}">
+				<span class="post-arrow-text">{{ next.title }}</span> {% include up.svg %}
+			</a>
+			{% endif %}
 		{% endif %}
 
 		<main class="site-content">

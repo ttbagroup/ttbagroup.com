@@ -8,7 +8,10 @@
 	<meta name="keywords" content="" />
 	<meta name="author" content="{{ site.title[lang] }}" />
 	<meta name="copyright" content="" />
-	<meta name="application-name" content="" />
+	<meta name="application-name" content="{{ site.title[lang] }}" />
+
+	<link rel='apple-touch-icon' type='image/png' href='{{ site.assets }}/favicon.png'>
+	<link rel="icon" type="image/png" href="{{ site.assets }}/favicon.png" />
 
 	<!-- for Facebook -->
 	<meta property="og:title" content="{{ page.meta-description | default: site.description[lang] }}" />
