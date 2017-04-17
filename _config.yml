@@ -57,7 +57,6 @@ copyright:
 email: info@ttbagroup.com
 baseurl: "https://ttbagroup.com"
 assets: "https://ttbagroup.com/assets"
-url: "http://ttbagroup.com"
 permalink: :title
 
 markdown: kramdown
@@ -79,7 +78,7 @@ gems:
 
 prose:
   rooturl: ''
-  siteurl: 'http://ttbagroup.com'
+  siteurl: 'http://ttbagroup.github.io'
   media: 'assets'
   ignore: ['CNAME', '_config.yml', '_config-dev.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 'admin.html', 'node_modules']
   metadata:

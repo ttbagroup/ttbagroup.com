@@ -61,3 +61,8 @@ function initInstagram () {
 		feed.run();
 	}
 }
+
+
+
+
+//init posts left/right

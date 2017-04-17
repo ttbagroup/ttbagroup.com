@@ -2,6 +2,7 @@
 ref: blog
 published: true
 tilda: false
+blank: false
 lang: fr
 transparent: false
 inverse: false

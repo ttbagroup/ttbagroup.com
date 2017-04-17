@@ -6,51 +6,26 @@
 
 	{% include head.html %}
 
-	<script type="text/javascript">
-		//shim jquery for optimization purposes
-		window.$ = window.jQuery = function (x) {
-			return {
-				ready: function (fn) {
-					window.addEventListener('jqueryReady', function (e) {
-						fn.call(x, e)
-					})
-				},
-				resize: function (fn) {
-					window.addEventListener('resize', function (e) {
-						fn.call(x, e)
-					})
-				},
-				load: function (fn) {
-					window.addEventListener('jqueryReady', function (e) {
-						fn.call(x, e)
-					})
-				},
-				bind: function () {planJqueryCall('bind', arguments)},
-				unbind: function () {planJqueryCall('unbind', arguments)},
-				on: function () {planJqueryCall('on', arguments)},
-				one: function () {planJqueryCall('one', arguments)},
-				off: function () {planJqueryCall('off', arguments)}
-			}
-		}
-
-		//add plannable method
-		var jqueryMethods = 'bind,unbind,on,one,off,focus,click,dblclick,mouseenter,mouseleave,blur,animate,css,hide,show,hover,select,get,post,ajax'.split(',')
-		jqueryMethods.forEach(function (method) {
-			$[method] = function () {planJqueryCall(method, arguments)}
-		})
-
-		var plannedJqueryCalls = []
-		function planJqueryCall (name, args) {
-			plannedJqueryCalls.push([name, args])
-		}
-	</script>
 	<body class="page{% if page.tilda == true %} page--tilda{% elsif page.blank == true %} page--blank{% else %} page--default{% endif %}">
 		{% if page.blank != true %}
 			{% include header.html %}
 		{% endif %}
 
+		{% if page.previous %}
+		<!-- Init prev/next post arrows -->
+		<a class="post-arrow post-arrow--prev" href="{{ page.previous.url }}">
+			{% include up.svg %} <span class="post-arrow-text">{{page.previous.title}}</span>
+		</a>
+		{% endif %}
+
+		{% if page.next %}
+		<a class="post-arrow post-arrow--next" href="{{page.next.url}}">
+			<span class="post-arrow-text">{{page.next.title}}</span> {% include up.svg %}
+		</a>
+		{% endif %}
+
 		<main class="site-content">
-			{% if page.tilda == false and page.blank == false %}
+			{% if page.tilda == false and page.blank != true %}
 			<div class="site-content-container">
 				<h1>{{ page.title }}</h1>
 				{{ content }}

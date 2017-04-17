@@ -89,10 +89,14 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 	<!-- <script src="{% include asset name='tilda.js' %}"></script> -->
 	{% endif %}
 
+
 	<!-- Retarded styles -->
 	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700&subset=latin" rel="stylesheet"/>
+		<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&subset=latin" rel="stylesheet"/>
+
 		{% if page.tilda == true %}
-		<link rel="stylesheet" href="{% include asset name='tilda.css' %}" rel="stylesheet" media="screen">
+		<link rel="stylesheet" href="{% include asset name='tilda.css' %}" media="screen">
 		{% endif %}
 		<link rel="stylesheet" type="text/css" href="{% include asset name='index.css' %}"/>
     </noscript>
