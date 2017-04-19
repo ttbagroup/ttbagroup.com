@@ -1,0 +1,1 @@
+{% assign linklang = include.lang | default: lang %}{% assign ref = include.ref | default: "home" %}{% assign pages = site.pages | where:"ref", ref | where:"lang", linklang %}{% if pages.size > 0 %}{{ pages.first.permalink }}{% else %}/{{ ref }}/{% endif %}

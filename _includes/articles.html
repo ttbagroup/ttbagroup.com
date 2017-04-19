@@ -1,7 +1,7 @@
 {% assign posts=include.posts | default: site.posts %}
 
 {% for post in posts reversed %}{% if forloop.index <= 3%}<article class="article" {% if post.hidden %}hidden{% endif %}>
-    <a class="article-link" href="{{ post.url | prepend: site.baseurl }}">
+    <a class="article-link" href="{{ post.url | prepend: site.url }}">
         <figure class="article-figure">
             <div class="article-image" style="background-image: url('{% include featured-image page=post %}');" title="{{ post.title }}"/>
         </figure>

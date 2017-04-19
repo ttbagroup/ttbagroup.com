@@ -19,16 +19,16 @@
 	{{sep}}
 	{% include menu-item.html ref='projects' %}
 	{{sep}}
-	{% include menu-item.html refs='careers,internship' ref='team' %}
+	{% include menu-item.html refs='about,careers,internship' ref='team' %}
 	{{sep}}
 	{% include menu-item.html ref='contact' %}
 	{% if include.nolang != true %}{{ sep }}
 	{% if lang != 'en' %}
-	<a class="menu-item" href="{% include t-link.html ref=page.ref lang='en' %}">
+	<a class="menu-item" href="{% include t-link ref=page.ref lang='en' %}">
 		<span class="menu-link menu-link--lang">{% include flag-en.html %} En</span>
 	</a>
 	{% elsif lang != 'fr' %}
-	<a class="menu-item" href="{% include t-link.html ref=page.ref lang='fr' %}">
+	<a class="menu-item" href="{% include t-link ref=page.ref lang='fr' %}">
 		<span class="menu-link menu-link--lang">{% include flag-fr.html %} Fr</span>
 	</a>
 	{% endif %}
