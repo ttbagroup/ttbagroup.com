@@ -1,0 +1,1 @@
+{% assign post=include.page|default:page %}{% if post.image %}{% assign src = post.image | uri_escape %}{% else %}{% assign src = post.content | split: 'data-content-cover-bg="' %}{% assign src = src[1] | split: '"' %}{% assign src = src[0] | uri_escape %}{% endif %}{% if src %}{{ src }}{% else %}{% include asset name='logo.png' %}{% endif %}
