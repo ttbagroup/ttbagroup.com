@@ -10,8 +10,22 @@ body {
 	background: white;
 }
 
+
 .site-content {
   min-height: 60vh;
+}
+
+.site-content p a {
+  color: black;
+  border-bottom: 1px solid rgba(0,0,0,.15);
+  text-decoration: none
+}
+.site-content p a:visited {
+  color: black;
+  border-bottom: 1px solid rgba(0,0,0,.15);
+}
+.site-content p a:hover {
+  border-bottom: 1px solid rgba(0,0,0,1);
 }
 
 .site-header ~ .site-content {
