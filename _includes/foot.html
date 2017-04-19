@@ -50,22 +50,25 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 
 	<script type="text/javascript">
 		{% if page.tilda != false %}
+		function loadDeferredScripts () {
+			importScript('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', function () {
+				importScript("{% include asset name='tilda.js' %}", function () {
+					window.dispatchEvent(new Event('jqueryReady'))
+
+					// do planned jQuery calls
+					for (var i = 0; i < plannedJqueryCalls.length; i++) {
+						var name = plannedJqueryCalls[i][0],
+							args = plannedJqueryCalls[i][1]
+
+						jQuery[name].apply(jQuery, args)
+					}
+				})
+			})
+			{% endif %}
+		}
+
 		//deshim jquery
 		window.$ = window.jQuery = null
-		importScript('https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js', function () {
-			importScript("{% include asset name='tilda.js' %}", function () {
-				window.dispatchEvent(new Event('jqueryReady'))
-
-				// do planned jQuery calls
-				for (var i = 0; i < plannedJqueryCalls.length; i++) {
-					var name = plannedJqueryCalls[i][0],
-						args = plannedJqueryCalls[i][1]
-
-					jQuery[name].apply(jQuery, args)
-				}
-			})
-		})
-		{% endif %}
 
 		function importScript (sSrc, fOnload) {
 			var oScript = document.createElement("script");
@@ -82,6 +85,8 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 			replacement.innerHTML = addStylesNode.textContent;
 			document.body.appendChild(replacement)
 			addStylesNode.parentElement.removeChild(addStylesNode);
+
+			loadDeferredScripts()
 		};
 		var raf = requestAnimationFrame || mozRequestAnimationFrame || webkitRequestAnimationFrame || msRequestAnimationFrame;
 		if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
