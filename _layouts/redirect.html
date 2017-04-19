@@ -1,0 +1,25 @@
+<!doctype html>
+
+
+{% assign lang=page.lang | default: 'en' %}
+
+<html lang="{{ lang }}" class="no-js">
+
+	{% include head.html %}
+	<link rel="canonical" href="{{ page.redirect.to }}">
+	<meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+	<script>location="{{ page.redirect.to }}"</script>
+
+	<body class="page page--default">
+		{% include header.html %}
+
+		<main class="site-content">
+			<div class="site-content-container">
+				<h2>Redirecting...</h2>
+				<p><a href="{{ page.redirect.to }}">Click here if you are not redirected</a></p>
+			</div>
+		</main>
+
+		{% include foot.html %}
+	</body>
+</html>
