@@ -16,6 +16,7 @@ meta-description: >-
   20 years ago, there was no internet. No mobile phones. No social media. No bad
   reviews. No influencers. No cat videos.
 image: /assets/tlmd_forbes20_mark_zuckerberg (1).jpg
+author: Leo
 ---
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="504137">
