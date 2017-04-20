@@ -262,7 +262,7 @@ author: Leo
               </g>
             </svg>
                   </div>
-        <div class="t265__text t-descr t-descr_xs" field="text"><div style="font-size:22px;" data-customstyle="yes">If you are interested in finding out how your business can take advantage of using Social Media, click <a href="https://tilda.cc/page/?pageid=504137#GrowMyBusiness" rel="color:#4425f7 !important;" style="font-family: &quot;Open Sans&quot;, serif; font-size: 20px; color: rgb(68, 37, 247) !important;">here</a>. We will analyze your current situation and present a strategy with long-term as well as short-term objectives that will get your business to the next stage.<em></em></div></div>
+        <div class="t265__text t-descr t-descr_xs" field="text"><div style="font-size:22px;" data-customstyle="yes">If you are interested in finding out how your business can take advantage of using Social Media, click <a href="http://ttbagroup.com/en/marketing-services-montreal/social-media-management/" rel="color:#4425f7 !important;" style="color:#4425f7 !important;">here</a>.<em></em></div></div>
       </div>
     </div>
   </div>
