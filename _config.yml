@@ -93,9 +93,16 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          help: "This URL will be used for the page, see <a href='https://jekyllrb.com/docs/permalinks'>permalinks</a>. It should start and end with /. Only latin chars are allowed."
+          help: "Main URL for the page, see <a href='https://jekyllrb.com/docs/permalinks/'>permalinks</a>. It should start and end with /. Only latin chars are allowed."
           type: "text"
-          placeholder: "/:title/"
+          placeholder: "/main-title/"
+      - name: "redirect_from"
+        field:
+          element: "text"
+          label: "Redirect from this URL to permalink"
+          help: "This URL will redirect to this page"
+          type: "text"
+          placeholder: "/alternative-title/"
       - name: "ref"
         field:
           element: "text"
@@ -155,13 +162,6 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
-      - name: "redirect_from"
-        field:
-          element: "text"
-          label: "Redirect from"
-          help: "This URL will redirect to this page"
-          type: "text"
-          placeholder: "/alternative-url/"
       - name: "noindex"
         field:
           element: "checkbox"
@@ -191,10 +191,22 @@ prose:
         field:
           element: "text"
           label: "Permalink"
-          help: "This URL will be used for the page, see <a href='https://jekyllrb.com/docs/permalinks/'>permalinks</a>. It should start and end with /. Only latin chars are allowed."
+          help: "Main URL for the page, see <a href='https://jekyllrb.com/docs/permalinks/'>permalinks</a>. It should start and end with /. Only latin chars are allowed."
           type: "text"
-          placeholder: "/:title/"
-        placeholder: "/alternative-url/"
+          placeholder: "/main-title/"
+      - name: "redirect_from"
+        field:
+          element: "text"
+          label: "Redirect from this URL to permalink"
+          help: "This URL will redirect to this page"
+          type: "text"
+          placeholder: "/alternative-title/"
+      - name: "noindex"
+        field:
+          element: "checkbox"
+          label: "Noindex"
+          help: "Block search indexing of the page"
+          value: false
       - name: "lang"
         field:
           element: "select"
@@ -253,16 +265,3 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
-      - name: "redirect_from"
-        field:
-          element: "text"
-          label: "Redirect from"
-          help: "This URL will redirect to this page"
-          type: "text"
-          placeholder: "/alternative-url/"
-      - name: "noindex"
-        field:
-          element: "checkbox"
-          label: "Noindex"
-          help: "Block search indexing of the page"
-          value: false
