@@ -13,6 +13,7 @@ meta-title: 'No Power Here Salespeople | Digital Marketing Agency | TTBA Group '
 meta-description: >-
   Let me take you back for a minute and remind you of what life was like before
   12 year olds walked around with a satellite connection in their pocket.
+author: Kosta
 ---
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="699959">
