@@ -2,7 +2,7 @@
 {% assign link = include.ref %}
 {% assign links = include.refs | split: ',' %}
 <div class="menu-item {% if dd %}menu-item--dropdown{% endif%}{% if page.ref == link or links contains page.ref %} menu-item--active{% endif %}">
-	<a class="menu-link" href="{% include t-link ref=link %}">{{ site.menu[lang][ref] }}</a>
+	<a class="menu-link" href="{% include t-link ref=link %}">{{ site.t.menu[lang][ref] }}</a>
 {% if dd and dropdown %}
 <ul class="menu-dropdown">
 {% for link in links %}

@@ -1,60 +1,7 @@
-title:
-  en: TTBA Group
-  fr: Groupe TTBA
-  ru: Группа ТТБА
-description:
-  en: Marketing Agency for Small Business in Montreal
-  fr: Agence web pour les PME à Montréal
-  ru: Маркетинговое агентство для малого бизнеса в Монреале
-languages:
-  - name: 'English'
-    key: 'en'
-  - name: 'Français'
-    key: 'fr'
-#  - name: 'Русский'
-#    key: 'ru'
-#  - name: 'Español'
-#    key: 'es'
-menu:
-  en:
-    home: "Agency"
-    services: "Services"
-    all-services: "All Services"
-    blog: "Insights"
-    projects: "Our Work"
-    about: "About"
-    contact: "Contact us"
-    design: "Web Design"
-    smm: "Social Media"
-    seo: "SEO"
-    advertising: "Advertising"
-    branding: "Branding"
-    video: "Video"
-    team: "The Team"
-    careers: "Careers"
-    frontend: "Front-End Developer Position"
-    internship: "Internship"
-  fr:
-    home: "L’Agence"
-    services: "Services"
-    all-services: "Tous Services"
-    projects: "Projets"
-    blog: "Blogue"
-    about: "À propos"
-    contact: "Contact"
-    design: "Conception de sites web"
-    smm: "Gestion des médias sociaux"
-    seo: "Référencement naturel (SEO)"
-    advertising: "Publicité en ligne"
-    branding: "Branding et graphisme"
-    video: "Vidéographie"
-    team: "Équipe"
-    careers: "Carrières"
-    frontend: "Intégrateur Front End"
-    internship: "Stage en médias sociaux"
-copyright:
-  en: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
-  fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
+title: TTBA Group
+description: Marketing Agency for Small Business in Montreal
+author: Leo Gamalyunov
+
 
 email: info@ttbagroup.com
 url: "https://ttbagroup.com"
@@ -78,6 +25,7 @@ keep_files: ['sftp-config.json']
 
 gems:
   - jekyll-redirect-from
+  - jekyll-feed
 
 prose:
   rooturl: ''
@@ -267,3 +215,60 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
+
+
+
+t:
+  title:
+    en: TTBA Group
+    fr: Groupe TTBA
+    ru: Группа ТТБА
+  description:
+    en: Marketing Agency for Small Business in Montreal
+    fr: Agence web pour les PME à Montréal
+    ru: Маркетинговое агентство для малого бизнеса в Монреале
+  languages:
+    - name: 'English'
+      key: 'en'
+    - name: 'Français'
+      key: 'fr'
+  menu:
+    en:
+      home: "Agency"
+      services: "Services"
+      all-services: "All Services"
+      blog: "Insights"
+      projects: "Our Work"
+      about: "About"
+      contact: "Contact us"
+      design: "Web Design"
+      smm: "Social Media"
+      seo: "SEO"
+      advertising: "Advertising"
+      branding: "Branding"
+      video: "Video"
+      team: "The Team"
+      careers: "Careers"
+      frontend: "Front-End Developer Position"
+      internship: "Internship"
+    fr:
+      home: "L’Agence"
+      services: "Services"
+      all-services: "Tous Services"
+      projects: "Projets"
+      blog: "Blogue"
+      about: "À propos"
+      contact: "Contact"
+      design: "Conception de sites web"
+      smm: "Gestion des médias sociaux"
+      seo: "Référencement naturel (SEO)"
+      advertising: "Publicité en ligne"
+      branding: "Branding et graphisme"
+      video: "Vidéographie"
+      team: "Équipe"
+      careers: "Carrières"
+      frontend: "Intégrateur Front End"
+      internship: "Stage en médias sociaux"
+  copyright:
+    en: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
+    fr: "© 2017 TTBA Group Inc. All rights reserved.<br>info@ttbagroup.com"
