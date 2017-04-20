@@ -19,6 +19,7 @@ menu:
   en:
     home: "Agency"
     services: "Services"
+    all-services: "All Services"
     blog: "Insights"
     projects: "Our Work"
     about: "About"
@@ -36,6 +37,7 @@ menu:
   fr:
     home: "L’Agence"
     services: "Services"
+    all-services: "Tous Services"
     projects: "Projets"
     blog: "Blogue"
     about: "À propos"
