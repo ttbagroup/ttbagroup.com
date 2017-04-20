@@ -99,8 +99,8 @@ prose:
       - name: "redirect_from"
         field:
           element: "text"
-          label: "Redirect from this URL to permalink"
-          help: "This URL will redirect to this page"
+          label: "Redirect URL"
+          help: "This URL will redirect to the permalink"
           type: "text"
           placeholder: "/alternative-title/"
       - name: "ref"
@@ -197,7 +197,7 @@ prose:
       - name: "redirect_from"
         field:
           element: "text"
-          label: "Redirect from this URL to permalink"
+          label: "Redirect URL"
           help: "This URL will redirect to this page"
           type: "text"
           placeholder: "/alternative-title/"
