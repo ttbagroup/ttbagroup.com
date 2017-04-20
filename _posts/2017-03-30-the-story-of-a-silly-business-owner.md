@@ -13,6 +13,7 @@ meta-description: >-
   More than once, we have faced a very simple and evident mistake that business
   owners make when building their company.
 date: '2017-02-23'
+author: Leo
 ---
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="503996">
