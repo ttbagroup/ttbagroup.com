@@ -19,7 +19,7 @@ image: /assets/tlmd_forbes20_mark_zuckerberg (1).jpg
 author: Leo
 ---
 <!--allrecords-->
-<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="504137">
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="504137" data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7">
 
 <div id="rec12673170" class="r" style=" " data-animationappear="off" data-record-type="274">
 <!-- t255 -->
@@ -75,7 +75,7 @@ author: Leo
 <div class="t119">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><div style="font-size:22px;text-align:left;" data-customstyle="yes">Let's see if I am the only one. <br><br>- I do not watch TV. <br>- I skip commercials when I see them. <br>- I do not pay attention to billboards. <br>- I do not like to be forced to view things. <br>- I do not like to be sold to. <br><br> <em>And</em> <br><br>- I have my phone with at all times. <br>- I like to choose what I want to watch. <br>- I like to watch it on my own time. <br>- I follow if I am interested. <br>- I buy things that I am interested in. <br><br> I bet every one of you will say the same thing. <strong><br></strong><br></div></div>
+			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><div style="font-size:22px;text-align:left;" data-customstyle="yes">Let's see if I am the only one. <br><br>- I do not watch TV <br>- I skip commercials when I see them <br>- I do not pay attention to billboards <br>- I do not like to be forced to view things <br>- I do not like to be sold to<br><br> <em>And</em> <br><br>- I have my phone with at all times<br>- I like to choose what I want to watch<br>- I like to watch it on my own time<br>- I follow if I am interested <br>- I buy things that I am interested in <br><br> I bet every one of you will say the same thing. <strong><br></strong><br></div></div>
 		</div>
 	</div>
 </div>
@@ -121,7 +121,7 @@ author: Leo
 <div class="t004">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div field="text" class="t-text t-text_md  "><span style="font-size: 24px;">Now think about <strong>".com"</strong> boom.<br></span><br>Technology and internet changed the world undeniably. It changed us, and it also changed business.<br><br>It led to the decentralization of attention and empowerment of the consumer. Markets are driven by the masses like never before. Consumer behaviour is what drives their own interests and their preferences.<br><br>Refusing "pushy" ads; today's consumer is actively, willingly and passionately searching for the best value across various channels. He is constantly comparing prices, browsing features and selecting between models. We all know the story of a single bad review that destroyed an entire reputation. Have you ever heard the term "Social proof"? It's a big deal, and it is happening now.<br></div>
+			<div field="text" class="t-text t-text_md  "><span style="font-size: 24px;">Now think about <strong>".com"</strong> boom<br></span><br>Technology and internet changed the world undeniably. It changed us, and it also changed business.<br><br>It led to the decentralization of attention and empowerment of the consumer. Markets are driven by the masses like never before. Consumer behaviour is what drives their own interests and their preferences.<br><br>Refusing "pushy" ads; today's consumer is actively, willingly and passionately searching for the best value across various channels. He is constantly comparing prices, browsing features and selecting between models. We all know the story of a single bad review that destroyed an entire reputation. Have you ever heard the term "Social proof"? It's a big deal, and it is happening now.<br></div>
 		</div>
 	</div>
 </div>
@@ -198,28 +198,28 @@ author: Leo
                                         <div class="t493__bgimg  t-bgimg" bgimgfield="img" data-original="https://static.tildacdn.com/tild3865-6664-4963-b330-303961303662/dollar_icon02.png" style=" background-image: url('https://static.tildacdn.com/tild3865-6664-4963-b330-303961303662/-/resize/20x/dollar_icon02.png');"></div>
                     										                
 	              </div>
-	            	            <div class="t493__textwrapper t-cell t-valign_top">
+	            	            <h3 class="t493__textwrapper t-cell t-valign_top">
 	              	                <div class="t493__heading t-heading t-heading_sm  " style="" field="title">
-	              <div style="color:#555555;" data-customstyle="yes"><h3 style="font-size: 28px; font-style: normal; font-weight: 900; font-variant-ligatures: normal; font-variant-caps: normal; text-transform: none;">1. It will be more expensive tomorrow.</h3></div></div>	              	                <div class="t493__descr t-descr t-descr_xs " style="" field="descr">
-	              A fast growing number of businesses are following their consumers into the "digital" world. This enables them to start shaping digital landscape to the advantage of their own business. These factors will surely boost demand for digital services and the price will constantly increase. In 10 years, an advertising campaign on social media will cost 10 times more than it does today. <br><strong>McKinsey</strong> <strong><span data-redactor-tag="span" style="color: rgb(216, 138, 0);">Global Media Report 2015 -&gt;</span></strong></div>	            </div>
+	              <div style="color:#555555;" data-customstyle="yes"><strong>1. It will be more expensive tomorrow</strong></div></div>	              	                <div class="t493__descr t-descr t-descr_xs " style="" field="descr">
+	              A fast growing number of businesses are following their consumers into the "digital" world. This enables them to start shaping digital landscape to the advantage of their own business. These factors will surely boost demand for digital services and the price will constantly increase. In 10 years, an advertising campaign on social media will cost 10 times more than it does today. <br><strong>McKinsey</strong> <strong><span data-redactor-tag="span" style="color: rgb(216, 138, 0);">Global Media Report 2015 -&gt;</span></strong></div>	            </h3>
 	          </div>
 	          	            <div class="t493__item t493__item_padding-top t-item ">
 	              	                <div class="t-cell t-valign_top">
                                             <div class="t493__bgimg  t-bgimg" bgimgfield="img2" data-original="https://static.tildacdn.com/tild3535-6136-4264-b665-663132336439/dollar_icon03.png" style=" background-image: url('https://static.tildacdn.com/tild3535-6136-4264-b665-663132336439/-/resize/20x/dollar_icon03.png');"></div>
                       	                </div>
-	              	              <div class="t493__textwrapper t-cell t-valign_top">
+	              	              <h3 class="t493__textwrapper t-cell t-valign_top">
 	                	                  <div class="t493__heading t-heading t-heading_sm " style="" field="title2">
-	                <div style="color:#515151;" data-customstyle="yes"><h3 style="font-size: 28px; font-style: normal; font-weight: 900; font-variant-ligatures: normal; font-variant-caps: normal; text-transform: none;">2. Advanced personalization and targeting.</h3></div></div>	                	                  <div class="t493__descr t-descr t-descr_xs " style="" field="descr2">
-	                <em>Digital</em> came from the word "digit." This means everything is programmed, tracked and recorded. <em>Digital</em> opens doors to in-depth analysis, automation, factual projections, and behavioral marketing. This also provides the ability to analyze and customize a customer's journey to improve the overall experience.</div>	              </div>
+	                <div style="color:#515151;" data-customstyle="yes"><strong>2. Advanced personalization and targeting</strong></div></div>	                	                  <div class="t493__descr t-descr t-descr_xs " style="" field="descr2">
+	                <em>Digital</em> came from the word "digit." This means everything is programmed, tracked and recorded. <em>Digital</em> opens doors to in-depth analysis, automation, factual projections, and behavioral marketing. This also provides the ability to analyze and customize a customer's journey to improve the overall experience.</div>	              </h3>
 	            </div>
 	          	          	          	<div class="t493__item t493__item_padding-top t-item ">
 	              	                <div class="t-cell t-valign_top">
                                                 <div class="t493__bgimg  t-bgimg" bgimgfield="img3" data-original="https://static.tildacdn.com/tild3263-3362-4634-a663-333532633463/dollar_icon11.png" style=" background-image: url('https://static.tildacdn.com/tild3263-3362-4634-a663-333532633463/-/resize/20x/dollar_icon11.png');"></div>
                         	                </div>
-	              	              <div class="t493__textwrapper t-cell t-valign_top">
+	              	              <h3 class="t493__textwrapper t-cell t-valign_top">
 	                	                  <div class="t493__heading t-heading t-heading_sm " style="" field="title3">
-	                <div style="color:#474747;" data-customstyle="yes"><h3 style="font-size: 28px; font-style: normal; font-weight: 900; font-variant-ligatures: normal; font-variant-caps: normal; text-transform: none;">3. Branding and Authority.</h3></div></div>	                	                  <div class="t493__descr t-descr t-descr_xs " style="" field="descr3">
-	                Social media and content marketing created opportunities for companies to showcase their expertise, value, and services. Companies who can utilize the full potential of these channels are not only winning top dollars but also have the love and the trust of their customers as well as the prospects.</div>	              </div>
+	                <div style="color:#474747;" data-customstyle="yes"><strong>3. Branding and Authority</strong></div></div>	                	                  <div class="t493__descr t-descr t-descr_xs " style="" field="descr3">
+	                Social media and content marketing created opportunities for companies to showcase their expertise, value, and services. Companies who can utilize the full potential of these channels are not only winning top dollars but also have the love and the trust of their customers as well as the prospects.</div>	              </h3>
 	            </div>
 	          	          	        </div>
 	      </div>
@@ -336,16 +336,6 @@ author: Leo
                 <div class="t278__input-mainblock t-width t-width_6">
           
                   <div class="t278__allert-wrapper">
-                    <div class="t278__blockinput-errorbox js-errorbox-all" style="display:none;">
-                        <div class="t278__blockinput-errors-text t-descr t-descr_xs">
-                            <p class="t278__blockinput-errors-item js-rule-error js-rule-error-all"></p>
-                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-req">Required field</p>
-                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-email">Please correct e-mail address</p>
-                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-name">Name Wrong. Correct please</p>
-                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-phone">Please correct phone number</p>
-                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-string">Please enter letter, number or punctuation symbols.</p>
-                        </div>
-                    </div>
                     <div class="t278__blockinput-success js-successbox" style="display:none;">
                         <div class="t278__success-icon">
                           <svg width="50px" height="50px" viewBox="0 0 50 50">
@@ -370,7 +360,18 @@ author: Leo
                     </div>
                                                             
                                                             
-                                        
+                     
+                    <div class="t278__blockinput-errorbox js-errorbox-all" style="display:none;">
+                        <div class="t278__blockinput-errors-text t-descr t-descr_xs">
+                            <p class="t278__blockinput-errors-item js-rule-error js-rule-error-all"></p>
+                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-req">Required field</p>
+                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-email">Please correct e-mail address</p>
+                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-name">Name Wrong. Correct please</p>
+                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-phone">Please correct phone number</p>
+                        	<p class="t278__blockinput-errors-item js-rule-error js-rule-error-string">Please enter letter, number or punctuation symbols.</p>
+                        </div>
+                    </div>
+                    
                     <div class="t278__blockbutton">
                                                   <button type="submit" class="t-submit" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEND ME ONLY INTERESTING CONTENT</button>
                                             </div>
@@ -429,16 +430,6 @@ author: Leo
                                                                   <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
                                                       
                                                                                   <div>
-                          <div class="js-errorbox-all t330__blockinput-errorbox" style="display:none;">
-                              <div class="t330__blockinput-errors-text t-text t-text_xs">
-                                  <p class="t330__blockinput-errors-item js-rule-error js-rule-error-all"></p>
-                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-req">Required field</p>
-                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-email">Please correct e-mail address</p>
-                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-name">Name Wrong. Correct please</p>
-                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-phone">Please correct phone number</p>
-                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-string">Please enter letter, number or punctuation symbols.</p>
-                              </div>
-                          </div>
                           <div class="js-successbox t330__blockinput-success t-text t-text_xs" style="display:none;">
                                                             Thank You! Your request has been submitted.
                                                       </div>                
@@ -459,7 +450,18 @@ author: Leo
                                                                               <div class="t330__blockinput">
                               <textarea name="Whatdoyouwanttodiscuss" class="t330__input t-input js-tilda-rule " placeholder="What do you want to discuss?" onfocus="this.placeholder = ''" onblur="this.placeholder = 'What do you want to discuss?'" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:68px" rows="2"></textarea>
                           </div>
-                                                    <div class="t330__blockbutton">
+                                                    <div class="js-errorbox-all t330__blockinput-errorbox" style="display:none;">
+                              <div class="t330__blockinput-errors-text t-text t-text_xs">
+                                  <p class="t330__blockinput-errors-item js-rule-error js-rule-error-all"></p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-req">Required field</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-email">Please correct e-mail address</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-name">Name Wrong. Correct please</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-phone">Please correct phone number</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-string">Please enter letter, number or punctuation symbols.</p>
+                              </div>
+                          </div>
+                            
+                          <div class="t330__blockbutton">
                               <button type="submit" class="t330__submit t-submit" style="color:#ffffff;background-color:#ed4b3a;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;">SEND</button>                          </div>
                          </div> 
           </form>                          
