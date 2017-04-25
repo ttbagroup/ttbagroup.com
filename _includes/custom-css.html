@@ -1,0 +1,7 @@
+{% assign cssPages = site.pages | where:"ref", page.ref %}
+{% if cssPages.size == 0 %}
+{% assign cssPages = site.pages | where:"title", page.title %}
+{% endif %}
+
+{% if cssPages.size %}{{ cssPages.first.content }}
+{% endif %}
