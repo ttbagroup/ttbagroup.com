@@ -76,11 +76,6 @@ prose:
           element: "checkbox"
           label: "Tilda"
           value: true
-      - name: "blank"
-        field:
-          element: "checkbox"
-          label: "Blank template"
-          value: false
       - name: "transparent"
         field:
           element: "checkbox"
