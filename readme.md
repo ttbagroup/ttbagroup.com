@@ -4,9 +4,6 @@ To edit content use [prose.io](https://prose.io). If you copy-paste tilda conten
 
 Every change is published instantly to [ttbagroup.github.io](http://ttbagroup.github.io)
 
-To publish to [ttbagroup.com](https://ttbagroup.com), rebuild the site and upload `_site` folder contents via FTP to `public_html`. Or just call Dima.
+To publish to [ttbagroup.com](https://ttbagroup.com), rebuild the site with `npm run build` and upload `_site` folder contents via FTP to `public_html`. Or just call Dima.
 
-## SSH
-```sh
-ssh -p18765 ttbagrou@c20010.sgvps.net
-```
+To install dev locally you need jekyll and nodejs.
