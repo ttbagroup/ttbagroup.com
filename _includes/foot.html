@@ -13,6 +13,11 @@ galite.UA = 'UA-57895391-1'; // Insert your tracking code here
 </script>
 
 
+{% if page.boost == true %}
+<img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
+/>
+{% else %}
 <!-- Hotjar Tracking Code for http://ttbagroup.com -->
 <script>
     (function(h,o,t,j,a,r){
@@ -39,7 +44,7 @@ fbq('track', "PageView");</script>
 src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 /></noscript>
 <!-- End Facebook Pixel Code -->
-
+{% endif %}
 
 
 {% if page.blank != true %}

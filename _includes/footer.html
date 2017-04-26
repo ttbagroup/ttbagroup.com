@@ -1,5 +1,6 @@
 {% assign lang=page.lang | default: 'en' %}
 <footer id="footer" class="site-footer">
+	{% unless page.boost == true %}
 	<div class="site-footer-section site-footer-section--columns">
 		<div class="site-footer-container">
 			<div class="site-footer-column site-footer-column--1">
@@ -40,6 +41,7 @@
 			<div id="map" class="map"></div>
 		</div>
 	</div>
+	{% endunless %}
 
 	<div class="site-footer-section site-footer-section--bottom">
 		{% include menu.html class="site-footer-nav" separator="|" nolang=true %}

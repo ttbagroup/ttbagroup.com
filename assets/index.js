@@ -48,6 +48,8 @@ for (var i = 0; i < btns.length; i++) {
 function initInstagram () {
 	isInstagramReady = true;
 
+  if (!document.querySelector('#instafeed')) return
+
 	//instafeed
 	if (!/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
 		var feed = new Instafeed({
@@ -66,6 +68,8 @@ function initInstagram () {
 
 //init google maps
 function initMap() {
+   if (!document.querySelector('#map')) return
+
     var mapOptions = {
         zoom: 15,
         backgroundColor: 'none',

@@ -119,6 +119,12 @@ prose:
           label: "Noindex"
           help: "Block search indexing of the page"
           value: false
+      - name: "boost"
+        field:
+          element: "checkbox"
+          label: "Boost"
+          help: "Remove footer and non-cached scripts to allow for 100 page speed insights"
+          value: false
     _posts:
       - name: "title"
         field:
