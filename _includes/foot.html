@@ -48,7 +48,9 @@ src="https://www.facebook.com/tr?id=1054128614681615&ev=PageView&noscript=1"
 
 
 {% if page.blank != true %}
+	{% unless page.boost == true %}
 	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCDh1gTWO5V-HZl2T_9iXLCDPcuLt8aXNc" async defer></script>
+	{% endunless %}
 	<script src="{% include asset name='instafeed.min.js' %}" defer async></script>
 	<script src="{% include asset name='zenscroll.js' %}" defer async></script>
 	<script src="{% include asset name='index.js' %}" defer async></script>
