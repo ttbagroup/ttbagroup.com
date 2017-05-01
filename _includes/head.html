@@ -38,8 +38,12 @@
 
 	<meta property="fb:pages" content="1480973575459101" />
 
-	{% if page.noindex == true %}
+	{% if page.noindex == true and page.nofollow == true %}
+	<meta name="robots" content="noindex,nofollow" />
+	{% elsif page.noindex == true %}
 	<meta name="robots" content="noindex" />
+	{% elsif page.nofollow == true %}
+	<meta name="robots" content="nofollow" />
 	{% endif %}
 
 	<script type="text/javascript">

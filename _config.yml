@@ -114,6 +114,12 @@ prose:
           label: "Noindex"
           help: "Block search indexing of the page"
           value: false
+      - name: "nofollow"
+        field:
+          element: "checkbox"
+          label: "Nofollow"
+          help: "Block crawler following the page"
+          value: false
       - name: "boost"
         field:
           element: "checkbox"
@@ -158,6 +164,12 @@ prose:
           element: "checkbox"
           label: "Noindex"
           help: "Block search indexing of the page"
+          value: false
+      - name: "nofollow"
+        field:
+          element: "checkbox"
+          label: "Nofollow"
+          help: "Block crawler following the page"
           value: false
       - name: "lang"
         field:
