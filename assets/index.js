@@ -45,6 +45,8 @@ for (var i = 0; i < btns.length; i++) {
 }
 
 
+
+//instagram
 function initInstagram () {
 	isInstagramReady = true;
 
@@ -63,6 +65,68 @@ function initInstagram () {
 		feed.run();
 	}
 }
+
+
+
+//init dropdown menu
+
+var menuToggles = document.querySelectorAll('.menu-toggle')
+var menuToggle = menuToggles[menuToggles.length - 1]
+menuToggle.addEventListener('touchstart', toggleMenu)
+
+function toggleMenu () {
+  if (menuToggle.classList.contains('menu-toggle--active')) {
+    menuToggle.classList.remove('menu-toggle--active')
+    menuToggle.classList.remove('is-active')
+
+    hideDDs()
+  }
+  else {
+    menuToggle.classList.add('menu-toggle--active')
+    menuToggle.classList.add('is-active')
+  }
+}
+
+var ddToggles = document.querySelectorAll('.menu-item--dropdown')
+for (var i = 0; i < ddToggles.length; i++) {
+  initDD(ddToggles[i])
+}
+
+function initDD (ddToggle) {
+  if (ddToggle.getAttribute('data-dropdown')) return;
+  ddToggle.setAttribute('data-dropdown', true);
+  ddToggle.addEventListener('click', function () {
+    openDD(ddToggle)
+  })
+  ddToggle.addEventListener('mouseenter', function () {
+    openDD(ddToggle)
+  })
+}
+
+function openDD (ddToggle) {
+  hideDDs(ddToggle)
+
+  if (ddToggle.classList.contains('menu-item--opened')) {
+    ddToggle.classList.remove('menu-item--opened')
+  }
+  else {
+    ddToggle.classList.add('menu-item--opened')
+  }
+}
+
+function hideDDs (ddToggle) {
+  var dds = document.querySelectorAll('.menu-item--opened')
+
+  for (var j = 0; j < dds.length; j++) {
+    if (dds[j] !== ddToggle) {
+      dds[j].classList.remove('menu-item--opened')
+    }
+  }
+}
+
+
+
+
 
 
 
