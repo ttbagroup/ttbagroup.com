@@ -559,3 +559,17 @@
     display: none;
   }
 }
+
+@media (max-width: 640px) {
+  .t183__title {
+    padding-top: 10px!important;
+    padding-bottom: 14px!important;
+  }
+  .t183__uptitle {
+    padding-top: 24px!important;
+    padding-bottom: 10px!important;
+  }
+  .t183__buttons {
+    margin-top: 25px;
+  }
+}
