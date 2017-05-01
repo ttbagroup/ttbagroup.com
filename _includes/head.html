@@ -19,7 +19,7 @@
 	<meta property="og:title" content="{{ page.meta-title | default: site.t.title[lang] }}" />
 	<meta property="og:type" content="article" />
 	<meta property="og:image" content="{% include featured-image %}" />
-	<meta property="og:url" content="{{ site.url }}" />
+	<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 	<meta property="og:description" content="{{ page.meta-description | default: site.t.description[lang] }}" />
 
 	<!-- for Twitter -->
