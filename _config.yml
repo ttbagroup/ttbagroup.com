@@ -126,6 +126,18 @@ prose:
           label: "Boost"
           help: "Remove footer and non-cached scripts to allow for 100 page speed insights"
           value: false
+      - name: "previous"
+        field:
+          element: "text"
+          label: "Previous page"
+          help: "Permalink or ref to previous page, if relevant"
+          placeholder: "/en/prev-case/"
+      - name: "next"
+        field:
+          element: "text"
+          label: "Next page"
+          help: "Permalink or ref to next page, if relevant"
+          placeholder: "/en/next-case/"
     _posts:
       - name: "title"
         field:
