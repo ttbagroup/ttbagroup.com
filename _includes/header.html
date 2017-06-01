@@ -10,8 +10,8 @@
 
 	<div class="site-header-main">
 		<a class="site-logo" href="{% include t-link ref='home' %}">
-			<img class="site-logo-image site-logo-image--inverse" src="{% include asset name='logo-inverse.png' %}" alt="TTBA Group Logo"/>
-			<img class="site-logo-image site-logo-image--direct" src="{% include asset name='logo.png' %}" alt="TTBA Group Logo"/>
+			<img class="site-logo-image site-logo-image--inverse" src="{% include asset name='logo-inverse.png' %}" alt="{{ site.t.title[lang] }}"/>
+			<img class="site-logo-image site-logo-image--direct" src="{% include asset name='logo.png' %}" alt="{{ site.t.title[lang] }}"/>
 		</a>
 
 		{% include menu.html class="site-header-nav" dropdown=true toggle=true %}
@@ -19,7 +19,7 @@
 	</div>
 
 	<div class="back-button">{% include up.svg %}</div>
-  
+
   <!-- ManyChat -->
 <script src="//widget.manychat.com/1480973575459101.js" async="async">
 </script>

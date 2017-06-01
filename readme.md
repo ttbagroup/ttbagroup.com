@@ -6,4 +6,4 @@ Every change is published instantly to [ttbagroup.github.io](http://ttbagroup.gi
 
 To publish to [ttbagroup.com](https://ttbagroup.com), rebuild the site with `npm run build` and upload `_site` folder contents via FTP to `public_html`. Or just call Dima.
 
-To install dev locally you need jekyll and nodejs.
+To install dev locally you need jekyll and nodejs. Once installed, run `npm start` to run local server.
