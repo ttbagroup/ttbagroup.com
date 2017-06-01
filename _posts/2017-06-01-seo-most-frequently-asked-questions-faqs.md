@@ -16,6 +16,8 @@ meta-description: >-
   We organized a list of most frequently asked questions about SEO. If you did
   not find the answer for your question, shoot us a quick message and we will
   answer it for you.
+canonical: >-
+  https://ttbagroup.com/en/marketing-services-montreal/seo-search-engine-optimization/
 ---
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="952500" data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7">
