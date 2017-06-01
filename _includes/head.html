@@ -10,6 +10,10 @@
 	<meta name="copyright" content="{{ site.t.copyright[lang] }}" />
 	<meta name="application-name" content="{{ site.t.title[lang] }}" />
 
+	{% if page.canonical %}
+	<link rel="canonical" href="{{ page.canonical }}">
+	{% endif %}
+
 	{% if lang != 'en' %}
 		<link rel="alternate" hreflang="en" href="{% include t-link ref=page.ref lang='en' %}" />
 	{% elsif lang != 'fr' %}

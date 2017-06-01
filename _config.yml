@@ -126,6 +126,13 @@ prose:
           label: "Boost"
           help: "Remove footer and non-cached scripts to allow for 100 page speed insights"
           value: false
+      - name: "canonical"
+        field:
+          element: "text"
+          label: "Canonical"
+          help: "Canonical link url, if required"
+          type: "text"
+          placeholder: "https://ttbagroup.com/whatever"
       - name: "previous"
         field:
           element: "text"
@@ -241,7 +248,13 @@ prose:
           label: "Meta Description"
           help: "Used as description snippet by search engines. < 160 chars"
           placeholder: ""
-
+      - name: "canonical"
+        field:
+          element: "text"
+          label: "Canonical"
+          help: "Canonical link url, if required"
+          type: "text"
+          placeholder: "https://ttbagroup.com/whatever"
 t:
   title:
     en: TTBA Group
