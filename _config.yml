@@ -4,9 +4,9 @@ author: Leo Gamalyunov
 
 
 email: info@ttbagroup.com
-url: "https://ttbagroup.com"
+url: "https://ttbagroup.github.io"
 baseurl: ""
-assets: "https://ttbagroup.com/assets"
+assets: "/assets"
 permalink: :title
 
 markdown: kramdown

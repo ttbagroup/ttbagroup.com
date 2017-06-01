@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jekyll build",
     "start": "jekyll serve --config _config.yml,_config-dev.yml --incremental",
-    "build": "jekyll build",
+    "build": "jekyll build --config _config.yml,_config-prod.yml",
     "watch": "jekyll build --config _config.yml,_config-dev.yml --watch --incremental"
   },
   "repository": {
