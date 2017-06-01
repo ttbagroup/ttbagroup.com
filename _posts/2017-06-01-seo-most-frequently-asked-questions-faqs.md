@@ -27,9 +27,9 @@ meta-description: >-
 
 
 
-<div class="t-cover" id="recorddiv20924118" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6134-3731-4435-b364-356461333738/-/resize/20x/TechTinkerzDigitalMarketing.jpg');">
+<div class="t-cover" id="recorddiv20924118" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6561-3666-4965-a339-663431623735/-/resize/20x/TechTinkerzDigitalMarketing.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry20924118" data-content-cover-id="20924118" data-content-cover-bg="https://static.tildacdn.com/tild6134-3731-4435-b364-356461333738/TechTinkerzDigitalMarketing.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry20924118" data-content-cover-id="20924118" data-content-cover-bg="https://static.tildacdn.com/tild6561-3666-4965-a339-663431623735/TechTinkerzDigitalMarketing.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -o-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cc000000', endColorstr='#19000000');"></div>
 
