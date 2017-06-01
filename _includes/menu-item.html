@@ -6,7 +6,7 @@
 {% if dd and dropdown %}
 <ul class="menu-dropdown">
 {% for link in links %}
-<li class=" menu-dropdown-item{% if page.ref == link %} menu-dropdown-item--active{% endif %}"><a class="menu-link" href="{% include t-link ref=link %}">{{ site.t.menu[lang][link] }}</a></li>
+<a href="{% include t-link ref=link %}"><li class="menu-link menu-dropdown-item{% if page.ref == link %} menu-dropdown-item--active{% endif %}">{{ site.t.menu[lang][link] }}</li></a>
 {% endfor %}
 </ul>
 {% endif %}
