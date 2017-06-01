@@ -9,6 +9,7 @@ noindex: false
 title: Why your mobile marketing strategy should put retention first
 permalink: /en/mobile-marketing-strategy-put-retention-first/
 date: '2016-06-14'
+nofollow: false
 ---
 <img src="https://ttbagroup.com/wp-content/uploads/2016/06/mobile-marketing-strategy-1.jpg" alt="mobile-marketing-strategy" width="800" height="600" class="aligncenter size-full wp-image-2770" />
 <p class="s1" style="font-size: 12pt; color: #000000;">Mobile marketing has come a long way, but it’s still heavily reliant on retention. While customer acquisition is important, constant retention strategies trump repeat advances through downloadable apps, social media access and web page access.</p>
@@ -20,7 +21,7 @@ date: '2016-06-14'
 <img class="aligncenter size-full wp-image-2761" src="https://ttbagroup.com/wp-content/uploads/2016/06/Mobile-apps-are-in-priority.jpg" alt="Mobile-apps-are-in-priority" width="800" height="600" />
 <h2>Reason Two: Mobile Apps are Being Prioritized</h2>
 <p class="s1" style="font-size: 12pt; color: #000000;">While millions of apps are downloaded annually, customers adhere to only a few. That’s right: Buyers are relying on a maximum of four apps to go about day-to-day activities.</p>
-<p class="s1" style="font-size: 12pt; color: #000000;">Additionally, <a href="http://znerim.com/blog/7-winning-ways-to-make-your-mobile-marketing-work-in-2016/" target="_blank" rel="nofollow">79 percent of smartphone users</a> report using apps on a daily basis. If you want to boost ROI, you should focus on retention through mobile apps.</p>
+<p class="s1" style="font-size: 12pt; color: #000000;">Additionally, 79 percent of smartphone users report using apps on a daily basis. If you want to boost ROI, you should focus on retention through mobile apps.</p>
 <p class="s1" style="font-size: 12pt; color: #000000;">Mobile apps experience a high volume of repeat visits, and they’re even becoming prioritized by consumers seeking social media access.</p>
 &nbsp;
 <h2>Reason Three: Automated SMS is a Superior Outreach Channel</h2>
