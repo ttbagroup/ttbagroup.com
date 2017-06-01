@@ -10,6 +10,12 @@
 	<meta name="copyright" content="{{ site.t.copyright[lang] }}" />
 	<meta name="application-name" content="{{ site.t.title[lang] }}" />
 
+	{% if lang != 'en' %}
+		<link rel="alternate" hreflang="en" href="{% include t-link ref=page.ref lang='en' %}" />
+	{% elsif lang != 'fr' %}
+		<link rel="alternate" hreflang="fr" href="{% include t-link ref=page.ref lang='fr' %}" />
+	{% endif %}
+
 	{% feed_meta %}
 
 	<link rel='apple-touch-icon' type='image/png' href='{{ site.assets }}/favicon.png'>
