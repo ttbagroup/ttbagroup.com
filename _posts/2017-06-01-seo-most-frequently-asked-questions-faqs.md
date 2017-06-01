@@ -9,7 +9,7 @@ transparent: true
 inverse: true
 title: SEO Most Frequently Asked Questions (FAQs)
 date: '2017-06-01'
-permalink: /en/seo-most-frequently-asked-questions-faq
+permalink: /en/seo-most-frequently-asked-questions-faq/
 author: Leo
 meta-title: SEO Most Frequently Asked Questions - FAQs - TTBA Marketing Blog
 meta-description: >-
