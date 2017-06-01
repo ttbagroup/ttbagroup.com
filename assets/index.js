@@ -101,13 +101,16 @@ function initDD (ddToggle) {
   ddToggle.addEventListener('mouseenter', function () {
     openDD(ddToggle)
   })
+  ddToggle.addEventListener('mouseleave', function () {
+    hideDDs()
+  })
 }
 
 function openDD (ddToggle) {
   hideDDs(ddToggle)
 
   if (ddToggle.classList.contains('menu-item--opened')) {
-    ddToggle.classList.remove('menu-item--opened')
+    hideDDs()
   }
   else {
     ddToggle.classList.add('menu-item--opened')
