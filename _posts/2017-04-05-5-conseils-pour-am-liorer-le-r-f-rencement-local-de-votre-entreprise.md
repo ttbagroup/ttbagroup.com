@@ -43,9 +43,9 @@ div#respond.comment-respond {
 
 
 <!--allrecords-->
-<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="224049"  data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7" >
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="224049" data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7">
 
-<div id="rec6717942" class="r" style=" " data-animationappear="off" data-record-type="274"   >
+<div id="rec6717942" class="r" style=" " data-animationappear="off" data-record-type="274">
 <!-- t255 -->
 <!-- cover -->
 	
@@ -53,9 +53,9 @@ div#respond.comment-respond {
 
 
 
-<div class="t-cover" id="recorddiv6717942" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3132-3136-4335-a633-323965386434/-/resize/20x/amliorerrfrencementlocal.jpg');" >
+<div class="t-cover" id="recorddiv6717942" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3132-3136-4335-a633-323965386434/-/resize/20x/amliorerrfrencementlocal.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry6717942" data-content-cover-id="6717942"  data-content-cover-bg="https://static.tildacdn.com/tild3132-3136-4335-a633-323965386434/amliorerrfrencementlocal.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry6717942" data-content-cover-id="6717942" data-content-cover-bg="https://static.tildacdn.com/tild3132-3136-4335-a633-323965386434/amliorerrfrencementlocal.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#33000000');"></div>
   <div class="t255">
@@ -63,11 +63,11 @@ div#respond.comment-respond {
     <div class="t-width t-width_12 t255__mainblock">
         <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
           <div class="t255__wrapper" data-hook-content="covercontent">
-                        <h1 class="t255__title t-title t-title_sm t-uppercase "  style="text-transform:uppercase;" field="title"><div style="font-size:42px;" data-customstyle="yes"><span style="font-weight: 500;"># 5 conseils pour améliorer <br />le référencement local de votre entreprise</span><br /></div></h1>            <span class="space"></span>
+                        <h1 class="t255__title t-title t-title_sm t-uppercase " style="text-transform:uppercase;" field="title"><div style="font-size:42px;" data-customstyle="yes"><span style="font-weight: 500;">5 conseils pour améliorer <br>le référencement local de votre entreprise</span><br></div></h1>            <span class="space"></span>
           </div>
         </div>
         <div class="t255__userblock">
-          <div class="t255__userblock-img t-bgimg "  imgfield="img2" data-original="https://static.tildacdn.com/tild6239-6664-4338-b632-353762386162/TTBAGroupTeamKosta.jpg" style="background-image: url('https://static.tildacdn.com/tild6239-6664-4338-b632-353762386162/-/resize/20x/TTBAGroupTeamKosta.jpg');"></div>          <div class="t255__userblock-descr t-descr t-descr_xxs "  field="title2">par <b>Konstantin Kostychuk<br /></b>Fondateur / CEO<strong></strong></div>          <div class="t255__userblock-date t-descr t-descr_xxs "  field="descr2">8 juillet, 2016</div>        </div>
+          <div class="t255__userblock-img t-bgimg " imgfield="img2" data-original="https://static.tildacdn.com/tild6239-6664-4338-b632-353762386162/TTBAGroupTeamKosta.jpg" style="background-image: url('https://static.tildacdn.com/tild6239-6664-4338-b632-353762386162/-/resize/20x/TTBAGroupTeamKosta.jpg');"></div>          <div class="t255__userblock-descr t-descr t-descr_xxs " field="title2">par <b>Konstantin Kostychuk<br></b>Fondateur / CEO<strong></strong></div>          <div class="t255__userblock-date t-descr t-descr_xxs " field="descr2">8 juillet, 2016</div>        </div>
     </div>
   </div>
   </div>
@@ -78,28 +78,28 @@ div#respond.comment-respond {
 </div>
 
 
-<div id="rec6717943" class="r" style="padding-top:60px;padding-bottom:60px;background-color:#ededed; "  data-record-type="127"   data-bg-color="#ededed">
+<div id="rec6717943" class="r" style="padding-top:60px;padding-bottom:60px;background-color:#ededed; " data-record-type="127" data-bg-color="#ededed">
 <!-- T119 -->
 <div class="t119">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text">Le saviez vous? Vos meilleurs clients sont vos voisins. Ceci est dû au fait qu'il est plus facile d'engager une relation de confiance avec votre voisinage qu'il est de le faire avec une boutique à l'autre bout de la ville. <br />De nos jours, la plupart des moteurs de recherche web incluent une géolocalisation. <br /><br /><span style="font-weight: 500;">En tant qu'entreprise vous devez considerer 5  étapes pour  améliorer votre  référencement  local.</span><br /></div>
+			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text">Le saviez vous? Vos meilleurs clients sont vos voisins. Ceci est dû au fait qu'il est plus facile d'engager une relation de confiance avec votre voisinage qu'il est de le faire avec une boutique à l'autre bout de la ville. <br>De nos jours, la plupart des moteurs de recherche web incluent une géolocalisation. <br><br><span style="font-weight: 500;">En tant qu'entreprise vous devez considerer 5  étapes pour  améliorer votre  référencement  local.</span><br></div>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec6717944" class="r" style=" " data-animationappear="off" data-record-type="232"   >
+<div id="rec6717944" class="r" style=" " data-animationappear="off" data-record-type="232">
 <!-- cover -->
 	
 
 
 
 
-<div class="t-cover" id="recorddiv6717944" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3530-6662-4130-b230-373639316461/-/resize/20x/googlemonentreprise.jpg');" >
+<div class="t-cover" id="recorddiv6717944" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3530-6662-4130-b230-373639316461/-/resize/20x/googlemonentreprise.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry6717944" data-content-cover-id="6717944"  data-content-cover-bg="https://static.tildacdn.com/tild3530-6662-4130-b230-373639316461/googlemonentreprise.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry6717944" data-content-cover-id="6717944" data-content-cover-bg="https://static.tildacdn.com/tild3530-6662-4130-b230-373639316461/googlemonentreprise.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#7f000000');"></div>
 
@@ -110,7 +110,7 @@ div#respond.comment-respond {
                 <div data-hook-content="covercontent">
                     <div class="t203__wrapper">
                       <div class="t203__textwrapper">
-                                            <div class="t203__text t-text t-text_md" field="text"><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">## 1. La création d'un compte Google Mon Entreprise</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.</span></span><br /><br />Si vous  êtes un commerçant local, vous devez posséder cet outil indispensable qu'offre le géant Google. <br /><a href="https://www.google.ca/intl/fr/business/" target="_blank"><br />Google Mon Entreprise</a> vous permet de vous faire connaître auprès des gens de votre quartier. Pour être plus précis, un compte Mon Entreprise vous permet de ressortir parmi les 3 résultats dans la petite carte quand un client fait une recherche sur Google. Cet outil vous permet d'augmenter de façon considérable votre référencement local sur le moteur de recherche le plus répandu.<br /><br />L'inscription est simple et vous pouvez facilement mettre à jour vos données pour tenir votre clientèle informée des derniers changements  apportés  à votre entreprise. <br /></div>                      </div>
+                                            <h2 class="t203__text t-text t-text_md" field="text"><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">1. La création d'un compte Google Mon Entreprise</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.</span></span><br><br>Si vous  êtes un commerçant local, vous devez posséder cet outil indispensable qu'offre le géant Google. <br><a href="https://www.google.ca/intl/fr/business/" target="_blank"><br>Google Mon Entreprise</a> vous permet de vous faire connaître auprès des gens de votre quartier. Pour être plus précis, un compte Mon Entreprise vous permet de ressortir parmi les 3 résultats dans la petite carte quand un client fait une recherche sur Google. Cet outil vous permet d'augmenter de façon considérable votre référencement local sur le moteur de recherche le plus répandu.<br><br>L'inscription est simple et vous pouvez facilement mettre à jour vos données pour tenir votre clientèle informée des derniers changements  apportés  à votre entreprise. <br></h2>                      </div>
                     </div>
                 </div>
             </div>
@@ -124,49 +124,49 @@ div#respond.comment-respond {
 </div>
 
 
-<div id="rec6720621" class="r" style="padding-top:60px;padding-bottom:30px; "  data-record-type="106"   >
+<div id="rec6720621" class="r" style="padding-top:60px;padding-bottom:30px; " data-record-type="106">
 <!-- T004 -->
 <div class="t004">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div field="text" class="t-text t-text_md  "><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">## 2. L'inscription aux annuaires locaux</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.<br /></span></span><br />Si ce n'est pas déjà fait, inscrivez-vous a plusieurs annuaires spécialisés tel que Pages Jaune, Bing ou Local Pages pour améliorer votre référencement local et votre <a href="https://ttbagroup.com/referencement-naturel-seo-local/" target="_blank">référencement Google</a>. <br /></div>
+			<h2 field="text" class="t-text t-text_md  "><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">2. L'inscription aux annuaires locaux</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.<br></span></span><br>Si ce n'est pas déjà fait, inscrivez-vous a plusieurs annuaires spécialisés tel que Pages Jaune, Bing ou Local Pages pour améliorer votre référencement local et votre <a href="https://ttbagroup.com/referencement-naturel-seo-local/" target="_blank">référencement Google</a>. <br></h2>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec6776152" class="r" style="padding-top:15px;padding-bottom:15px; "  data-record-type="3"   >
+<div id="rec6776152" class="r" style="padding-top:15px;padding-bottom:15px; " data-record-type="3">
 <!-- T107 -->
 <div class="t107">
-  <div class="t-align_center" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild6435-3130-4664-b462-383565633438/votreprsenceannuaireslocauxlocalpinz.png">    <img src="https://static.tildacdn.com/tild6435-3130-4664-b462-383565633438/-/empty/votreprsenceannuaireslocauxlocalpinz.png" data-original="https://static.tildacdn.com/tild6435-3130-4664-b462-383565633438/votreprsenceannuaireslocauxlocalpinz.png"  class="t107__widthauto t-img" imgfield="img"  />               
+  <div class="t-align_center" itemscope="" itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild6435-3130-4664-b462-383565633438/votreprsenceannuaireslocauxlocalpinz.png">    <img src="https://static.tildacdn.com/tild6435-3130-4664-b462-383565633438/-/empty/votreprsenceannuaireslocauxlocalpinz.png" data-original="https://static.tildacdn.com/tild6435-3130-4664-b462-383565633438/votreprsenceannuaireslocauxlocalpinz.png" class="t107__widthauto t-img" imgfield="img">               
   </div>  
 </div>
 </div>
 
 
-<div id="rec6776193" class="r" style="padding-top:15px;padding-bottom:60px; "  data-record-type="106"   >
+<div id="rec6776193" class="r" style="padding-top:15px;padding-bottom:60px; " data-record-type="106">
 <!-- T004 -->
 <div class="t004">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div field="text" class="t-text t-text_md  ">Ces annuaires vont promouvoir votre entreprise lorsque des recherches sur le web concernant vos activités commerciales seront  effectués dans votre région. Les informations que vous inscrivez dans les annuaires doit être identique aux informations que vous avez inscrit sur Google Mon Entreprise. Une petite erreur comme un  "-" ou un "." pourrait affecter votre positionnement!<br /><br /><span style="font-weight: 600;"><em><span style="font-weight: 300;">Attention cependant de ne pas s'inscrire sur des annuaires de mauvaise qualités ou bannis par Google car cela pourrait   négativement affecter votre positionnement sur le moteur de recherche.</span></em></span><span style="font-weight: 600;"></span><br /></div>
+			<div field="text" class="t-text t-text_md  ">Ces annuaires vont promouvoir votre entreprise lorsque des recherches sur le web concernant vos activités commerciales seront  effectués dans votre région. Les informations que vous inscrivez dans les annuaires doit être identique aux informations que vous avez inscrit sur Google Mon Entreprise. Une petite erreur comme un  "-" ou un "." pourrait affecter votre positionnement!<br><br><span style="font-weight: 600;"><em><span style="font-weight: 300;">Attention cependant de ne pas s'inscrire sur des annuaires de mauvaise qualités ou bannis par Google car cela pourrait   négativement affecter votre positionnement sur le moteur de recherche.</span></em></span><span style="font-weight: 600;"></span><br></div>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec6720719" class="r" style=" " data-animationappear="off" data-record-type="232"   >
+<div id="rec6720719" class="r" style=" " data-animationappear="off" data-record-type="232">
 <!-- cover -->
 	
 
 
 
 
-<div class="t-cover" id="recorddiv6720719" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild3264-3735-4138-a239-626663343664/-/resize/20x/GoogleSearchIpad.jpg');" >
+<div class="t-cover" id="recorddiv6720719" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild3264-3735-4138-a239-626663343664/-/resize/20x/GoogleSearchIpad.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry6720719" data-content-cover-id="6720719"  data-content-cover-bg="https://static.tildacdn.com/tild3264-3735-4138-a239-626663343664/GoogleSearchIpad.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:90vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry6720719" data-content-cover-id="6720719" data-content-cover-bg="https://static.tildacdn.com/tild3264-3735-4138-a239-626663343664/GoogleSearchIpad.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed" style="background-image:url('');height:90vh; "></div>
       
     <div class="t-cover__filter" style="height:90vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.70), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#4c000000', endColorstr='#4c000000');"></div>
 
@@ -177,7 +177,7 @@ div#respond.comment-respond {
                 <div data-hook-content="covercontent">
                     <div class="t203__wrapper">
                       <div class="t203__textwrapper">
-                      <div class="t203__title t-title t-title_xs" field="title"><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">## 3. Organiser une campagne Adwords locale.</span></span></div>                      <div class="t203__text t-text t-text_md" field="text"><a href="https://adwords.google.com" target="_blank">Google Adwords</a> vous offre l'opportunité de créer une campagnes publicitaire pour promouvoir votre business grace a l'utilisation de mot-clés spécifiques sur le moteur de recherche Google. Ces campagnes vous permettent  de  cibler vos clients locaux en vous concentrant sur un cercle géographique particulier.<br /></div>                      </div>
+                      <h2 class="t203__title t-title t-title_xs" field="title"><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">3. Organiser une campagne Adwords locale.</span></span></h2>                      <div class="t203__text t-text t-text_md" field="text"><a href="https://adwords.google.com" target="_blank">Google Adwords</a> vous offre l'opportunité de créer une campagnes publicitaire pour promouvoir votre business grace a l'utilisation de mot-clés spécifiques sur le moteur de recherche Google. Ces campagnes vous permettent  de  cibler vos clients locaux en vous concentrant sur un cercle géographique particulier.<br></div>                      </div>
                     </div>
                 </div>
             </div>
@@ -191,37 +191,37 @@ div#respond.comment-respond {
 </div>
 
 
-<div id="rec6720720" class="r" style="padding-top:60px;padding-bottom:15px; "  data-record-type="106"   >
+<div id="rec6720720" class="r" style="padding-top:60px;padding-bottom:15px; " data-record-type="106">
 <!-- T004 -->
 <div class="t004">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div field="text" class="t-text t-text_md  "><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">## 4. Bien choisir ses mots-clés</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.</span></span><br /><br />Autant pour le contenu de votre site internet que pour vos campagnes Adwords, le choix de vos mots-clés doit inclure une géolocalisation. <br /><br /><strong>Par exemple</strong>, si vous possédez une entreprise en rembourrage sur la rive-sud de Montréal, vos mots-clés doivent être : ‟rembourrage rive-sud" ou ‟rembourrage Montréal" afin d'améliorer la  précision de votre référencement local.<br /></div>
+			<h2 field="text" class="t-text t-text_md  "><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">4. Bien choisir ses mots-clés</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.</span></span><br><br>Autant pour le contenu de votre site internet que pour vos campagnes Adwords, le choix de vos mots-clés doit inclure une géolocalisation. <br><br><strong>Par exemple</strong>, si vous possédez une entreprise en rembourrage sur la rive-sud de Montréal, vos mots-clés doivent être : ‟rembourrage rive-sud" ou ‟rembourrage Montréal" afin d'améliorer la  précision de votre référencement local.<br></h2>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec6776390" class="r" style="padding-top:15px;padding-bottom:60px; "  data-record-type="3"   >
+<div id="rec6776390" class="r" style="padding-top:15px;padding-bottom:60px; " data-record-type="3">
 <!-- T107 -->
 <div class="t107">
-  <div class="t-align_center" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3238-3162-4532-b064-663733643265/ScreenShot20160707at14500PM.png">    <img src="https://static.tildacdn.com/tild3238-3162-4532-b064-663733643265/-/empty/ScreenShot20160707at14500PM.png" data-original="https://static.tildacdn.com/tild3238-3162-4532-b064-663733643265/ScreenShot20160707at14500PM.png"  class="t107__width t-width t-width_8 t-img" imgfield="img"  />               
+  <div class="t-align_center" itemscope="" itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3238-3162-4532-b064-663733643265/ScreenShot20160707at14500PM.png">    <img src="https://static.tildacdn.com/tild3238-3162-4532-b064-663733643265/-/empty/ScreenShot20160707at14500PM.png" data-original="https://static.tildacdn.com/tild3238-3162-4532-b064-663733643265/ScreenShot20160707at14500PM.png" class="t107__width t-width t-width_8 t-img" imgfield="img">               
   </div>  
 </div>
 </div>
 
 
-<div id="rec6720760" class="r" style=" " data-animationappear="off" data-record-type="232"   >
+<div id="rec6720760" class="r" style=" " data-animationappear="off" data-record-type="232">
 <!-- cover -->
 	
 
 
 
 
-<div class="t-cover" id="recorddiv6720760" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild3462-6366-4232-a232-346563393136/-/resize/20x/seofeatures.jpg');" >
+<div class="t-cover" id="recorddiv6720760" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild3462-6366-4232-a232-346563393136/-/resize/20x/seofeatures.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry6720760" data-content-cover-id="6720760"  data-content-cover-bg="https://static.tildacdn.com/tild3462-6366-4232-a232-346563393136/seofeatures.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:90vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry6720760" data-content-cover-id="6720760" data-content-cover-bg="https://static.tildacdn.com/tild3462-6366-4232-a232-346563393136/seofeatures.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed" style="background-image:url('');height:90vh; "></div>
       
     <div class="t-cover__filter" style="height:90vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: -o-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));background-image: linear-gradient(top, rgba(0,0,0,0.30), rgba(0,0,0,0.30));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#b2000000', endColorstr='#b2000000');"></div>
 
@@ -232,7 +232,7 @@ div#respond.comment-respond {
                 <div data-hook-content="covercontent">
                     <div class="t203__wrapper">
                       <div class="t203__textwrapper">
-                                            <div class="t203__text t-text t-text_md" field="text"><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">## 5. Adapter votre site internet</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.</span></span><br /><br />Pour un bon référencement local, affichez clairement vos coordonnées sur votre site web ainsi que les régions que vous desservez. <br /><br />Si vous  êtes une   PME et possédez plus d'une succursale, il est recommandé de créer une page distincte pour chacune d'entre elles ou deux sites web distinctifs  pour améliorer le référencement local de chaque succursale.<br /></div>                      </div>
+                                            <h2 class="t203__text t-text t-text_md" field="text"><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">5. Adapter votre site internet</span></span><span style="font-weight: 400;"><span style="font-size: 24px;" data-redactor-style="font-size: 24px;">.</span></span><br><br>Pour un bon référencement local, affichez clairement vos coordonnées sur votre site web ainsi que les régions que vous desservez. <br><br>Si vous  êtes une   PME et possédez plus d'une succursale, il est recommandé de créer une page distincte pour chacune d'entre elles ou deux sites web distinctifs  pour améliorer le référencement local de chaque succursale.<br></h2>                      </div>
                     </div>
                 </div>
             </div>
@@ -246,19 +246,19 @@ div#respond.comment-respond {
 </div>
 
 
-<div id="rec6722271" class="r" style="padding-top:60px;padding-bottom:60px;background-color:#ededed; "  data-record-type="127"   data-bg-color="#ededed">
+<div id="rec6722271" class="r" style="padding-top:60px;padding-bottom:60px;background-color:#ededed; " data-record-type="127" data-bg-color="#ededed">
 <!-- T119 -->
 <div class="t119">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><br />Nous espérons que nos conseils vous aideront à améliorer le  référencement local de votre entreprise sur Google.    <br /><br /><span style="font-weight: 500;">Si vous avez essayé d'autres outils et méthodes pour améliorer le référencement local de votre entreprise, nous  sommes ouverts à tout commentaires et suggestions. <a href="#popup:commentaire">Cliquez ici</a> pour commenter. </span><br /></div>
+			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><br>Nous espérons que nos conseils vous aideront à améliorer le  référencement local de votre entreprise sur Google.    <br><br><span style="font-weight: 500;">Si vous avez essayé d'autres outils et méthodes pour améliorer le référencement local de votre entreprise, nous  sommes ouverts à tout commentaires et suggestions. <a href="#popup:commentaire">Cliquez ici</a> pour commenter. </span><br></div>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec6776547" class="r" style=" " data-animationappear="off" data-record-type="330"   >
+<div id="rec6776547" class="r" style=" " data-animationappear="off" data-record-type="330">
 
 <style>
 #rec6776547 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
@@ -271,7 +271,7 @@ div#respond.comment-respond {
 #rec6776547 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
 </style>
 <div class="t330">
-  <div class="t-popup" data-tooltip-hook="#popup:commentaire" >
+  <div class="t-popup" data-tooltip-hook="#popup:commentaire">
     <div class="t-popup__close">
       <div class="t-popup__close-wrapper">
       <svg class="t-popup__close-icon" width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -283,8 +283,8 @@ div#respond.comment-respond {
       </div>  
     </div>
     <div class="t-popup__container t-width t-width_6">
-        <img class="t330__img t-img" src="https://static.tildacdn.com/tild3061-6662-4737-b434-633634353061/-/empty/ContentisKing.jpg" data-original="https://static.tildacdn.com/tild3061-6662-4737-b434-633634353061/ContentisKing.jpg" imgfield="img" >        <div class="t330__wrapper t-align_center" style=";">
-          <div class="t330__title t-title t-title_xxs"><div style="font-size:20px;" data-customstyle="yes"><span style="font-weight: 400;">Ajoutez vos commentaires ci-dessous. <br /><br /></span></div></div>                    <form id="form6776547" name='form6776547' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2" data-inputbox=".t330__blockinput"   class="js-form-proccess " data-tilda-captchakey="">                                        
+        <img class="t330__img t-img" src="https://static.tildacdn.com/tild3061-6662-4737-b434-633634353061/-/empty/ContentisKing.jpg" data-original="https://static.tildacdn.com/tild3061-6662-4737-b434-633634353061/ContentisKing.jpg" imgfield="img">        <div class="t330__wrapper t-align_center" style=";">
+          <div class="t330__title t-title t-title_xxs"><div style="font-size:20px;" data-customstyle="yes"><span style="font-weight: 400;">Ajoutez vos commentaires ci-dessous. <br><br></span></div></div>                    <form id="form6776547" name="form6776547" role="form" action="https://forms.tildacdn.com/procces/" method="POST" data-formactiontype="2" data-inputbox=".t330__blockinput" class="js-form-proccess " data-tilda-captchakey="">                                        
                                                                   <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
                                                       
                                                                                   <div>
@@ -294,16 +294,16 @@ div#respond.comment-respond {
                         </div>
                         <div class="t330__input-wrapper">
                                                                               <div class="t330__blockinput">
-                              <input type="text" name="email" class="t330__input t-input js-tilda-rule " value="" placeholder="Adresse Courriel"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adresse Courriel'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="email" class="t330__input t-input js-tilda-rule " value="" placeholder="Adresse Courriel" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adresse Courriel'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>
                                                                                                         <div class="t330__blockinput">
-                              <input type="text" name="Name" class="t330__input t-input js-tilda-rule " value="" placeholder="Prénom "  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Prénom '" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="Name" class="t330__input t-input js-tilda-rule " value="" placeholder="Prénom " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Prénom '" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>                
                                                                                 
                           
                                                       
                                                                               <div class="t330__blockinput">
-                              <textarea name="Commentaire" class="t330__input t-input js-tilda-rule " placeholder="Commentaire"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Commentaire'"  style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:34px" rows="1"></textarea>
+                              <textarea name="Commentaire" class="t330__input t-input js-tilda-rule " placeholder="Commentaire" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Commentaire'" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:34px" rows="1"></textarea>
                           </div>
                                                     <div class="js-errorbox-all t330__blockinput-errorbox" style="display:none;">
                               <div class="t330__blockinput-errors-text t-text t-text_xs">
@@ -345,7 +345,7 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec6774576" class="r" style="padding-top:60px; "  data-record-type="43"   >
+<div id="rec6774576" class="r" style="padding-top:60px; " data-record-type="43">
 <!-- T030 -->
 <div class="t030">
   <div class="t-container t-align_center">
@@ -356,7 +356,7 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec6717954" class="r" style="padding-top:15px;padding-bottom:60px; "  data-record-type="132"   >
+<div id="rec6717954" class="r" style="padding-top:15px;padding-bottom:60px; " data-record-type="132">
 <div class="t-container_100">
 	<div style="position: relative; right: 50%; float: right;">
 		<div style="position: relative; z-index: 1; right: -50%;">
@@ -395,21 +395,21 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec6717951" class="r" style="padding-top:30px;padding-bottom:45px; "  data-record-type="43"   >
+<div id="rec6717951" class="r" style="padding-top:30px;padding-bottom:45px; " data-record-type="43">
 <!-- T030 -->
 <div class="t030">
   <div class="t-container t-align_center">
     <div class="t-col t-col_10 t-prefix_1">      
-      <div class="t030__title t-title t-title_xxs" field="title" style="">Plus de lectures interessantes<br /></div>      <div class="t030__descr t-descr t-descr_md" field="descr" style="">Découvrez d'autres articles de notre blogue qui vous aideront à perfectionner vos efforts en marketing.</div>    </div>
+      <div class="t030__title t-title t-title_xxs" field="title" style="">Plus de lectures interessantes<br></div>      <div class="t030__descr t-descr t-descr_md" field="descr" style="">Découvrez d'autres articles de notre blogue qui vous aideront à perfectionner vos efforts en marketing.</div>    </div>
   </div>
 </div>
 </div>
 
 
-<div id="rec6717952" class="r" style="padding-top:30px;padding-bottom:75px; " data-animationappear="off" data-record-type="334"   >
+<div id="rec6717952" class="r" style="padding-top:30px;padding-bottom:75px; " data-animationappear="off" data-record-type="334">
 
 <div class="t334">
-  <div class="t-container " >
+  <div class="t-container ">
     <div class="t334__col t-col t-col_6 t-align_center ">
       <a href="https://ttbagroup.com/comment-optimiser-le-site-web-pour-un-meilleur-positionnement-sur-google/" target="_blank">        <div class="t334__table" style="">
           <div class="t334__cell t-align_center t-valign_middle">
@@ -417,7 +417,7 @@ $(document).ready(function(){
             <div class="t334__overlay t334__animation_fast" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60));"></div>
             <div class="t334__textwrapper t334__animation_fast ">
               <div class="t334__textwrapper__content">
-                                <div class="t334__title t-title t-title_xxs" field="title" ><div style="font-size:30px;" data-customstyle="yes"><span style="font-weight: 400;">Comment optimiser le site web pour un meilleur positionnement sur Google</span><br /></div></div>                                                                  <div class="t334__button-container">
+                                <div class="t334__title t-title t-title_xxs" field="title"><div style="font-size:30px;" data-customstyle="yes"><span style="font-weight: 400;">Comment optimiser le site web pour un meilleur positionnement sur Google</span><br></div></div>                                                                  <div class="t334__button-container">
                     <div class="t334__button-wrapper">
                       <div class="t334__submit t-btn " style="color:#000000;background-color:#ffffff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">LIRE LA SUITE</div>
                     </div>
@@ -435,7 +435,7 @@ $(document).ready(function(){
             <div class="t334__overlay t334__animation_fast" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.60), rgba(0,0,0,0.60));"></div>
             <div class="t334__textwrapper t334__animation_fast ">
               <div class="t334__textwrapper__content">
-                                <div class="t334__title t-title t-title_xxs" field="title2" ><div style="font-size:30px;" data-customstyle="yes"><span style="font-weight: 400;">5 Conseils simples pour attirer de nouveaux clients</span><br /></div></div>                                                                  <div class="t334__button-container">
+                                <div class="t334__title t-title t-title_xxs" field="title2"><div style="font-size:30px;" data-customstyle="yes"><span style="font-weight: 400;">5 Conseils simples pour attirer de nouveaux clients</span><br></div></div>                                                                  <div class="t334__button-container">
                     <div class="t334__button-wrapper">
                       <div class="t334__submit t-btn " style="color:#000000;background-color:#ffffff;border-radius:30px; -moz-border-radius:30px; -webkit-border-radius:30px;">LIRE LA SUITE</div>
                     </div>
@@ -462,7 +462,7 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec6775408" class="r" style="padding-top:75px;padding-bottom:75px;background-color:#f3f3f3; "  data-record-type="209"   data-bg-color="#f3f3f3">
+<div id="rec6775408" class="r" style="padding-top:75px;padding-bottom:75px;background-color:#f3f3f3; " data-record-type="209" data-bg-color="#f3f3f3">
 <!-- T185 -->
 <div class="t185">
   	<div class="t-container t-container_flex">
@@ -470,14 +470,14 @@ $(document).ready(function(){
 				<div class="t-text t-text_lg" field="text">Voulez-vous contribuer à notre blogue en marketing?</div>
 			</div>
 			<div class="t185__butwrapper t-col t-col_2 ">
-                <a href="#popup:contribuer" target="" class="t-btn" style="color:#ffffff;background-color:#0051ff;"><table style="width:100%; height:100%;"><tr><td>CONTRIBUER</td></tr></table></a>			</div>   
+                <a href="#popup:contribuer" target="" class="t-btn" style="color:#ffffff;background-color:#0051ff;"><table style="width:100%; height:100%;"><tbody><tr><td>CONTRIBUER</td></tr></tbody></table></a>			</div>   
 	</div>  
 </div>
 
 </div>
 
 
-<div id="rec6774967" class="r" style=" " data-animationappear="off" data-record-type="330"   >
+<div id="rec6774967" class="r" style=" " data-animationappear="off" data-record-type="330">
 
 <style>
 #rec6774967 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
@@ -490,7 +490,7 @@ $(document).ready(function(){
 #rec6774967 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
 </style>
 <div class="t330">
-  <div class="t-popup" data-tooltip-hook="#popup:contribuer" >
+  <div class="t-popup" data-tooltip-hook="#popup:contribuer">
     <div class="t-popup__close">
       <div class="t-popup__close-wrapper">
       <svg class="t-popup__close-icon" width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -502,8 +502,8 @@ $(document).ready(function(){
       </div>  
     </div>
     <div class="t-popup__container t-width t-width_6">
-        <img class="t330__img t-img" src="https://static.tildacdn.com/tild3630-3765-4137-a162-373564323135/-/empty/easiservicecommunication.jpg" data-original="https://static.tildacdn.com/tild3630-3765-4137-a162-373564323135/easiservicecommunication.jpg" imgfield="img" >        <div class="t330__wrapper t-align_center" style=";">
-          <div class="t330__title t-title t-title_xxs"><div style="font-size:20px;" data-customstyle="yes"><span style="font-weight: 400;">Laissez-nous savoir si vous avez un sujet intéressant que vous voulez aborder sur notre blogue.<br /><br /></span></div></div>                    <form id="form6774967" name='form6774967' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2" data-inputbox=".t330__blockinput"   class="js-form-proccess " data-tilda-captchakey="">                                        
+        <img class="t330__img t-img" src="https://static.tildacdn.com/tild3630-3765-4137-a162-373564323135/-/empty/easiservicecommunication.jpg" data-original="https://static.tildacdn.com/tild3630-3765-4137-a162-373564323135/easiservicecommunication.jpg" imgfield="img">        <div class="t330__wrapper t-align_center" style=";">
+          <div class="t330__title t-title t-title_xxs"><div style="font-size:20px;" data-customstyle="yes"><span style="font-weight: 400;">Laissez-nous savoir si vous avez un sujet intéressant que vous voulez aborder sur notre blogue.<br><br></span></div></div>                    <form id="form6774967" name="form6774967" role="form" action="https://forms.tildacdn.com/procces/" method="POST" data-formactiontype="2" data-inputbox=".t330__blockinput" class="js-form-proccess " data-tilda-captchakey="">                                        
                                                                   <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
                                                       
                                                                                   <div>
@@ -512,13 +512,13 @@ $(document).ready(function(){
                         </div>
                         <div class="t330__input-wrapper">
                                                                               <div class="t330__blockinput">
-                              <input type="text" name="email" class="t330__input t-input js-tilda-rule " value="" placeholder="Adresse Courriel"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adresse Courriel'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="email" class="t330__input t-input js-tilda-rule " value="" placeholder="Adresse Courriel" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Adresse Courriel'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>
                                                                                                         <div class="t330__blockinput">
-                              <input type="text" name="Name" class="t330__input t-input js-tilda-rule " value="" placeholder="Prénom "  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Prénom '" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="Name" class="t330__input t-input js-tilda-rule " value="" placeholder="Prénom " onfocus="this.placeholder = ''" onblur="this.placeholder = 'Prénom '" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>                
                                                                                                         <div class="t330__blockinput">
-                              <input type="text" name="Subject of the blog" class="t330__input t-input js-tilda-rule " value="" placeholder="Sujet de votre article"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Sujet de votre article'" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="Subject of the blog" class="t330__input t-input js-tilda-rule " value="" placeholder="Sujet de votre article" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Sujet de votre article'" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>                                
                                                       
                           
@@ -563,7 +563,7 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec6717953" class="r" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="307"   >
+<div id="rec6717953" class="r" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="307">
 <!-- t278 -->
 <!-- cover -->
 	
@@ -571,9 +571,9 @@ $(document).ready(function(){
 
 
 
-<div class="t-cover" id="recorddiv6717953" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6566-6436-4638-b663-663938376164/-/resize/20x/mtlcityview.jpg');" >
+<div class="t-cover" id="recorddiv6717953" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6566-6436-4638-b663-663938376164/-/resize/20x/mtlcityview.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry6717953" data-content-cover-id="6717953"  data-content-cover-bg="https://static.tildacdn.com/tild6566-6436-4638-b663-663938376164/mtlcityview.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry6717953" data-content-cover-id="6717953" data-content-cover-bg="https://static.tildacdn.com/tild6566-6436-4638-b663-663938376164/mtlcityview.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -webkit-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -o-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: -ms-linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));background-image: linear-gradient(top, rgba(87,87,87,0.80), rgba(69,69,69,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#33575757', endColorstr='#33454545');"></div>
   <div class="t278">
@@ -581,7 +581,7 @@ $(document).ready(function(){
     <div class="t-width t-width_8 t278__mainblock">
       <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
         <div class="t278__mainwrapper" data-hook-content="covercontent">
-          <div class="t278__title t-title t-title_xs" field="title"><div style="font-size:40px;" data-customstyle="yes">Recevez les conseils de nos experts en marketing directement dans votre courriel.</div></div>          <div class="t278__descr t-descr t-descr_md" field="descr">Nous n'envoyons jamais de spam!</div>          <form id="form6717953" name='form6717953' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2"  data-inputbox=".t278__blockinput"  data-success-url="https://ttbagroup.com" class="js-form-proccess " data-tilda-captchakey="">                                  
+          <div class="t278__title t-title t-title_xs" field="title"><div style="font-size:40px;" data-customstyle="yes">Recevez les conseils de nos experts en marketing directement dans votre courriel.</div></div>          <div class="t278__descr t-descr t-descr_md" field="descr">Nous n'envoyons jamais de spam!</div>          <form id="form6717953" name="form6717953" role="form" action="https://forms.tildacdn.com/procces/" method="POST" data-formactiontype="2" data-inputbox=".t278__blockinput" data-success-url="https://ttbagroup.com" class="js-form-proccess " data-tilda-captchakey="">                                  
                                                 <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
                             
                             <div style="position: absolute; left: -5000px;"><input type="text" name="tspecomment" tabindex="-1" value=""></div>
@@ -657,5 +657,6 @@ $(document).ready(function(){
 
 </div>
 <!--/allrecords-->
+
 
 
