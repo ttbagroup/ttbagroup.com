@@ -95,7 +95,7 @@
   font-weight: 500;
   line-height: 2.4rem;
   min-height: 2.4rem;
-  display: inline-block;
+  display: block;
 }
 .menu-dropdown-item:hover .menu-link,
 .menu-dropdown-item--active .menu-link {
