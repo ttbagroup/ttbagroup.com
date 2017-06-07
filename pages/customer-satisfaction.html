@@ -11,9 +11,7 @@ permalink: /en/customer-satisfaction/
 blank: true
 ref: customer-satisfaction
 ---
-testing this and this
-<script>(function(t,e,n,o){var s,c,i;t.SMCX=t.SMCX||[],e.getElementById(o)||(s=e.getElementsByTagName(n),c=s[s.length-1],i=e.createElement(n),i.type="text/javascript",i.async=!0,i.id=o,i.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/sL0uP8tG8nDnlLu4yIAnwaW6J38rKyOz2pWBDFR9_2BgpHZBtPWNyPapLoOIC8VTly.js"].join(""),c.parentNode.insertBefore(i,c))})(window,document,"script","smcx-sdk");
-</script>
+<script>(function(t,e,n,o){var s,c,a;t.SMCX=t.SMCX||[],e.getElementById(o)||(s=e.getElementsByTagName(n),c=s[s.length-1],a=e.createElement(n),a.type="text/javascript",a.async=!0,a.id=o,a.src=["https:"===location.protocol?"https://":"http://","widget.surveymonkey.com/collect/website/js/sL0uP8tG8nDnlLu4yIAnwaW6J38rKyOz2pWBDFR9_2BgpHZBtPWNyPapLoOIC8VTly.js"].join(""),c.parentNode.insertBefore(a,c))})(window,document,"script","smcx-sdk");</script>
 
 
 <style type="text/css">
@@ -21,9 +19,15 @@ testing this and this
 	overflow: hidden;
 }
 
-.site-content .brief {
+.site-content .smcx-widget {
 	border: none;
 	height: 100vh;
-	width: 100%;
+}
+.site-content .smcx-embed {
+	max-width: none;
+}
+.site-content .smcx-embed>.smcx-iframe-container {
+	max-width: none;
+	height: 100vh;
 }
 </style>
