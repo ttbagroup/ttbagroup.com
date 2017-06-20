@@ -7,7 +7,8 @@
     "test": "jekyll build",
     "start": "jekyll serve --config _config.yml,_config-dev.yml --incremental",
     "build": "jekyll build --config _config.yml,_config-prod.yml",
-    "watch": "jekyll build --config _config.yml,_config-dev.yml --watch --incremental"
+    "watch": "jekyll build --config _config.yml,_config-dev.yml --watch --incremental",
+    "css": "cat ./assets/tilda-grid-3.0.min.css ./assets/tilda-blocks-2.12.css ./assets/tilda-zoom-1.0.min.css ./assets/tilda-popup-1.1.min.css ./assets/tilda-zoom-1.0.min.css ./assets/juxtapose.css > ./assets/tilda.css"
   },
   "repository": {
     "type": "git",
