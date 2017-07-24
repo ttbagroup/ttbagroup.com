@@ -10,6 +10,7 @@ boost: false
 permalink: /webdesign-brief/
 meta-title: Web Design Bref | Groupe TTBA
 blank: true
+ref: webdesign-brief
 ---
 <iframe src="https://docs.google.com/forms/d/1lj03H3KkvhRNzuH2Sfg30Q0B5PfzUcr70STXUVS-jzw/edit?ts=59764cbf/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" class="brief">Loading...</iframe>
 
