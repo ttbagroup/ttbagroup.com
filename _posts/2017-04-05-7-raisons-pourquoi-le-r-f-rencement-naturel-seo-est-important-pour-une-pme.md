@@ -9,7 +9,7 @@ noindex: false
 title: 7 raisons pourquoi le référencement naturel (SEO) est important pour une PME
 permalink: /7-raisons-referencement-naturel-est-important-pour-pme/
 date: '2016-02-10'
-image: /assets/référencement-naturel-offre.jpg
+image: /assets/referencement-naturel-offre.jpg
 meta-title: 7 raisons pourquoi le référencement naturel (SEO) est important pour une PME
 blank: false
 ---
@@ -20,7 +20,7 @@ blank: false
 <h2><strong>Parce que la référence première des consommateurs au Québec est internet</strong></h2>
 <p style="font-size: 12pt; color: #000000;">Au Québec seulement en 2013, 7 milliards de dollars ont été dépensés sur les sites d’<a href="http://www.cefrio.qc.ca/salle-presse/communiques/commerce-electronique-pleine-croissance/" target="_blank">achats en ligne</a>, qui plus est, 85% des utilisateurs d’internet ont consulté au minimum un site web avant de faire un achat en ligne ou <a href="http://www.cefrio.qc.ca/netendances/commerce-electronique-croissance-quebec/avant-achat-reflexe-internet/" target="_blank">au magasin directement</a>. On peut donc conclure que c’est la fin du bottin jaune!</p>
 
-<img src="https://ttbagroup.com/wp-content/uploads/2016/02/référencement-naturel-offre.jpg" alt="premiere reference a Quebec est internet" width="714" height="402" class="aligncenter size-full wp-image-2302" />
+<img src="https://ttbagroup.com/wp-content/uploads/2016/02/referencement-naturel-offre.jpg" alt="premiere reference a Quebec est internet" width="714" height="402" class="aligncenter size-full wp-image-2302" />
 
 <h2><strong>Parce que les utilisateurs consultent les résultats de la première page</strong></h2>
 <p style="font-size: 12pt; color: #000000;">Afin que les acheteurs se décident à visiter votre site internet au lieu de celui de vos compétiteurs avant de faire leurs achats, vous devez être en tête de liste et, pour y parvenir, vous devrez travailler en référencement naturel et optimiser votre site internet au maximum pour que celui- ci soit considéré comme digne de la première page par les petits robots du web.</p>
