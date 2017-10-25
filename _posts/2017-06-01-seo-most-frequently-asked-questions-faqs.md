@@ -6,7 +6,7 @@ nofollow: false
 lang: en
 tilda: true
 transparent: true
-inverse: true
+inverse: false
 title: SEO Most Frequently Asked Questions (FAQs)
 date: '2017-06-01'
 permalink: /en/seo-most-frequently-asked-questions-faq/
