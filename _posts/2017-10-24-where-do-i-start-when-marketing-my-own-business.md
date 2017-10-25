@@ -6,7 +6,7 @@ nofollow: false
 lang: en
 tilda: true
 transparent: true
-inverse: false
+inverse: true
 title: Where do I start when marketing my own business?
 date: '2017-10-25'
 permalink: /en/where-do-I-start-when-marketing-my-own-business/
