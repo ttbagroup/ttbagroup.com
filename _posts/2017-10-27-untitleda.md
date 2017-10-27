@@ -8,6 +8,7 @@ tilda: true
 transparent: false
 inverse: false
 title: Untitleda
+permalink: /test/
 ---
 <link rel="stylesheet" href="http://tilda.ws/css/tilda-grid-3.0.min.css" rel="stylesheet" media="screen">
 <link rel="stylesheet" href="http://tilda.ws/project56887/tilda-blocks-2.12.css" rel="stylesheet" media="screen">
