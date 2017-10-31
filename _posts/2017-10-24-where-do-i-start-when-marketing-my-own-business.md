@@ -21,23 +21,6 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 ---
 <!--allrecords-->
 
-<link rel="stylesheet" href="http://tilda.ws/css/tilda-grid-3.0.min.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" href="http://tilda.ws/project56887/tilda-blocks-2.12.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" href="http://tilda.ws/css/tilda-animation-1.0.min.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" href="http://tilda.ws/css/tilda-slds-1.4.min.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" href="http://tilda.ws/css/tilda-zoom-2.0.min.css" rel="stylesheet" media="screen">
-<link rel="stylesheet" href="http://tilda.ws/css/tilda-popup-1.1.min.css" rel="stylesheet" media="screen">
-
-<script src="http://tilda.ws/js/jquery-1.10.2.min.js"></script>
-<script src="http://tilda.ws/js/tilda-scripts-2.8.min.js"></script>
-<script src="http://tilda.ws/project56887/tilda-blocks-2.7.js"></script>
-<script src="http://tilda.ws/js/tilda-animation-1.0.min.js"></script>
-<script src="http://tilda.ws/js/tilda-slds-1.4.min.js"></script>
-<script src="http://tilda.ws/js/hammer.min.js"></script>
-<script src="http://tilda.ws/js/tilda-zoom-2.0.min.js"></script>
-<script src="http://tilda.ws/js/tilda-forms-1.0.min.js"></script>
-<script src="http://tilda.ws/js/lazyload-1.3.min.js"></script>
-
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="1586638"  data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7"  >
 
 <div id="rec32182066" class="r t-rec" style=" " data-animationappear="off" data-record-type="274"   >
