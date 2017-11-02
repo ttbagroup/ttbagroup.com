@@ -11,7 +11,7 @@ title: Where do I start when marketing my own business?
 date: '2017-10-25'
 permalink: /en/where-do-I-start-when-marketing-my-own-business/
 author: Leo
-meta-title: Where do I start when marketing my own business? - TTBA Marketing Blog
+meta-title: Marketing my Business. Where do I start? - TTBA Marketing Blog
 meta-description: >-
   Starting a business is never an easy task. Sooner or later, all business
   owners ask themselves the same question: How do I make sales? Of course, the
