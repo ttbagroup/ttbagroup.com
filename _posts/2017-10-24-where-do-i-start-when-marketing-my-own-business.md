@@ -7,7 +7,7 @@ lang: en
 tilda: true
 transparent: true
 inverse: true
-title: Where do I start when marketing my own business?
+title: How to 3X Profits Applying the Marketing Funnel
 date: '2017-10-25'
 permalink: /en/where-do-I-start-when-marketing-my-own-business/
 author: Leo
@@ -40,7 +40,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
     <div class="t-width t-width_10 t255__mainblock">
         <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
           <div class="t255__wrapper" data-hook-content="covercontent">
-                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;"><strong data-redactor-tag="strong">HOW TO 3X PROFITS<br /></strong></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">APPLYING MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
+                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;"><strong data-redactor-tag="strong">HOW TO 3X PROFITS<br /></strong></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">APPLYING THE MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
           </div>
         </div>
         <div class="t255__userblock">
@@ -288,7 +288,7 @@ $(document).ready(function(){
 			              
             
 						<div style="float:left; width:80px; display:table-column; height:25px; border:0px solid; padding-left:10px; padding-top:4px;">
-			<a href="https://twitter.com/share" class="twitter-share-button" data-text="Marketing my Business. Where do I start?">Tweet</a>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-text="How to 3X Profits Applying the Marketing Funnel">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</div>
 			              
