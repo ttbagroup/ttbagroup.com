@@ -30,9 +30,9 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 
 
 
-<div class="t-cover" id="recorddiv32182066" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3661-3830-4863-b761-336466656437/-/resize/20x/fish_jumping_out_of_.jpg');" >
+<div class="t-cover" id="recorddiv32182066" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3333-3838-4563-a538-396332643137/-/resize/20x/rushhourcommuterscom.jpg');" >
 
-	<div class="t-cover__carrier" id="coverCarry32182066" data-content-cover-id="32182066"  data-content-cover-bg="https://static.tildacdn.com/tild3661-3830-4863-b761-336466656437/fish_jumping_out_of_.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry32182066" data-content-cover-id="32182066"  data-content-cover-bg="https://static.tildacdn.com/tild3333-3838-4563-a538-396332643137/rushhourcommuterscom.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -o-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cc000000', endColorstr='#19000000');"></div>
   <div class="t255">
@@ -40,7 +40,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
     <div class="t-width t-width_10 t255__mainblock">
         <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
           <div class="t255__wrapper" data-hook-content="covercontent">
-                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"># <strong>Where do I start when marketing my own business?</strong> <br /></div></h1>            <span class="space"></span>
+                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><strong>marketing my business. </strong><br /><span style="font-size: 62px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">where do i start? </span></span><strong></strong><br /></div></h1>            <span class="space"></span>
           </div>
         </div>
         <div class="t255__userblock">
@@ -74,7 +74,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 <div class="t119">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><div style="font-size:20px;text-align:left;" data-customstyle="yes"><strong></strong>Starting a business is never an easy task. Sooner or later, all business owners ask themselves the same question: <em>How do I make sales?</em> <br /><br />Of course, the first word that comes to mind is (drumroll)… Marketing. Unfortunately, the word marketing can be somewhat vague. <br /></div></div>
+			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><div style="font-size:20px;text-align:left;" data-customstyle="yes"><strong></strong>Running a business is never an easy task. Sooner enough, all owners ask themselves the same question: <em>How do I make more sales?</em> <br /><br />Of course, the first word that comes to mind is (drumroll)… Marketing. Unfortunately, the word marketing can be somewhat vague. <br /></div></div>
 		</div>
 	</div>
 </div>
@@ -87,7 +87,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
   <div class="t-container">
                 
       <div class="t-col t-col_4 t-prefix_2">
-        <div class="t195__text t-text t-text_md t-animate" data-animate-style="fadeinleft" data-animate-group="yes" data-animate-order="1" field="text"><div style="font-size:18px;" data-customstyle="yes"><br /><br />Today, business owners are faced with millions of different instruments and avenues for marketing. <br />   Between social media, search engine optimization, Google Adwords, retargeting, and email marketing, the prospect can become daunting. It can be hard to understand where each piece of the puzzle fits, and more importantly, when to place each piece.<br /><br />With marketing, it's easy to get lost in the noise.<br /><br />At TTBA Group, we believe the key to maximizing your ROI is structuring your marketing budget. Here's how we break down the process for our clients:<br /><strong style=""><br />1. Aim<br />2. Reach<br />3. Acquire<br />4. Warm<br />5. Sell</strong> <br /></div></div>
+        <div class="t195__text t-text t-text_md t-animate" data-animate-style="fadeinleft" data-animate-group="yes" data-animate-order="1" field="text"><div style="font-size:18px;" data-customstyle="yes"><br /><br />Social media, search engine optimization, Google Adwords, retargeting, email marketing, the choice can become daunting. It can be hard to understand where each piece of the puzzle fits, and more importantly, when to place each piece.<br /><br /><strong>It is easy to get lost in this marketing noise.<br /></strong><br />At TTBA Group, we believe the key to maximizing your ROI is structuring your marketing budget. Here's how we break down the process for our clients:<br /><strong><br />1. Aim<br />2. Reach<br />3. Acquire<br />4. Warm<br />5. Sell</strong> <br /></div></div>
       </div>
           <div class="t-col t-col_4  t195__imgsection" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/funnel_ttba01.png">        <img class="t195__img t-img t-animate" data-animate-style="fadeinright" data-animate-group="yes" data-animate-order="2" data-animate-delay="0.5" data-tu-max-width="1200" data-tu-max-height="1200" src="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/-/empty/funnel_ttba01.png" data-original="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/funnel_ttba01.png" imgfield="img"   /><br />        <div class="t195__sectitle t-descr" field="imgtitle" itemprop="name"></div>
         <div class="t195__secdescr t-descr" field="imgdescr" itemprop="description"></div>
@@ -102,79 +102,250 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 <div class="t015">
   <div class="t-container t-align_center">
     <div class="t-col t-col_10 t-prefix_1">
-            <div class="t015__title t-title t-title_lg" field="title" style="">Example: <br /></div>      <div class="t015__descr t-descr t-descr_xl" field="descr" style="">Let's explore this model. <br /> <br />Say you have a dentistry practice and you want to increase your sales. To boost traffic, you spend $1000 on Google AdWords for $10 per click. Your campaign directs one hundred potential customers to your website, and one converts into a purchase of services. <br /> <br />While this is a "successful" campaign, your profit margin on the job is only $700. What do you do now? <strong>Our funnel model can guide you to triple your profit margins: </strong><br /></div>    </div>
+            <div class="t015__title t-title t-title_lg" field="title" style="">Example: <br /></div>      <div class="t015__descr t-descr t-descr_xl" field="descr" style="">Say you have a dentistry practice and you want to increase your sales. To boost traffic, you spend $1000 on Google AdWords for $10 per click. Your campaign directs <strong>100</strong> potential customers to your website, and <strong>1</strong> converts into a purchase of services. <br /> <br />While this is a "successful" campaign, your profit margin on the job is only $700. What do you do now? <strong>Our funnel model can guide you to triple your profits: </strong><br /></div>    </div>
   </div>
 </div>
 </div>
 
 
-<div id="rec32300336" class="r t-rec t-rec_pt_30 t-rec_pb_15" style="padding-top:30px;padding-bottom:15px; " data-animationappear="off" data-record-type="664"   >
+<div id="rec36964148" class="r t-rec t-rec_pt_30 t-rec_pb_15" style="padding-top:30px;padding-bottom:15px; " data-animationappear="off" data-record-type="585"   >
 
-<!-- T664-->
-<div class="t664">
+<!-- T585-->
+<div class="t585">
   <div class="t-container">
-                            <div class="t664__col t-col t-col_8 t-prefix_2" >
-        <div class="t664__wrapper" style=" border: 1px solid #eee;" itemscope itemtype="http://schema.org/Question">
-          <div class="t664__question" >
-            <div class="t664__question-name t-text t-text_sm" field="li_title__1480611048442" style=" " itemprop="name"><div style="color:#090909;" data-customstyle="yes"><strong>AIM:</strong></div></div>            <div class="t664__question-text t-text t-text_sm" field="li_text__1480611048442" style="" itemprop="text"><div style="color:#090909;" data-customstyle="yes"><strong>Be smart when choosing your audience. </strong><br /></div></div>          </div>
-          <div class="t664__answer" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-            <div class="t664__answer-name t-text t-text_sm" field="li_title2__1480611048442" style=" " itemprop="name">.</div>            <div class="t664__question-text t-text t-text_sm" field="li_text2__1480611048442" style=" " itemprop="text">Understand your potential customer. What are their key deciding factors when making a purchase? What's the first thing they do when they start searching for your product or service? <br /> <br />Design your campaign based on the buyer persona. Don't attempt to successfully hit everyone with the same message or approach approach. <br /></div>          </div>
-        </div> 
-      </div>
-                              <div class="t664__col t-col t-col_8 t-prefix_2" >
-        <div class="t664__wrapper" style=" border: 1px solid #eee;" itemscope itemtype="http://schema.org/Question">
-          <div class="t664__question" >
-            <div class="t664__question-name t-text t-text_sm" field="li_title__1480611044356" style=" " itemprop="name"><div style="color:#090909;" data-customstyle="yes"><strong>REACH: </strong><br /></div></div>            <div class="t664__question-text t-text t-text_sm" field="li_text__1480611044356" style="" itemprop="text"><div style="color:#090909;" data-customstyle="yes"><strong>Use the appropriate channels to reach specific demographics.</strong></div></div>          </div>
-          <div class="t664__answer" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-            <div class="t664__answer-name t-text t-text_sm" field="li_title2__1480611044356" style=" " itemprop="name">.</div>            <div class="t664__question-text t-text t-text_sm" field="li_text2__1480611044356" style=" " itemprop="text">For targeted marketing, we use Google AdWords, because most potential patients will search for a dentist using Google. <br /> <br />Understand what your patients are looking for, and design appealing ads that answer their questions in order to get the best click-through rate. <br /> <br />Select keywords that have cheaper costs-per-click (CPC). <br /> Confirm that your ad relevance score is 7+ to save on the CPC. <br /> Make sure your clicks are at $8.00 by targeting your key groups only on weekends, for example. In this case, you would have 125 clicks at $8.00. <br /></div>          </div>
-        </div> 
-      </div>
+                          <div class="t-col t-col_8 t-prefix_2">
+      <div class="t585__accordion">
+        <div class="t585__wrapper">
+          <div class="t585__header" style=" border-top: 1px solid #eee;">
+            <div class="t585__title t-name t-name_xl" field="li_title__1480611048442" style=""><div style="color:#090909;" data-customstyle="yes"><strong>AIM: <br /></strong>Be smart when choosing your audience</div></div>            <div class="t585__icon">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: transparent;"></div>
             </div>
+            <div class="t585__icon t585__icon-hover">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: #eee;"></div>
+            </div>
+          </div>
+          <div class="t585__content">
+            <div class="t585__textwrapper">
+                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611048442" style="">Understand your potential customer. What are their key deciding factors when making a purchase? What's the first thing they do when they start searching for your product or service?<br /><br />Design your campaign based on the buyer persona. Don't attempt to successfully hit everyone with the same message or the same approach.</div>            </div>
+          </div>
+        </div>
+      </div>
+          </div>
+                        <div class="t-col t-col_8 t-prefix_2">
+      <div class="t585__accordion">
+        <div class="t585__wrapper">
+          <div class="t585__header" style=" border-top: 1px solid #eee;">
+            <div class="t585__title t-name t-name_xl" field="li_title__1480611044356" style=""><div style="color:#090909;" data-customstyle="yes"><strong>REACH: <br /></strong>Use the appropriate channels to reach your demographics.<span class="redactor-invisible-space" style=""><strong></strong></span><br /></div></div>            <div class="t585__icon">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: transparent;"></div>
+            </div>
+            <div class="t585__icon t585__icon-hover">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: #eee;"></div>
+            </div>
+          </div>
+          <div class="t585__content">
+            <div class="t585__textwrapper">
+                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611044356" style="">In the Dentistry case, we use Google AdWords, because most of the potential patients will search for a dentist using Google.<br /><br />Understand what your patients are looking for, and design appealing ads that answer their questions in order to get the best click-through rate.<br /><br />Select keywords that have cheaper costs-per-click (CPC).<br />Confirm that your ad relevance score is 7+ to save on the CPC.<br />Make sure your clicks are at $8.00 by targeting your key groups only on weekends, for example. In this case, you would have 125 clicks at $8.00.</div>            </div>
+          </div>
+        </div>
+      </div>
+      <div class="t585__border" style="height: 1px; background-color: #eee;"></div>    </div>
+        </div>
 </div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        t585_init('36964148');
+    });
+</script>
+
 </div>
 
 
-<div id="rec32300648" class="r t-rec t-rec_pt_15 t-rec_pb_15" style="padding-top:15px;padding-bottom:15px; " data-animationappear="off" data-record-type="664"   >
+<div id="rec36964160" class="r t-rec t-rec_pt_30 t-rec_pb_15" style="padding-top:30px;padding-bottom:15px; " data-animationappear="off" data-record-type="585"   >
 
-<!-- T664-->
-<div class="t664">
+<!-- T585-->
+<div class="t585">
   <div class="t-container">
-                            <div class="t664__col t-col t-col_8 t-prefix_2" >
-        <div class="t664__wrapper" style=" border: 1px solid #eee;" itemscope itemtype="http://schema.org/Question">
-          <div class="t664__question" >
-            <div class="t664__question-name t-text t-text_sm" field="li_title__1480611048442" style=" " itemprop="name"><div style="color:#090909;" data-customstyle="yes"><strong>AQUIRE:</strong></div></div>            <div class="t664__question-text t-text t-text_sm" field="li_text__1480611048442" style="" itemprop="text"><div style="color:#090909;" data-customstyle="yes"><strong>Obtain your leads by various methods (phone number, email address, or retargeting cookie, to name a few). </strong><br /></div></div>          </div>
-          <div class="t664__answer" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-            <div class="t664__answer-name t-text t-text_sm" field="li_title2__1480611048442" style=" " itemprop="name">.</div>            <div class="t664__question-text t-text t-text_sm" field="li_text2__1480611048442" style=" " itemprop="text">Instead of sending 125 potential patients to your website, send them to an appealing landing page that promotes why they should choose your practice. Try including coupons for teeth whitening (or a complementary inexpensive service). <br /> <br />Collect email addresses and phone numbers in return for coupons and discounts. <br /> <br />Of the 125 potential patients that landed on your page, you're likely to receive thirty leads for individuals seeking teeth whitening services. <br /></div>          </div>
-        </div> 
-      </div>
-                              <div class="t664__col t-col t-col_8 t-prefix_2" >
-        <div class="t664__wrapper" style=" border: 1px solid #eee;" itemscope itemtype="http://schema.org/Question">
-          <div class="t664__question" >
-            <div class="t664__question-name t-text t-text_sm" field="li_title__1480611044356" style=" " itemprop="name"><div style="color:#090909;" data-customstyle="yes"><strong>WARM:</strong><br /></div></div>            <div class="t664__question-text t-text t-text_sm" field="li_text__1480611044356" style="" itemprop="text"><div style="color:#090909;" data-customstyle="yes"><strong>Warm your lead. Don't sell. Instead, educate. <br /></strong></div></div>          </div>
-          <div class="t664__answer" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-            <div class="t664__answer-name t-text t-text_sm" field="li_title2__1480611044356" style=" " itemprop="name">.</div>            <div class="t664__question-text t-text t-text_sm" field="li_text2__1480611044356" style=" " itemprop="text">Grow your retargeting audience by installing Facebook pixel on your landing page.<br /> <br /> Use behavior-based retargeting when running your ad campaigns on Facebook, Google, or any other ad services. <br /><br />When using Facebook, segment the visitors that reached your landing page. Highlight your expertise by sharing "knowledge" videos or blog posts. Give them the opportunity to understand your value over the competition. <br /><br /> Your goal is to be memorable enough that they contact you when they need a dentist. <br /><br /> Don't let your leads go cold. Follow up with them in three days and invite them for a discounted service or a free consultation. <br /></div>          </div>
-        </div> 
-      </div>
+                          <div class="t-col t-col_8 t-prefix_2">
+      <div class="t585__accordion">
+        <div class="t585__wrapper">
+          <div class="t585__header" style=" border-top: 1px solid #eee;">
+            <div class="t585__title t-name t-name_xl" field="li_title__1480611048442" style=""><div style="color:#090909;" data-customstyle="yes"><strong>AQUIRE: <br /></strong><strong>Capture leads (phone number, email address, retargeting cookie).</strong></div></div>            <div class="t585__icon">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: transparent;"></div>
             </div>
+            <div class="t585__icon t585__icon-hover">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: #eee;"></div>
+            </div>
+          </div>
+          <div class="t585__content">
+            <div class="t585__textwrapper">
+                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611048442" style="">Instead of sending 125 potential patients to your website, send them to an appealing landing page that explains, in clear terms, why they should choose your dentistry.<br /><br />Include an "irresistible offer" for teeth whitening (or a complementary inexpensive service).<br /><br />Collect email addresses and phone numbers in return for coupons and discounts.<br /><br />Of the 125 potential patients that landed on your page, you're likely to receive thirty leads for individuals seeking teeth whitening services.</div>            </div>
+          </div>
+        </div>
+      </div>
+          </div>
+                        <div class="t-col t-col_8 t-prefix_2">
+      <div class="t585__accordion">
+        <div class="t585__wrapper">
+          <div class="t585__header" style=" border-top: 1px solid #eee;">
+            <div class="t585__title t-name t-name_xl" field="li_title__1480611044356" style=""><div style="color:#090909;" data-customstyle="yes">WARM:<br /><strong>Warm your lead. Don't sell. Instead, educate.</strong><span class="redactor-invisible-space" style=""><strong></strong></span><br /></div></div>            <div class="t585__icon">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: transparent;"></div>
+            </div>
+            <div class="t585__icon t585__icon-hover">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: #eee;"></div>
+            </div>
+          </div>
+          <div class="t585__content">
+            <div class="t585__textwrapper">
+                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611044356" style="">Grow your retargeting audience by installing Facebook pixel on your landing page.<br /><br />Use behavior-based retargeting when running your ad campaigns on Facebook, Google, or any other ad services.<br /><br />When using Facebook, segment the visitors that reached your landing page. Highlight your expertise by sharing "knowledge" videos or blog posts. Give them the opportunity to understand your value over the competition.<br /><br />Your goal is to be memorable enough that they contact you when they need a dentist.<br /><br />Don't let your leads go cold. Follow up with them in three days and invite them for a discounted service or a free consultation.</div>            </div>
+          </div>
+        </div>
+      </div>
+      <div class="t585__border" style="height: 1px; background-color: #eee;"></div>    </div>
+        </div>
 </div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        t585_init('36964160');
+    });
+</script>
+
 </div>
 
 
-<div id="rec32302116" class="r t-rec t-rec_pt_15 t-rec_pb_60" style="padding-top:15px;padding-bottom:60px; " data-animationappear="off" data-record-type="664"   >
+<div id="rec36964166" class="r t-rec t-rec_pt_30 t-rec_pb_60" style="padding-top:30px;padding-bottom:60px; " data-animationappear="off" data-record-type="585"   >
 
-<!-- T664-->
-<div class="t664">
+<!-- T585-->
+<div class="t585">
   <div class="t-container">
-                            <div class="t664__col t-col t-col_8 t-prefix_2" >
-        <div class="t664__wrapper" style=" border: 1px solid #eee;" itemscope itemtype="http://schema.org/Question">
-          <div class="t664__question" >
-            <div class="t664__question-name t-text t-text_sm" field="li_title__1480611048442" style=" " itemprop="name"><div style="color:#090909;" data-customstyle="yes"><strong>SELL:</strong></div></div>            <div class="t664__question-text t-text t-text_sm" field="li_text__1480611048442" style="" itemprop="text"><div style="color:#090909;" data-customstyle="yes"><strong>Convert your leads to sales. </strong><br /></div></div>          </div>
-          <div class="t664__answer" itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer">
-            <div class="t664__answer-name t-text t-text_sm" field="li_title2__1480611048442" style=" " itemprop="name">.</div>            <div class="t664__question-text t-text t-text_sm" field="li_text2__1480611048442" style=" " itemprop="text">Similar to your previous metrics, you convert one potential client into a paid service. <br /><br /> From your thirty leads, three individuals have agreed to receive discounted services, and three have scheduled appointments for a free consultation. <br /><br /> Of the three consultations, one is converted to a complementary cleaning through in-person upselling. Remember, the complementary services reflect the value of your practice. (Read more about <a href="https://ttbagroup.com/en/the-story-of-a-silly-business-owner/" style="color:#6d5cdb !important;border-bottom-color: #6d5cdb;">why you need to always put your product first.</a>) <br /></div>          </div>
-        </div> 
-      </div>
+                          <div class="t-col t-col_8 t-prefix_2">
+      <div class="t585__accordion">
+        <div class="t585__wrapper">
+          <div class="t585__header" style=" border-top: 1px solid #eee;">
+            <div class="t585__title t-name t-name_xl" field="li_title__1480611048442" style=""><div style="color:#090909;" data-customstyle="yes"><strong>SELL:<br /><strong>Convert your leads to sales.</strong></strong></div></div>            <div class="t585__icon">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: transparent;"></div>
             </div>
+            <div class="t585__icon t585__icon-hover">
+              <div class="t585__lines">
+                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
+                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
+                      <path d="M0,11 L22,11"></path>
+                      <path d="M11,0 L11,22"></path>
+                    </g>
+                  </g>
+                </svg>
+              </div>
+              <div class="t585__circle" style="background-color: #eee;"></div>
+            </div>
+          </div>
+          <div class="t585__content">
+            <div class="t585__textwrapper">
+                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611048442" style="">Similar to your previous metrics, you convert one potential client into a paid service.<br /><br />From your thirty leads, three individuals have agreed to receive discounted services, and three have scheduled appointments for a free consultation.<br /><br />Of the three consultations, one is converted to a complementary cleaning through in-person up-sell. Remember, your product must always reflect the value of your brand promise. (Read more about <a href="https://ttbagroup.com/en/the-story-of-a-silly-business-owner/" style="color:#6d5cdb !important;border-bottom-color: #6d5cdb;">why you need to always put your product first.</a>)</div>            </div>
+          </div>
+        </div>
+      </div>
+      <div class="t585__border" style="height: 1px; background-color: #eee;"></div>    </div>
+        </div>
 </div>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        t585_init('36964166');
+    });
+</script>
+
 </div>
 
 
@@ -185,9 +356,9 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 
 
 
-<div class="t-cover" id="recorddiv32182082" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild6462-6239-4336-a638-663662653038/-/resize/20x/latestcb201501141402.jpg');" >
+<div class="t-cover" id="recorddiv32182082" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild6232-3363-4536-b733-366530316161/-/resize/20x/wallpapertrollingsmi.jpg');" >
 
-	<div class="t-cover__carrier" id="coverCarry32182082" data-content-cover-id="32182082"  data-content-cover-bg="https://static.tildacdn.com/tild6462-6239-4336-a638-663662653038/latestcb201501141402.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:90vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry32182082" data-content-cover-id="32182082"  data-content-cover-bg="https://static.tildacdn.com/tild6232-3363-4536-b733-366530316161/wallpapertrollingsmi.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:90vh; "></div>
       
     <div class="t-cover__filter" style="height:90vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#33000000', endColorstr='#4c000000');"></div>
 
@@ -198,7 +369,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
           <div class="t-col t-col_8 t-prefix_2 t-align_left">
             <div data-hook-content="covercontent">
             <div class="t164__wrapper">
-	          	          	          <div class="t164__descr t-descr t-descr_xxxl" field="descr"><div style="font-size:42px;" data-customstyle="yes">The results:<br /></div></div>	          <div class="t164__text t-text t-text_md" field="text"><div style="font-size:18px;" data-customstyle="yes">Before you optimized your marketing budget, you converted one sale for a $700 profit. <br /> After using the funnel method, you have tripled your revenue from the same 100 clicks. One sale ($700), three discounted complementary sales ($900 or $300 x 3), and one full complementary sale ($500) has increased your profit margin by 300%. <br /> <br />This example shows how much you can accomplish with your $1000 marketing investment simply by utilizing every channel of the funnel effectively. <br /><br />1. Map your actions accordingly and follow these steps to jumpstart your marketing campaign: <br /><br />2. Build your funnel by considering the bigger picture for your business. <br /> Pick your battle. Analyze and prioritize your marketing goals. (Do you want to obtain leads, focus on awareness, or launch a warming campaign?) <br /><br />3. Convert your goals into measurable campaigns with an action plan. (Integrate a discounted "tripwire" offer on your landing page, as an example.) <br /><br />4. Develop a system to track the success of your campaigns. (A simple yes/no is already useful). <br /></div></div>            </div>
+	          	          	          <div class="t164__descr t-descr t-descr_xxxl" field="descr"><div style="font-size:42px;" data-customstyle="yes">The results:<br /></div></div>	          <div class="t164__text t-text t-text_md" field="text"><div style="font-size:18px;" data-customstyle="yes">Before you optimized your marketing budget, you converted one sale for a $700 profit. <br /> After using the funnel method, you have tripled your revenue from the same 100 clicks. One sale ($700), three discounted complementary sales ($900 or $300 x 3), and one full complementary sale ($500) has increased your profit margin by 300%. <br /> <br />This example shows how much you can accomplish with your $1000 marketing investment simply by utilizing every channel of the funnel effectively. <br /><br />Map your actions accordingly and follow these steps to jumpstart your marketing campaign: <br /><br />1. Build your funnel<br /><br />2. Pick your battle (Do you want to obtain leads, focus on awareness, or launch a warming campaign?)<br /><br />3. Analyze and prioritize your marketing goals (what are your KPI's?)<br /><br />4. Convert your goals into measurable campaigns with an action plan (integrate a discounted "irresistible" offer on your landing page) <br /><br />5. Track the success of your campaigns  <br /></div></div>            </div>
             </div>
           </div>
 		</div>
