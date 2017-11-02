@@ -11,7 +11,7 @@ title: Where do I start when marketing my own business?
 date: '2017-10-25'
 permalink: /en/where-do-I-start-when-marketing-my-own-business/
 author: Leo
-meta-title: Marketing my Business. Where do I start? - TTBA Marketing Blog
+meta-title: How to 3X Profits Applying the Marketing Funnel - TTBA Marketing Blog
 meta-description: >-
   Starting a business is never an easy task. Sooner or later, all business
   owners ask themselves the same question: How do I make sales? Of course, the
@@ -40,7 +40,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
     <div class="t-width t-width_10 t255__mainblock">
         <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
           <div class="t255__wrapper" data-hook-content="covercontent">
-                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><strong>marketing my business. </strong><br /><span style="font-size: 62px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">where do i start? </span></span><strong></strong><br /></div></h1>            <span class="space"></span>
+                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;"><strong data-redactor-tag="strong">HOW TO 3X PROFITS<br /></strong></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">APPLYING MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
           </div>
         </div>
         <div class="t255__userblock">
@@ -108,244 +108,15 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 </div>
 
 
-<div id="rec36964148" class="r t-rec t-rec_pt_30 t-rec_pb_15" style="padding-top:30px;padding-bottom:15px; " data-animationappear="off" data-record-type="585"   >
-
-<!-- T585-->
-<div class="t585">
-  <div class="t-container">
-                          <div class="t-col t-col_8 t-prefix_2">
-      <div class="t585__accordion">
-        <div class="t585__wrapper">
-          <div class="t585__header" style=" border-top: 1px solid #eee;">
-            <div class="t585__title t-name t-name_xl" field="li_title__1480611048442" style=""><div style="color:#090909;" data-customstyle="yes"><strong>AIM: <br /></strong>Be smart when choosing your audience</div></div>            <div class="t585__icon">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: transparent;"></div>
-            </div>
-            <div class="t585__icon t585__icon-hover">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: #eee;"></div>
-            </div>
-          </div>
-          <div class="t585__content">
-            <div class="t585__textwrapper">
-                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611048442" style="">Understand your potential customer. What are their key deciding factors when making a purchase? What's the first thing they do when they start searching for your product or service?<br /><br />Design your campaign based on the buyer persona. Don't attempt to successfully hit everyone with the same message or the same approach.</div>            </div>
-          </div>
-        </div>
-      </div>
-          </div>
-                        <div class="t-col t-col_8 t-prefix_2">
-      <div class="t585__accordion">
-        <div class="t585__wrapper">
-          <div class="t585__header" style=" border-top: 1px solid #eee;">
-            <div class="t585__title t-name t-name_xl" field="li_title__1480611044356" style=""><div style="color:#090909;" data-customstyle="yes"><strong>REACH: <br /></strong>Use the appropriate channels to reach your demographics.<span class="redactor-invisible-space" style=""><strong></strong></span><br /></div></div>            <div class="t585__icon">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: transparent;"></div>
-            </div>
-            <div class="t585__icon t585__icon-hover">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: #eee;"></div>
-            </div>
-          </div>
-          <div class="t585__content">
-            <div class="t585__textwrapper">
-                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611044356" style="">In the Dentistry case, we use Google AdWords, because most of the potential patients will search for a dentist using Google.<br /><br />Understand what your patients are looking for, and design appealing ads that answer their questions in order to get the best click-through rate.<br /><br />Select keywords that have cheaper costs-per-click (CPC).<br />Confirm that your ad relevance score is 7+ to save on the CPC.<br />Make sure your clicks are at $8.00 by targeting your key groups only on weekends, for example. In this case, you would have 125 clicks at $8.00.</div>            </div>
-          </div>
-        </div>
-      </div>
-      <div class="t585__border" style="height: 1px; background-color: #eee;"></div>    </div>
-        </div>
+<div id="rec36964277" class="r t-rec t-rec_pt_60 t-rec_pb_60" style="padding-top:60px;padding-bottom:60px; "  data-record-type="106"   >
+<!-- T004 -->
+<div class="t004">
+	<div class="t-container ">
+	  	<div class="t-col t-col_8 t-prefix_2">
+			<div field="text" class="t-text t-text_md  "><strong>AIM: </strong>Be smart when choosing your audience<br /><br />Understand your potential customer. What are their key deciding factors when making a purchase? What's the first thing they do when they start searching for your product or service?<br /><br />Design your campaign based on the buyer persona. Don't attempt to successfully hit everyone with the same message or the same approach.<br /><br /><br /><strong>REACH: </strong>Use the appropriate channels to reach your demographics.<br /><br />In the Dentistry case, we use Google AdWords, because most of the potential patients will search for a dentist using Google.<br /><br />Understand what your patients are looking for, and design appealing ads that answer their questions in order to get the best click-through rate.<br /><br />Select keywords that have cheaper costs-per-click (CPC).<br />Confirm that your ad relevance score is 7+ to save on the CPC.<br />Make sure your clicks are at $8.00 by targeting your key groups only on weekends, for example. In this case, you would have 125 clicks at $8.00.<br /><br /><br /><strong>AQUIRE: </strong>Capture leads (phone number, email address, retargeting cookie).<br /><br />Instead of sending 125 potential patients to your website, send them to an appealing landing page that explains, in clear terms, why they should choose your dentistry.<br /><br />Include an "irresistible offer" for teeth whitening (or a complementary inexpensive service).<br /><br />Collect email addresses and phone numbers in return for coupons and discounts.<br /><br />Of the 125 potential patients that landed on your page, you're likely to receive thirty leads for individuals seeking teeth whitening services.<br /><br /><strong><br />WARM:</strong> Warm your lead. Don't sell. Instead, educate.<br /><br />Grow your retargeting audience by installing Facebook pixel on your landing page.<br /><br />Use behavior-based retargeting when running your ad campaigns on Facebook, Google, or any other ad services.<br /><br />When using Facebook, segment the visitors that reached your landing page. Highlight your expertise by sharing "knowledge" videos or blog posts. Give them the opportunity to understand your value over the competition.<br /><br />Your goal is to be memorable enough that they contact you when they need a dentist.<br /><br />Don't let your leads go cold. Follow up with them in three days and invite them for a discounted service or a free consultation.<br /><br /><br /><strong>SELL: </strong>Convert your leads to sales.<br /><br />Similar to your previous metrics, you convert one potential client into a paid service.<br /><br />From your thirty leads, three individuals have agreed to receive discounted services, and three have scheduled appointments for a free consultation.<br /><br />Of the three consultations, one is converted to a complementary cleaning through in-person up-sell. Remember, your product must always reflect the value of your brand promise. (Read more about <a href="https://ttbagroup.com/en/the-story-of-a-silly-business-owner/" style="color:#6d5cdb !important;border-bottom-color: #6d5cdb;">why you need to always put your product first.</a>)<br /><br /></div>
+		</div>
+	</div>
 </div>
-
-<script type="text/javascript">
-    $(document).ready(function(){
-        t585_init('36964148');
-    });
-</script>
-
-</div>
-
-
-<div id="rec36964160" class="r t-rec t-rec_pt_30 t-rec_pb_15" style="padding-top:30px;padding-bottom:15px; " data-animationappear="off" data-record-type="585"   >
-
-<!-- T585-->
-<div class="t585">
-  <div class="t-container">
-                          <div class="t-col t-col_8 t-prefix_2">
-      <div class="t585__accordion">
-        <div class="t585__wrapper">
-          <div class="t585__header" style=" border-top: 1px solid #eee;">
-            <div class="t585__title t-name t-name_xl" field="li_title__1480611048442" style=""><div style="color:#090909;" data-customstyle="yes"><strong>AQUIRE: <br /></strong><strong>Capture leads (phone number, email address, retargeting cookie).</strong></div></div>            <div class="t585__icon">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: transparent;"></div>
-            </div>
-            <div class="t585__icon t585__icon-hover">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: #eee;"></div>
-            </div>
-          </div>
-          <div class="t585__content">
-            <div class="t585__textwrapper">
-                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611048442" style="">Instead of sending 125 potential patients to your website, send them to an appealing landing page that explains, in clear terms, why they should choose your dentistry.<br /><br />Include an "irresistible offer" for teeth whitening (or a complementary inexpensive service).<br /><br />Collect email addresses and phone numbers in return for coupons and discounts.<br /><br />Of the 125 potential patients that landed on your page, you're likely to receive thirty leads for individuals seeking teeth whitening services.</div>            </div>
-          </div>
-        </div>
-      </div>
-          </div>
-                        <div class="t-col t-col_8 t-prefix_2">
-      <div class="t585__accordion">
-        <div class="t585__wrapper">
-          <div class="t585__header" style=" border-top: 1px solid #eee;">
-            <div class="t585__title t-name t-name_xl" field="li_title__1480611044356" style=""><div style="color:#090909;" data-customstyle="yes">WARM:<br /><strong>Warm your lead. Don't sell. Instead, educate.</strong><span class="redactor-invisible-space" style=""><strong></strong></span><br /></div></div>            <div class="t585__icon">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: transparent;"></div>
-            </div>
-            <div class="t585__icon t585__icon-hover">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: #eee;"></div>
-            </div>
-          </div>
-          <div class="t585__content">
-            <div class="t585__textwrapper">
-                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611044356" style="">Grow your retargeting audience by installing Facebook pixel on your landing page.<br /><br />Use behavior-based retargeting when running your ad campaigns on Facebook, Google, or any other ad services.<br /><br />When using Facebook, segment the visitors that reached your landing page. Highlight your expertise by sharing "knowledge" videos or blog posts. Give them the opportunity to understand your value over the competition.<br /><br />Your goal is to be memorable enough that they contact you when they need a dentist.<br /><br />Don't let your leads go cold. Follow up with them in three days and invite them for a discounted service or a free consultation.</div>            </div>
-          </div>
-        </div>
-      </div>
-      <div class="t585__border" style="height: 1px; background-color: #eee;"></div>    </div>
-        </div>
-</div>
-
-<script type="text/javascript">
-    $(document).ready(function(){
-        t585_init('36964160');
-    });
-</script>
-
-</div>
-
-
-<div id="rec36964166" class="r t-rec t-rec_pt_30 t-rec_pb_60" style="padding-top:30px;padding-bottom:60px; " data-animationappear="off" data-record-type="585"   >
-
-<!-- T585-->
-<div class="t585">
-  <div class="t-container">
-                          <div class="t-col t-col_8 t-prefix_2">
-      <div class="t585__accordion">
-        <div class="t585__wrapper">
-          <div class="t585__header" style=" border-top: 1px solid #eee;">
-            <div class="t585__title t-name t-name_xl" field="li_title__1480611048442" style=""><div style="color:#090909;" data-customstyle="yes"><strong>SELL:<br /><strong>Convert your leads to sales.</strong></strong></div></div>            <div class="t585__icon">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: transparent;"></div>
-            </div>
-            <div class="t585__icon t585__icon-hover">
-              <div class="t585__lines">
-                <svg width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <g stroke="none" stroke-width="1px" fill="none" fill-rule="evenodd" stroke-linecap="square">
-                    <g transform="translate(1.000000, 1.000000)" stroke="#222222">
-                      <path d="M0,11 L22,11"></path>
-                      <path d="M11,0 L11,22"></path>
-                    </g>
-                  </g>
-                </svg>
-              </div>
-              <div class="t585__circle" style="background-color: #eee;"></div>
-            </div>
-          </div>
-          <div class="t585__content">
-            <div class="t585__textwrapper">
-                            <div class="t585__text t-descr t-descr_xs" field="li_descr__1480611048442" style="">Similar to your previous metrics, you convert one potential client into a paid service.<br /><br />From your thirty leads, three individuals have agreed to receive discounted services, and three have scheduled appointments for a free consultation.<br /><br />Of the three consultations, one is converted to a complementary cleaning through in-person up-sell. Remember, your product must always reflect the value of your brand promise. (Read more about <a href="https://ttbagroup.com/en/the-story-of-a-silly-business-owner/" style="color:#6d5cdb !important;border-bottom-color: #6d5cdb;">why you need to always put your product first.</a>)</div>            </div>
-          </div>
-        </div>
-      </div>
-      <div class="t585__border" style="height: 1px; background-color: #eee;"></div>    </div>
-        </div>
-</div>
-
-<script type="text/javascript">
-    $(document).ready(function(){
-        t585_init('36964166');
-    });
-</script>
-
 </div>
 
 
@@ -517,7 +288,7 @@ $(document).ready(function(){
 			              
             
 						<div style="float:left; width:80px; display:table-column; height:25px; border:0px solid; padding-left:10px; padding-top:4px;">
-			<a href="https://twitter.com/share" class="twitter-share-button" data-text="Where do I start when marketing my own business? TTBA ">Tweet</a>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-text="Marketing my Business. Where do I start?">Tweet</a>
 			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 			</div>
 			              
