@@ -20,9 +20,9 @@ meta-description: >-
 canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 ---
 <!--allrecords-->
-<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="1586638"  data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7"  >
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="1586638" data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7">
 
-<div id="rec32182066" class="r t-rec" style=" " data-animationappear="off" data-record-type="274"   >
+<div id="rec32182066" class="r t-rec" style=" " data-animationappear="off" data-record-type="274">
 <!-- t255 -->
 <!-- cover -->
 	
@@ -30,9 +30,9 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 
 
 
-<div class="t-cover" id="recorddiv32182066" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3333-3838-4563-a538-396332643137/-/resize/20x/rushhourcommuterscom.jpg');" >
+<div class="t-cover" id="recorddiv32182066" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3333-3838-4563-a538-396332643137/-/resize/20x/rushhourcommuterscom.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry32182066" data-content-cover-id="32182066"  data-content-cover-bg="https://static.tildacdn.com/tild3333-3838-4563-a538-396332643137/rushhourcommuterscom.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry32182066" data-content-cover-id="32182066" data-content-cover-bg="https://static.tildacdn.com/tild3333-3838-4563-a538-396332643137/rushhourcommuterscom.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -o-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));background-image: linear-gradient(top, rgba(0,0,0,0.20), rgba(0,0,0,0.90));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cc000000', endColorstr='#19000000');"></div>
   <div class="t255">
@@ -40,11 +40,11 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
     <div class="t-width t-width_10 t255__mainblock">
         <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
           <div class="t255__wrapper" data-hook-content="covercontent">
-                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span data-redactor-style="font-weight: 700" style="font-weight: 700;">HOW TO 3X PROFITS<br /></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">APPLYING THE MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
+                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span data-redactor-style="font-weight: 700;" style="font-weight: 700;">HOW TO 3X YOUR PROFITS<br></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">## APPLYING THE MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
           </div>
         </div>
         <div class="t255__userblock">
-          <div class="t255__userblock-img t-bgimg t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="3" data-animate-delay="0.3" imgfield="img2" data-original="https://static.tildacdn.com/tild3637-3132-4230-b638-653137316461/Leo_profile.png" style="background-image: url('https://static.tildacdn.com/tild3637-3132-4230-b638-653137316461/-/resize/20x/Leo_profile.png');"></div>          <div class="t255__userblock-descr t-descr t-descr_xxs t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="4" data-animate-delay="0.3" field="title2">By <strong>Leo Gamayunov</strong><strong><br />President / COO at TTBA Group</strong><strong></strong></div>          <div class="t255__userblock-date t-descr t-descr_xxs t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="5" data-animate-delay="0.3" field="descr2">on October 25, 2017</div>        </div>
+          <div class="t255__userblock-img t-bgimg t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="3" data-animate-delay="0.3" imgfield="img2" data-original="https://static.tildacdn.com/tild3637-3132-4230-b638-653137316461/Leo_profile.png" style="background-image: url('https://static.tildacdn.com/tild3637-3132-4230-b638-653137316461/-/resize/20x/Leo_profile.png');"></div>          <div class="t255__userblock-descr t-descr t-descr_xxs t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="4" data-animate-delay="0.3" field="title2">By <strong>Leo Gamayunov</strong><strong><br>President / COO at TTBA Group</strong><strong></strong></div>          <div class="t255__userblock-date t-descr t-descr_xxs t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="5" data-animate-delay="0.3" field="descr2">on October 25, 2017</div>        </div>
     </div>
   </div>
   </div>
@@ -55,41 +55,41 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 </div>
 
 
-<div id="rec32182068" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="449"   >
+<div id="rec32182068" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="449">
 
 <!-- T381 -->
 <div id="nav32182068marker"></div>
 <div id="nav32182068" class="t449   " data-navmarker="nav32182068marker" data-appearoffset="" data-hideoffset="">
     <div class="t449__wrapper ">
       <script type="text/javascript" src="//yastatic.net/share2/share.js" charset="utf-8"></script>
-      <div class="t449__share_buttons ya-share2" data-direction="vertical" data-yashareL10n="en" data-services="facebook,twitter"></div>         
+      <div class="t449__share_buttons ya-share2" data-direction="vertical" data-yasharel10n="en" data-services="facebook,twitter"></div>         
     </div>
 </div>
 
 </div>
 
 
-<div id="rec32182070" class="r t-rec t-rec_pt_75 t-rec_pb_60" style="padding-top:75px;padding-bottom:60px;background-color:#ededed; "  data-record-type="127"   data-bg-color="#ededed">
+<div id="rec32182070" class="r t-rec t-rec_pt_75 t-rec_pb_60" style="padding-top:75px;padding-bottom:60px;background-color:#ededed; " data-record-type="127" data-bg-color="#ededed">
 <!-- T119 -->
 <div class="t119">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><div style="font-size:20px;text-align:left;" data-customstyle="yes"><strong></strong>Running a business is never an easy task. Sooner enough, all owners ask themselves the same question: <em>How do I make more sales?</em> <br /><br />Of course, the first word that comes to mind is (drumroll)… Marketing. Unfortunately, the word marketing can be somewhat vague. <br /></div></div>
+			<div class="t119__preface t-descr t-opacity_70" style="opacity:0.70;" field="text"><div style="font-size:20px;text-align:left;" data-customstyle="yes"><strong></strong>Running a business is not an easy task. Sooner enough, all business owners ask themselves the same question: <em>How do I increase my sales?</em><br><br>Of course, the first word that comes to mind is (drumroll)… Marketing. Unfortunately, the word marketing can be somewhat ambiguous.<br></div></div>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec32182076" class="r t-rec t-rec_pt_0 t-rec_pb_15" style="padding-top:0px;padding-bottom:15px; "  data-record-type="223"   >
+<div id="rec32182076" class="r t-rec t-rec_pt_0 t-rec_pb_15" style="padding-top:0px;padding-bottom:15px; " data-record-type="223">
 <!-- T195 -->
 <div class="t195">
   <div class="t-container">
                 
       <div class="t-col t-col_4 t-prefix_2">
-        <div class="t195__text t-text t-text_md t-animate" data-animate-style="fadeinleft" data-animate-group="yes" data-animate-order="1" field="text"><div style="font-size:18px;" data-customstyle="yes"><br /><br />Social media, search engine optimization, Google Adwords, retargeting, email marketing, the choice can become daunting. It can be hard to understand where each piece of the puzzle fits, and more importantly, when to place each piece.<br /><br /><strong>It is easy to get lost in this marketing noise.<br /></strong><br />At TTBA Group, we believe the key to maximizing your ROI is structuring your marketing budget. Here's how we break down the process for our clients:<br /><strong><br />1. Aim<br />2. Reach<br />3. Acquire<br />4. Warm<br />5. Sell</strong> <br /></div></div>
+        <div class="t195__text t-text t-text_md t-animate" data-animate-style="fadeinleft" data-animate-group="yes" data-animate-order="1" field="text"><div style="font-size:18px;" data-customstyle="yes"><br><br>Social media, search engine optimization, Google Adwords, retargeting, email marketing, the list goes on... It can be hard to understand where each piece of the puzzle fits in your business, and more importantly, when.<br><br><strong><strong data-redactor-tag="strong">It is easy to get lost in the marketing noise.</strong><br></strong><br>At TTBA Group, we believe the key to maximizing your ROI is structuring your marketing budget. Here's how we break down the process for our clients...<br><strong><br>1. Aim<br>2. Reach<br>3. Acquire<br>4. Warm<br>5. Sell</strong> <br></div></div>
       </div>
-          <div class="t-col t-col_4  t195__imgsection" itemscope itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/funnel_ttba01.png">        <img class="t195__img t-img t-animate" data-animate-style="fadeinright" data-animate-group="yes" data-animate-order="2" data-animate-delay="0.5" data-tu-max-width="1200" data-tu-max-height="1200" src="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/-/empty/funnel_ttba01.png" data-original="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/funnel_ttba01.png" imgfield="img"   /><br />        <div class="t195__sectitle t-descr" field="imgtitle" itemprop="name"></div>
+          <div class="t-col t-col_4  t195__imgsection" itemscope="" itemtype="http://schema.org/ImageObject"><meta itemprop="image" content="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/funnel_ttba01.png">        <img class="t195__img t-img t-animate" data-animate-style="fadeinright" data-animate-group="yes" data-animate-order="2" data-animate-delay="0.5" data-tu-max-width="1200" data-tu-max-height="1200" src="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/-/empty/funnel_ttba01.png" data-original="https://static.tildacdn.com/tild3135-6533-4335-b831-303034353337/funnel_ttba01.png" imgfield="img"><br>        <div class="t195__sectitle t-descr" field="imgtitle" itemprop="name"></div>
         <div class="t195__secdescr t-descr" field="imgdescr" itemprop="description"></div>
       </div>
       </div>
@@ -97,39 +97,39 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 </div>
 
 
-<div id="rec32300352" class="r t-rec t-rec_pt_0 t-rec_pb_30" style="padding-top:0px;padding-bottom:30px; "  data-record-type="30"   >
+<div id="rec32300352" class="r t-rec t-rec_pt_0 t-rec_pb_30" style="padding-top:0px;padding-bottom:30px; " data-record-type="30">
 <!-- T015 -->
 <div class="t015">
   <div class="t-container t-align_center">
     <div class="t-col t-col_10 t-prefix_1">
-            <div class="t015__title t-title t-title_lg" field="title" style="">Example: <br /></div>      <div class="t015__descr t-descr t-descr_xl" field="descr" style="">Say you have a dentistry practice and you want to increase your sales. To boost traffic, you spend $1000 on Google AdWords for $10 per click. Your campaign directs <strong>100</strong> potential customers to your website, and <strong>1</strong> converts into a purchase of services. <br /> <br />While this is a "successful" campaign, your profit margin on the job is only $700. What do you do now? <strong>Our funnel model can guide you to triple your profits: </strong><br /></div>    </div>
+            <div class="t015__title t-title t-title_lg" field="title" style="">Example: <br></div>      <div class="t015__descr t-descr t-descr_xl" field="descr" style="">Say you have a dentistry practice and you want to increase your sales. To boost traffic, you spend $1000 on Google AdWords for $10 per click. Your campaign directs <strong>100</strong> potential customers to your website, and <strong>1</strong> converts into a purchase of services. <br> <br>While this is a "successful" campaign, your profit margin on the job is only $700. What do you do now? <strong>Our funnel model can guide you to triple your profits: </strong><br></div>    </div>
   </div>
 </div>
 </div>
 
 
-<div id="rec36964277" class="r t-rec t-rec_pt_60 t-rec_pb_60" style="padding-top:60px;padding-bottom:60px; "  data-record-type="106"   >
+<div id="rec36964277" class="r t-rec t-rec_pt_60 t-rec_pb_60" style="padding-top:60px;padding-bottom:60px; " data-record-type="106">
 <!-- T004 -->
 <div class="t004">
 	<div class="t-container ">
 	  	<div class="t-col t-col_8 t-prefix_2">
-			<div field="text" class="t-text t-text_md  "><span style="font-weight: 700;">AIM:</span> Be smart when choosing your audience<br /><br />Understand your potential customer. What are their key deciding factors when making a purchase? What's the first thing they do when they start searching for your product or service?<br /><br />Design your campaign based on the buyer persona. Don't attempt to successfully hit everyone with the same message or the same approach.<br /><br /><br /><strong><span data-redactor-tag="span" style="font-weight: 700;">REACH: </span></strong>Use the appropriate channels to reach your demographics.<br /><br />In the Dentistry case, we use Google AdWords, because most of the potential patients will search for a dentist using Google.<br /><br />Understand what your patients are looking for, and design appealing ads that answer their questions in order to get the best click-through rate.<br /><br />Select keywords that have cheaper costs-per-click (CPC).<br />Confirm that your ad relevance score is 7+ to save on the CPC.<br />Make sure your clicks are at $8.00 by targeting your key groups only on weekends, for example. In this case, you would have 125 clicks at $8.00.<br /><br /><br /><strong><span data-redactor-tag="span" style="font-weight: 700;">AQUIRE:</span> </strong>Capture leads (phone number, email address, retargeting cookie).<br /><br />Instead of sending 125 potential patients to your website, send them to an appealing landing page that explains, in clear terms, why they should choose your dentistry.<br /><br />Include an "irresistible offer" for teeth whitening (or a complementary inexpensive service).<br /><br />Collect email addresses and phone numbers in return for coupons and discounts.<br /><br />Of the 125 potential patients that landed on your page, you're likely to receive thirty leads for individuals seeking teeth whitening services.<br /><br /><strong><br /><span style="font-weight: 700;">WARM:</span></strong> Warm your lead. Don't sell. Instead, educate.<br /><br />Grow your retargeting audience by installing Facebook pixel on your landing page.<br /><br />Use behavior-based retargeting when running your ad campaigns on Facebook, Google, or any other ad services.<br /><br />When using Facebook, segment the visitors that reached your landing page. Highlight your expertise by sharing "knowledge" videos or blog posts. Give them the opportunity to understand your value over the competition.<br /><br />Your goal is to be memorable enough that they contact you when they need a dentist.<br /><br />Don't let your leads go cold. Follow up with them in three days and invite them for a discounted service or a free consultation.<br /><br /><br /><strong><span data-redactor-tag="span" style="font-weight: 700;">SELL:</span> </strong>Convert your leads to sales.<br /><br />Similar to your previous metrics, you convert one potential client into a paid service.<br /><br />From your thirty leads, three individuals have agreed to receive discounted services, and three have scheduled appointments for a free consultation.<br /><br />Of the three consultations, one is converted to a complementary cleaning through in-person up-sell. Remember, your product must always reflect the value of your brand promise. (Read more about <a href="https://ttbagroup.com/en/the-story-of-a-silly-business-owner/" style="color:#6d5cdb !important;border-bottom-color: #6d5cdb;">why you need to always put your product first.</a>)<br /><br /></div>
+			<div field="text" class="t-text t-text_md  "><span style="font-weight: 700;">AIM:</span> Be smart when choosing your audience<br><br>Understand your potential customer. What are their key deciding factors when making a purchase? What's the first thing they do when they start searching for your product or service?<br><br>Design your campaign based on the buyer persona. Don't attempt to successfully hit everyone with the same message or the same approach.<br><br><br><strong><span data-redactor-tag="span" style="font-weight: 700;">REACH: </span></strong>Use the appropriate channels to reach your demographics.<br><br>In the Dentistry case, we use Google AdWords, because most of the potential patients will search for a dentist using Google.<br><br>Understand what your patients are looking for, and design appealing ads that answer their questions in order to get the best click-through rate.<br><br>Select keywords that have cheaper costs-per-click (CPC).<br>Confirm that your ad relevance score is 7+ to save on the CPC.<br>Make sure your clicks are at $8.00 by targeting your key groups only on weekends, for example. In this case, you would have 125 clicks at $8.00.<br><br><br><strong><span data-redactor-tag="span" style="font-weight: 700;">AQUIRE:</span> </strong>Capture leads (phone number, email address, retargeting cookie).<br><br>Instead of sending 125 potential patients to your website, send them to an appealing landing page that explains, in clear terms, why they should choose your dentistry.<br><br>Include an "irresistible offer" for teeth whitening (or a complementary inexpensive service).<br><br>Collect email addresses and phone numbers in return for coupons and discounts.<br><br>Of the 125 potential patients that landed on your page, you're likely to receive thirty leads for individuals seeking teeth whitening services.<br><br><strong><br><span style="font-weight: 700;">WARM:</span></strong> Warm your lead. Don't sell. Instead, educate.<br><br>Grow your retargeting audience by installing Facebook pixel on your landing page.<br><br>Use behavior-based retargeting when running your ad campaigns on Facebook, Google, or any other ad services.<br><br>When using Facebook, segment the visitors that reached your landing page. Highlight your expertise by sharing "knowledge" videos or blog posts. Give them the opportunity to understand your value over the competition.<br><br>Your goal is to be memorable enough that they contact you when they need a dentist.<br><br>Don't let your leads go cold. Follow up with them in three days and invite them for a discounted service or a free consultation.<br><br><br><strong><span data-redactor-tag="span" style="font-weight: 700;">SELL:</span> </strong>Convert your leads to sales.<br><br>Similar to your previous metrics, you convert one potential client into a paid service.<br><br>From your thirty leads, three individuals have agreed to receive discounted services, and three have scheduled appointments for a free consultation.<br><br>Of the three consultations, one is converted to a complementary cleaning through in-person up-sell. Remember, your product must always reflect the value of your brand promise. (Read more about <a href="https://ttbagroup.com/en/the-story-of-a-silly-business-owner/" style="color:#6d5cdb !important;border-bottom-color: #6d5cdb;">why you need to always put your product first.</a>)<br><br></div>
 		</div>
 	</div>
 </div>
 </div>
 
 
-<div id="rec32182082" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; "  data-record-type="179"   >
+<div id="rec32182082" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-record-type="179">
 <!-- cover -->
 	
 
 
 
 
-<div class="t-cover" id="recorddiv32182082" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild6232-3363-4536-b733-366530316161/-/resize/20x/wallpapertrollingsmi.jpg');" >
+<div class="t-cover" id="recorddiv32182082" bgimgfield="img" style="height:90vh; background-image:url('https://static.tildacdn.com/tild6232-3363-4536-b733-366530316161/-/resize/20x/wallpapertrollingsmi.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry32182082" data-content-cover-id="32182082"  data-content-cover-bg="https://static.tildacdn.com/tild6232-3363-4536-b733-366530316161/wallpapertrollingsmi.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:90vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry32182082" data-content-cover-id="32182082" data-content-cover-bg="https://static.tildacdn.com/tild6232-3363-4536-b733-366530316161/wallpapertrollingsmi.jpg" data-content-cover-height="90vh" data-content-cover-parallax="fixed" style="background-image:url('');height:90vh; "></div>
       
     <div class="t-cover__filter" style="height:90vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: -o-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));background-image: linear-gradient(top, rgba(0,0,0,0.80), rgba(0,0,0,0.70));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#33000000', endColorstr='#4c000000');"></div>
 
@@ -140,7 +140,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
           <div class="t-col t-col_8 t-prefix_2 t-align_left">
             <div data-hook-content="covercontent">
             <div class="t164__wrapper">
-	          	          	          <div class="t164__descr t-descr t-descr_xxxl" field="descr"><div style="font-size:42px;" data-customstyle="yes">The results:<br /></div></div>	          <div class="t164__text t-text t-text_md" field="text"><div style="font-size:18px;" data-customstyle="yes">Before you optimized your marketing budget, you converted one sale for a $700 profit. <br /> After using the funnel method, you have tripled your revenue from the same 100 clicks. One sale ($700), three discounted complementary sales ($900 or $300 x 3), and one full complementary sale ($500) has increased your profit margin by 300%. <br /> <br />This example shows how much you can accomplish with your $1000 marketing investment simply by utilizing every channel of the funnel effectively. <br /><br />Map your actions accordingly and follow these steps to jumpstart your marketing campaign: <br /><br />1. Build your funnel<br /><br />2. Pick your battle (Do you want to obtain leads, focus on awareness, or launch a warming campaign?)<br /><br />3. Analyze and prioritize your marketing goals (what are your KPI's?)<br /><br />4. Convert your goals into measurable campaigns with an action plan (integrate a discounted "irresistible" offer on your landing page) <br /><br />5. Track the success of your campaigns  <br /></div></div>            </div>
+	          	          	          <div class="t164__descr t-descr t-descr_xxxl" field="descr"><div style="font-size:42px;" data-customstyle="yes">The results:<br></div></div>	          <div class="t164__text t-text t-text_md" field="text"><div style="font-size:18px;" data-customstyle="yes">Before you optimized your marketing budget, you converted one sale for a $700 profit. <br> After using the funnel method, you have tripled your revenue from the same 100 clicks. One sale ($700), three discounted complementary sales ($900 or $300 x 3), and one full complementary sale ($500) has increased your profit margin by 300%. <br> <br>This example shows how much you can accomplish with your $1000 marketing investment simply by utilizing every channel of the funnel effectively. <br><br>Map your actions accordingly and follow these steps to jumpstart your marketing campaign: <br><br>1. Build your funnel<br><br>2. Pick your battle (Do you want to obtain leads, focus on awareness, or launch a warming campaign?)<br><br>3. Analyze and prioritize your marketing goals (what are your KPI's?)<br><br>4. Convert your goals into measurable campaigns with an action plan (integrate a discounted "irresistible" offer on your landing page) <br><br>5. Track the success of your campaigns  <br></div></div>            </div>
             </div>
           </div>
 		</div>
@@ -154,13 +154,13 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 </div>
 
 
-<div id="rec32182084" class="r t-rec t-rec_pt_60 t-rec_pb_15" style="padding-top:60px;padding-bottom:15px;background-color:#ffffff; "  data-record-type="184"   data-bg-color="#ffffff">
+<div id="rec32182084" class="r t-rec t-rec_pt_60 t-rec_pb_15" style="padding-top:60px;padding-bottom:15px;background-color:#ffffff; " data-record-type="184" data-bg-color="#ffffff">
 <!-- T169 -->
 <div class="t169">
   <div class="t-container_100">
     <div class="t-row">
       <div class="t-col_100">
-        <div class="t169__text t-title" field="text"><div style="font-size:30px;line-height:40px;text-align:center;color:#444444;" data-customstyle="yes"><span style="font-weight: 300;">I hope you've found this article helpful. I'd love to hear your thoughts and comments.<br />You can always contact me directly at <span style="color: rgb(104, 97, 238);">leo@ttbagroup.com</span>. <br /> <br />Good luck! </span><br /></div></div>
+        <div class="t169__text t-title" field="text"><div style="font-size:30px;line-height:40px;text-align:center;color:#444444;" data-customstyle="yes"><span style="font-weight: 300;">I hope you've found this article helpful. I'd love to hear your thoughts and comments.<br>You can always contact me directly at <span style="color: rgb(104, 97, 238);">leo@ttbagroup.com</span>. <br> <br>Good luck! </span><br></div></div>
       </div>
     </div>
   </div>
@@ -168,7 +168,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 </div>
 
 
-<div id="rec32182094" class="r t-rec" style=" " data-animationappear="off" data-record-type="330"   >
+<div id="rec32182094" class="r t-rec" style=" " data-animationappear="off" data-record-type="330">
 
 <style>
 #rec32182094 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
@@ -181,7 +181,7 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
 #rec32182094 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
 </style>
 <div class="t330">
-  <div class="t-popup" data-tooltip-hook="#GrowMyBusiness" >
+  <div class="t-popup" data-tooltip-hook="#GrowMyBusiness">
     <div class="t-popup__close">
       <div class="t-popup__close-wrapper">
       <svg class="t-popup__close-icon" width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -193,8 +193,8 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
       </div>  
     </div>
     <div class="t-popup__container t-width t-width_6">
-        <img class="t330__img t-img" src="https://static.tildacdn.com/tild6632-6531-4531-a564-626639616530/-/empty/ttba_moto.jpg" data-original="https://static.tildacdn.com/tild6632-6531-4531-a564-626639616530/ttba_moto.jpg" imgfield="img" >        <div class="t330__wrapper t-align_center" style=";">
-          <div class="t330__title t-title t-title_xxs"><div style="font-size:16px;" data-customstyle="yes"><span style="font-weight: 400;">We always respond in less than 4 hours.<br /><br /></span></div></div>                    <form id="form32182094" name='form32182094' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2" data-inputbox=".t330__blockinput"  data-success-url="https://ttbagroup.com/en/request-submitted" class="js-form-proccess " data-tilda-captchakey="">                                        
+        <img class="t330__img t-img" src="https://static.tildacdn.com/tild6632-6531-4531-a564-626639616530/-/empty/ttba_moto.jpg" data-original="https://static.tildacdn.com/tild6632-6531-4531-a564-626639616530/ttba_moto.jpg" imgfield="img">        <div class="t330__wrapper t-align_center" style=";">
+          <div class="t330__title t-title t-title_xxs"><div style="font-size:16px;" data-customstyle="yes"><span style="font-weight: 400;">We always respond in less than 4 hours.<br><br></span></div></div>                    <form id="form32182094" name="form32182094" role="form" action="https://forms.tildacdn.com/procces/" method="POST" data-formactiontype="2" data-inputbox=".t330__blockinput" data-success-url="https://ttbagroup.com/en/request-submitted" class="js-form-proccess " data-tilda-captchakey="">                                        
                                                                   <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
                                                       
                                                                                   <div>
@@ -204,19 +204,19 @@ canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
                         </div>
                         <div class="t330__input-wrapper">
                                                                               <div class="t330__blockinput">
-                              <input type="text" name="email" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Name"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="email" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>
                                                                                                         <div class="t330__blockinput">
-                              <input type="text" name="name" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Email"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="name" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>                
                                                                                                         <div class="t330__blockinput">
-                              <input type="text" name="phone" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Phone Number"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'" data-tilda-req="1" data-tilda-rule="phone" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                              <input type="text" name="phone" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'" data-tilda-req="1" data-tilda-rule="phone" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
                           </div>                                
                                                       
                           
                                                       
                                                                               <div class="t330__blockinput">
-                              <textarea name="Whatdoyouwanttodiscuss" class="t330__input t-input js-tilda-rule " placeholder="What do you want to discuss?"  onfocus="this.placeholder = ''" onblur="this.placeholder = 'What do you want to discuss?'"  style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:68px" rows="2"></textarea>
+                              <textarea name="Whatdoyouwanttodiscuss" class="t330__input t-input js-tilda-rule " placeholder="What do you want to discuss?" onfocus="this.placeholder = ''" onblur="this.placeholder = 'What do you want to discuss?'" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:68px" rows="2"></textarea>
                           </div>
                                                     <div class="js-errorbox-all t330__blockinput-errorbox" style="display:none;">
                               <div class="t330__blockinput-errors-text t-text t-text_xs">
@@ -258,7 +258,7 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec32182096" class="r t-rec t-rec_pt_45 t-rec_pb_45" style="padding-top:45px;padding-bottom:45px; "  data-record-type="132"   >
+<div id="rec32182096" class="r t-rec t-rec_pt_45 t-rec_pb_45" style="padding-top:45px;padding-bottom:45px; " data-record-type="132">
 <div class="t-container_100">
 	<div style="position: relative; right: 50%; float: right;">
 		<div style="position: relative; z-index: 1; right: -50%;">
@@ -300,7 +300,7 @@ $(document).ready(function(){
 </div>
 
 
-<div id="rec32182098" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="307"   >
+<div id="rec32182098" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="307">
 <!-- t278 -->
 <!-- cover -->
 	
@@ -308,9 +308,9 @@ $(document).ready(function(){
 
 
 
-<div class="t-cover" id="recorddiv32182098" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6432-6139-4635-a466-633539363738/-/resize/20x/mtlcityview.jpg');" >
+<div class="t-cover" id="recorddiv32182098" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild6432-6139-4635-a466-633539363738/-/resize/20x/mtlcityview.jpg');">
 
-	<div class="t-cover__carrier" id="coverCarry32182098" data-content-cover-id="32182098"  data-content-cover-bg="https://static.tildacdn.com/tild6432-6139-4635-a466-633539363738/mtlcityview.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed"        style="background-image:url('');height:100vh; "></div>
+	<div class="t-cover__carrier" id="coverCarry32182098" data-content-cover-id="32182098" data-content-cover-bg="https://static.tildacdn.com/tild6432-6139-4635-a466-633539363738/mtlcityview.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
       
     <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(46,46,46,0.80), rgba(46,46,46,0.80));background-image: -webkit-linear-gradient(top, rgba(46,46,46,0.80), rgba(46,46,46,0.80));background-image: -o-linear-gradient(top, rgba(46,46,46,0.80), rgba(46,46,46,0.80));background-image: -ms-linear-gradient(top, rgba(46,46,46,0.80), rgba(46,46,46,0.80));background-image: linear-gradient(top, rgba(46,46,46,0.80), rgba(46,46,46,0.80));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#332e2e2e', endColorstr='#332e2e2e');"></div>
   <div class="t278">
@@ -318,7 +318,7 @@ $(document).ready(function(){
     <div class="t-width t-width_6 t278__mainblock">
       <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
         <div class="t278__mainwrapper" data-hook-content="covercontent">
-          <div class="t278__title t-title t-title_xs" field="title">Receive marketing and sales insights right in your Inbox.</div>          <div class="t278__descr t-descr t-descr_md" field="descr">We promise we will never spam you.</div>          <form id="form32182098" name='form32182098' role="form" action='https://forms.tildacdn.com/procces/' method='POST' data-formactiontype="2"  data-inputbox=".t278__blockinput"   class="js-form-proccess " data-tilda-captchakey="">                                  
+          <div class="t278__title t-title t-title_xs" field="title">Receive marketing and sales insights right in your Inbox.</div>          <div class="t278__descr t-descr t-descr_md" field="descr">We promise we will never spam you.</div>          <form id="form32182098" name="form32182098" role="form" action="https://forms.tildacdn.com/procces/" method="POST" data-formactiontype="2" data-inputbox=".t278__blockinput" class="js-form-proccess " data-tilda-captchakey="">                                  
                                                 <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
                             
                             <div style="position: absolute; left: -5000px;"><input type="text" name="tspecomment" tabindex="-1" value=""></div>
