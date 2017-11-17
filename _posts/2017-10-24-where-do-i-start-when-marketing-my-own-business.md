@@ -9,7 +9,7 @@ transparent: true
 inverse: true
 title: How to 3X Profits Applying the Marketing Funnel
 date: '2017-10-25'
-permalink: /en/where-do-I-start-when-marketing-my-own-business/
+permalink: /en/how-to-triple-profits/
 author: Leo
 meta-title: How to 3X Profits Applying the Marketing Funnel - TTBA Marketing Blog
 meta-description: >-
@@ -18,6 +18,7 @@ meta-description: >-
   first word that comes to mind is (drumroll)… Marketing. Unfortunately, the
   word marketing can be somewhat vague.
 canonical: 'https://dobsonchronicles.com/2017/09/18/start-marketing-business/'
+redirect_from: /en/where-do-I-start-when-marketing-my-own-business/
 ---
 <!--allrecords-->
 <div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="1586638" data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7">
