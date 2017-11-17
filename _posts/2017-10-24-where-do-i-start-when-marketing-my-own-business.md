@@ -41,7 +41,7 @@ redirect_from: /en/where-do-I-start-when-marketing-my-own-business/
     <div class="t-width t-width_10 t255__mainblock">
         <div class="t-cover__wrapper t-valign_middle" style="height:100vh;"> 
           <div class="t255__wrapper" data-hook-content="covercontent">
-                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span data-redactor-style="font-weight: 700;" style="font-weight: 700;">HOW TO 3X YOUR PROFITS<br></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">## APPLYING THE MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
+                        <h1 class="t255__title t-title t-title_sm t-uppercase t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="text-transform:uppercase;" field="title"><div style="font-size:72px;line-height:78px;" data-customstyle="yes"><span style="font-size: 62px;"><span data-redactor-style="font-weight: 700;" style="font-weight: 700;">HOW TO 3X YOUR PROFITS<br></span></span><span style="font-size: 46px;"><span style="font-weight: 300;" data-redactor-style="font-weight: 300;">APPLYING THE MARKETING FUNNEL</span></span></div></h1>            <span class="space"></span>
           </div>
         </div>
         <div class="t255__userblock">
@@ -395,3 +395,4 @@ $(document).ready(function(){
 
 </div>
 <!--/allrecords-->
+
