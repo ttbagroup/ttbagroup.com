@@ -7,7 +7,7 @@ lang: en
 tilda: true
 transparent: true
 inverse: false
-title: 6 TIPS ON HOW TO SURVIVE THE NEW FACEBOOK ALGORITHM UPDATE! AND EXCEL AT IT!
+title: 6 TIPS ON HOW TO SURVIVE THE NEW FACEBOOK ALGORITHM UPDATE!
 permalink: /en/6-tips-how-to-survive-new-facebook-algorithm-update/
 date: '2018-19-01'
 author: Kosta
