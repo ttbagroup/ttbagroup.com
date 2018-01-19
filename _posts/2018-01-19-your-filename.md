@@ -8,7 +8,7 @@ tilda: true
 transparent: true
 inverse: false
 title: 6 TIPS ON HOW TO SURVIVE THE NEW FACEBOOK ALGORITHM UPDATE! AND EXCEL AT IT!
-permalink: /en/6-tips-how-to-survive-new-facebook-algorithm-update
+permalink: /en/6-tips-how-to-survive-new-facebook-algorithm-update/
 date: '2018-19-01'
 author: Kosta
 meta-title: SEO Most Frequently Asked Questions - FAQs - TTBA Marketing Blog
