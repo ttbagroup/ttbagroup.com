@@ -9,7 +9,7 @@ transparent: true
 inverse: false
 title: 6 tips
 permalink: /en/6-tips-how-to-survive-new-facebook-algorithm-update/
-date: '2018-19-01'
+date: '2018-01-19'
 author: Kosta
 meta-title: SEO Most Frequently Asked Questions - FAQs - TTBA Marketing Blog
 meta-description: >-
