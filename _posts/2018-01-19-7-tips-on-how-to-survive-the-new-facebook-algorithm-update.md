@@ -11,7 +11,7 @@ title: 7 TIPS ON HOW TO SURVIVE THE NEW FACEBOOK ALGORITHM UPDATE!
 permalink: /en/7-tips-how-to-survive-new-facebook-algorithm-update/
 date: '2018-01-19'
 author: Kosta
-meta-title: 7 TIPS ON HOW TO SURVIVE THE NEW FACEBOOK ALGORITHM UPDATE!
+meta-title: 7 TIPS ON HOW TO SURVIVE THE NEW FACEBOOK ALGORITHM UPDATE
 meta-description: >-
   Facebook is making headlines AGAIN. This time it’s not because of a revenge
   porn lawsuit in Ireland or for selling advertising space to Russia.
