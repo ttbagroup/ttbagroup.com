@@ -9,7 +9,7 @@ transparent: true
 inverse: true
 title: 7 conseils pour survivre la dernière mise à jour de Facebook!
 date: '2018-01-19'
-permalink: 7-conseils-pour-survivre-la-derniere-mise-a-jour-de-facebook
+permalink: /7-conseils-pour-survivre-la-derniere-mise-a-jour-de-facebook/
 author: Kosta
 meta-title: 7 conseils pour survivre la dernière mise à jour de Facebook!
 meta-description: >-
