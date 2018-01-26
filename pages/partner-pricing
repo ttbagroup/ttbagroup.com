@@ -1,0 +1,1215 @@
+---
+published: true
+lang: en
+tilda: true
+transparent: true
+inverse: true
+noindex: false
+nofollow: false
+boost: false
+permalink: /en/partner-pricing
+ref: partner-pricing
+meta-title: Partner Pricing -  TTBA Group
+---
+<!--allrecords-->
+<div id="allrecords" class="t-records" data-hook="blocks-collection-content-node" data-tilda-project-id="56887" data-tilda-page-id="2137256" data-tilda-formskey="3456bc1d42b6e0b4ba4a29862ed779d7">
+
+<div id="rec42943449" class="r t-rec" style=" " data-record-type="270">
+<div class="t270"></div>
+<script type="text/javascript">
+  $(document).ready(function(){
+    setTimeout(function(){
+      var $root = $('html, body');
+      $('a[href*=#]:not([href=#],.carousel-control,.t-carousel__control,[href^=#price],[href^=#popup],[href^=#prodpopup],[href^=#order])').click(function() {        
+        var target = $(this.hash);  
+        if (target.length == 0){ target = $('a[name="' + this.hash.substr(1) + '"]'); }
+        if (target.length == 0){
+          return true;
+        } 
+        $root.animate({ scrollTop: target.offset().top + 3 }, 500);  
+        return false;  
+      });
+    }, 500);
+  });
+     
+</script>
+
+</div>
+
+
+<div id="rec41879859" class="r t-rec" style=" " data-animationappear="off" data-record-type="204">
+<!-- cover -->
+	
+
+
+
+
+<div class="t-cover" id="recorddiv41879859" bgimgfield="img" style="height:100vh; background-image:url('https://static.tildacdn.com/tild3163-6336-4264-a138-393133343130/-/resize/20x/d946dbce69a24e0288d5.jpg');">
+
+	<div class="t-cover__carrier" id="coverCarry41879859" data-content-cover-id="41879859" data-content-cover-bg="https://static.tildacdn.com/tild3163-6336-4264-a138-393133343130/d946dbce69a24e0288d5.jpg" data-content-cover-height="100vh" data-content-cover-parallax="fixed" style="background-image:url('');height:100vh; "></div>
+      
+    <div class="t-cover__filter" style="height:100vh;background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.60));background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.60));background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.60));background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.60));background-image: linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.60));filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#7f000000', endColorstr='#66000000');"></div>
+
+	<div class="t-container">
+        <div class="t-col t-col_8">
+			<div class="t-cover__wrapper t-valign_middle" style="height:100vh; position: relative;z-index: 1;">
+                <div class="t181">
+                  <div data-hook-content="covercontent">
+                  <div class="t181__wrapper">
+                    <div class="t181__title t-title t-title_md" style="" field="title"><div style="font-size:62px;" data-customstyle="yes">Partner-up with the<br>TTBA Marketing Agency</div></div>                    <div class="t181__descr t-descr t-descr_lg t-opacity_70" style="" field="descr"><div style="font-size:24px;" data-customstyle="yes"><b>Make money and avoid dealys <strong data-redactor-tag="strong"><span style="font-weight: 300;">by</span></strong></b><strong> </strong>outsourcing your web marketing services fulfilment to TTBA. Our knowledge and resources are at your finger tips. <br></div></div>                                        <div style="margin-top:60px;">
+                          <a href="#rec42945526" target="" class="t-btn  " style="color:#ffffff;background-color:#2d3af7;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;font-family:Open Sans;font-weight:400;"><table style="width:100%; height:100%;"><tbody><tr><td>PARTNER PRICING</td></tr></tbody></table></a>                          <a href="#rec41962153" target="" class="t-btn  " style="color:#ffffff;border:1px solid #ffffff;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;font-family:Open Sans;font-weight:400;"><table style="width:100%; height:100%;"><tbody><tr><td>ABOUT</td></tr></tbody></table></a>                    </div>
+                                      </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- arrow -->
+  <div class="t-cover__arrow"><div class="t-cover__arrow-wrapper t-cover__arrow-wrapper_animated"><div class="t-cover__arrow_mobile"><svg class="t-cover__arrow-svg" style="fill:#2d3af7;" x="0px" y="0px" width="38.417px" height="18.592px" viewBox="0 0 38.417 18.592"><g><path d="M19.208,18.592c-0.241,0-0.483-0.087-0.673-0.261L0.327,1.74c-0.408-0.372-0.438-1.004-0.066-1.413c0.372-0.409,1.004-0.439,1.413-0.066L19.208,16.24L36.743,0.261c0.411-0.372,1.042-0.342,1.413,0.066c0.372,0.408,0.343,1.041-0.065,1.413L19.881,18.332C19.691,18.505,19.449,18.592,19.208,18.592z"></path></g></svg></div></div></div>
+  <!-- arrow -->
+  
+
+</div>
+    
+
+		
+		
+		
+	
+	<style>
+	#rec41879859 .t-btn:not(.t-animate_no-hover):hover{
+	  background-color: #ffffff !important;
+	  color: #2d3af7 !important;
+	  
+	  
+	}	
+	#rec41879859 .t-btn:not(.t-animate_no-hover){
+	  -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+	}
+	</style>
+	
+	
+
+</div>
+
+
+<div id="rec42947711" class="r t-rec t-rec_pt_0 t-rec_pb_15" style="padding-top:0px;padding-bottom:15px; " data-record-type="257">
+
+<!-- T228 -->
+<div id="nav42947711marker"></div>
+<div id="nav42947711" class="t228  t228__positionfixed t228__beforeready" style=" height:100px; " data-bgcolor-hex="" data-bgcolor-rgba="" data-navmarker="nav42947711marker" data-appearoffset="700px" data-bgopacity-two="" data-menushadow="" data-bgopacity="0.90" data-menu-items-align="center" data-menu="yes">
+    <div class="t228__maincontainer " style="height:100px;">
+          <div class="t228__padding40px"></div>
+          
+          <div class="t228__leftside">
+                      </div>
+        
+          <div class="t228__centerside ">
+                        <div class="t228__centercontainer">
+            <ul class="t228__list t228__list_hidden">
+                        <li class="t228__list_item"><a class="t-menu__link-item" href="#4" style="color:#000000;font-weight:500;" data-menu-item-number="1"></a></li>
+                        <li class="t228__list_item"><a class="t-menu__link-item" href="#3" style="color:#000000;font-weight:500;" data-menu-item-number="2"></a></li>
+                        <li class="t228__list_item"><a class="t-menu__link-item" href="#2" style="color:#000000;font-weight:500;" data-menu-item-number="3"></a></li>
+                        <li class="t228__list_item"><a class="t-menu__link-item" href="#1" style="color:#000000;font-weight:500;" data-menu-item-number="4"></a></li>
+                        <li class="t228__list_item"><a class="t-menu__link-item" href="#5" style="color:#000000;font-weight:500;" data-menu-item-number="5"></a></li>
+                    
+                        </ul>
+            </div>
+                      </div>
+          
+          <div class="t228__rightside">
+                          <div class="t228__rightcontainer">
+                                                            
+                                    <div class="t228__right_buttons">
+                        <div class="t228__right_buttons_wrap">
+                          <div class="t228__right_buttons_but"><a href="#GrowMyBusiness2" target="" class="t-btn " style="color:#ffffff;background-color:#2d3af7;border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px;font-family:Open Sans;font-weight:400;text-transform:uppercase;"><table style="width:100%; height:100%;"><tbody><tr><td>(800) 556-8689</td></tr></tbody></table></a></div>                              
+                        </div>
+                    </div>
+                                        
+             </div>
+                       </div>
+          
+          <div class="t228__padding40px"></div>    
+  </div>
+</div>
+<script type="text/javascript">
+    
+      $(document).ready(function() {
+        t228_highlight();
+        
+                t228_checkAnchorLinks('42947711');
+                        
+      }); 
+    
+    
+    $(window).resize(function() {
+      t228_setWidth('42947711');
+    });
+    $(window).load(function() {
+      t228_setWidth('42947711');
+    });
+    $(document).ready(function() {
+      t228_setWidth('42947711');
+    });        
+    
+ 
+
+$(window).resize(function() {
+    t228_setBg('42947711');
+});
+$(document).ready(function() {
+    t228_setBg('42947711');
+});     
+    
+        $(document).ready(function() {
+            $('.t228').removeClass('t228__beforeready');      
+            t228_appearMenu('42947711');
+            $(window).bind('scroll', t_throttle(function(){t228_appearMenu('42947711')}, 200));
+        });
+    
+</script>
+
+      
+  
+
+</div>
+
+
+<div id="rec42947267" class="r t-rec" style=" " data-animationappear="off" data-record-type="330">
+
+<style>
+#rec42947267 input::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
+#rec42947267 input::-moz-placeholder          {color:#000000; opacity: 0.5;}
+#rec42947267 input:-moz-placeholder           {color:#000000; opacity: 0.5;}
+#rec42947267 input:-ms-input-placeholder      {color:#000000; opacity: 0.5;}          
+#rec42947267 textarea::-webkit-input-placeholder {color:#000000; opacity: 0.5;}
+#rec42947267 textarea::-moz-placeholder          {color:#000000; opacity: 0.5;}
+#rec42947267 textarea:-moz-placeholder           {color:#000000; opacity: 0.5;}
+#rec42947267 textarea:-ms-input-placeholder      {color:#000000; opacity: 0.5;}                    
+</style>
+<div class="t330">
+  <div class="t-popup" data-tooltip-hook="#GrowMyBusiness2">
+    <div class="t-popup__close">
+      <div class="t-popup__close-wrapper">
+      <svg class="t-popup__close-icon" width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <g stroke="none" stroke-width="1" fill="#fff" fill-rule="evenodd">
+          <rect transform="translate(11.313708, 11.313708) rotate(-45.000000) translate(-11.313708, -11.313708) " x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+          <rect transform="translate(11.313708, 11.313708) rotate(-315.000000) translate(-11.313708, -11.313708) " x="10.3137085" y="-3.6862915" width="2" height="30"></rect>
+        </g>
+      </svg>
+      </div>  
+    </div>
+    <div class="t-popup__container t-width t-width_6">
+        <img class="t330__img t-img" src="https://static.tildacdn.com/tild6564-3331-4031-a634-366639383436/-/empty/ttba_moto.jpg" data-original="https://static.tildacdn.com/tild6564-3331-4031-a634-366639383436/ttba_moto.jpg" imgfield="img">        <div class="t330__wrapper t-align_center" style=";">
+          <div class="t330__title t-title t-title_xxs"><div style="font-size:16px;" data-customstyle="yes"><span style="font-weight: 400;">We always respond in less than 4 hours.<br><br></span></div></div>                    <form id="form42947267" name="form42947267" role="form" action="https://forms.tildacdn.com/procces/" method="POST" data-formactiontype="2" data-inputbox=".t330__blockinput" data-success-url="https://ttbagroup.com/en/request-submitted" class="js-form-proccess " data-tilda-captchakey="">                                        
+                                                                  <input type="hidden" name="formservices[]" value="67787a8c45c4f24353fc05cdd55eaa8d" class="js-formaction-services">
+                                                      
+                                                                                  <div>
+                          <div class="js-successbox t330__blockinput-success t-text t-text_xs" style="display:none;">
+                                                            Thank You! Your request has been submitted.
+                                                      </div>                
+                        </div>
+                        <div class="t330__input-wrapper">
+                                                                              <div class="t330__blockinput">
+                              <input type="text" name="Name" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" data-tilda-req="1" data-tilda-rule="none" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                          </div>
+                                                                                                        <div class="t330__blockinput">
+                              <input type="text" name="Email" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email'" data-tilda-req="1" data-tilda-rule="email" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                          </div>                
+                                                                                                        <div class="t330__blockinput">
+                              <input type="text" name="phone" class="t330__input t-input js-tilda-rule " value="" placeholder="Your Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Phone Number'" data-tilda-req="1" data-tilda-rule="phone" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;">
+                          </div>                                
+                                                      
+                          
+                                                      
+                                                                              <div class="t330__blockinput">
+                              <textarea name="Subject" class="t330__input t-input js-tilda-rule " placeholder="What do you want to discuss?" onfocus="this.placeholder = ''" onblur="this.placeholder = 'What do you want to discuss?'" style="color:#000000; border:1px solid #c9c9c9; background-color:#ffffff; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;height:68px" rows="2"></textarea>
+                          </div>
+                                                    <div class="js-errorbox-all t330__blockinput-errorbox" style="display:none;">
+                              <div class="t330__blockinput-errors-text t-text t-text_xs">
+                                  <p class="t330__blockinput-errors-item js-rule-error js-rule-error-all"></p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-req">Required field</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-email">Please correct e-mail address</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-name">Name Wrong. Correct please</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-phone">Please correct phone number</p>
+                        		<p class="t330__blockinput-errors-item js-rule-error js-rule-error-string">Please enter letter, number or punctuation symbols.</p>
+                              </div>
+                          </div>
+                            
+                          <div class="t330__blockbutton">
+                              <button type="submit" class="t330__submit t-submit" style="color:#ffffff;background-color:#2d3af7;border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px;">SEND</button>                          </div>
+                         </div> 
+          </form>                          
+        </div>
+      </div>
+    </div>
+</div>
+                            
+<style>
+@media screen and (max-width: 560px) {
+  #rec42947267 .t-popup__container {
+    background-color: #fff !important;
+  }
+}
+</style>                            
+
+<script type="text/javascript">
+$(document).ready(function(){
+  setTimeout(function(){
+    t330_initPopup('42947267');
+  }, 500);
+});
+</script>  
+
+                          
+</div>
+
+
+<div id="rec41962153" class="r t-rec t-rec_pt_105 t-rec_pb_60" style="padding-top:105px;padding-bottom:60px;background-color:#ffffff; " data-record-type="184" data-bg-color="#ffffff">
+<!-- T169 -->
+<div class="t169">
+  <div class="t-container_100">
+    <div class="t-row">
+      <div class="t-col_100">
+        <div class="t169__text t-title" field="text"><div style="font-size:52px;line-height:62px;text-align:center;color:#2d3af7;" data-customstyle="yes"><span style="font-weight: 300;">We are here for the <br></span><span style="font-weight: 300;">the</span> long-term.</div></div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec41880884" class="r t-rec t-rec_pt_0 t-rec_pb_45" style="padding-top:0px;padding-bottom:45px; " data-record-type="490">
+<!-- t490 -->
+<div class="t490">
+		
+<div class="t-container">
+  
+      <div class="t490__col t-col t-col_4 t-align_center t-item">
+    
+    <img src="https://static.tildacdn.com/tild3939-6363-4661-a462-383363313231/-/empty/icons_ttba01.png" data-original="https://static.tildacdn.com/tild3939-6363-4661-a462-383363313231/icons_ttba01.png" class="t490__img  t-img" imgfield="li_img__1476968690512" style="width:100px;">
+    <div class="t490__wrappercenter ">
+      <div class="t-heading t-heading_md" style="" field="li_title__1476968690512"><div style="color:#2d3af7;" data-customstyle="yes"><span style="font-weight: 400;">Consult with us</span></div></div>      <div class="t-descr t-descr_xs" style="" field="li_descr__1476968690512"><div style="color:#818181;" data-customstyle="yes">Expert advice and master classes from our team to yours. We teach strategies and tools that are  proven and tested on the market.</div></div>    </div>
+      </div>
+  
+      <div class="t490__col t-col t-col_4 t-align_center t-item">
+    
+    <img src="https://static.tildacdn.com/tild6632-3866-4561-a361-613837386563/-/empty/icons_ttba03.png" data-original="https://static.tildacdn.com/tild6632-3866-4561-a361-613837386563/icons_ttba03.png" class="t490__img  t-img" imgfield="li_img__1476968700508" style="width:100px;">
+    <div class="t490__wrappercenter ">
+      <div class="t-heading t-heading_md" style="" field="li_title__1476968700508"><div style="color:#2d3af7;" data-customstyle="yes"><span style="font-weight: 400;">Outsource to us</span></div></div>      <div class="t-descr t-descr_xs" style="" field="li_descr__1476968700508"><div style="color:#818181;" data-customstyle="yes">We bring years experience and expertise in various marketing sectors. You manage the client and we deliver the work. <br></div></div>    </div>
+      </div>
+  
+      <div class="t490__col t-col t-col_4 t-align_center t-item">
+    
+    <img src="https://static.tildacdn.com/tild3737-6461-4433-b237-313730643038/-/empty/icons_ttba02.png" data-original="https://static.tildacdn.com/tild3737-6461-4433-b237-313730643038/icons_ttba02.png" class="t490__img  t-img" imgfield="li_img__1476968722790" style="width:100px;">
+    <div class="t490__wrappercenter ">
+      <div class="t-heading t-heading_md" style="" field="li_title__1476968722790"><div style="color:#2d3af7;" data-customstyle="yes"><span style="font-weight: 400;">Refer us</span></div></div>      <div class="t-descr t-descr_xs" style="" field="li_descr__1476968722790"><div style="color:#818181;" data-customstyle="yes">Don't have the time to manage a client while we do the work? Refer them entirely to our team and earn your referral fee.</div></div>    </div>
+      </div>
+</div>
+	
+
+
+</div>
+</div>
+
+
+<div id="rec41880766" class="r t-rec t-rec_pt_60 t-rec_pb_45" style="padding-top:60px;padding-bottom:45px; " data-record-type="208">
+<!-- T142A -->
+<div class="t142A">
+	<div class="t-container_100">
+	<div class="t142A__wrapone">
+		<div class="t142A__wraptwo">
+            <a href="#rec42945526" target="" class="t-btn   t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;font-family:Open Sans;font-weight:400;box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);"><table style="width:100%; height:100%;"><tbody><tr><td>SEE PARTNER PRICING</td></tr></tbody></table></a>            <a href="https://ttbagroup.com/en/marketing-case-studies-and-creative-portfolio/" target="" class="t-btn   t142A__marginleft20px t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="2" data-animate-delay="0.3" style="color:#2d3af7;border:1px solid #2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;font-family:Open Sans;font-weight:400;box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);"><table style="width:100%; height:100%;"><tbody><tr><td>PORTFOLIO</td></tr></tbody></table></a>					</div>
+	</div>
+	</div>
+</div>
+
+		
+		
+		
+	
+	<style>
+	#rec41880766 .t-btn:not(.t-animate_no-hover):hover{
+	  background-color: #ffffff !important;
+	  color: #2d3af7 !important;
+	  
+	  
+	}	
+	#rec41880766 .t-btn:not(.t-animate_no-hover){
+	  -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+	}
+	</style>
+	
+	
+
+</div>
+
+
+<div id="rec41962997" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px; " data-record-type="70">
+<!-- T034 -->
+<div class="t034">
+	<div class="t-container t-align_center">
+		<span class="t034__verticalline"></span>
+	</div>
+</div>
+</div>
+
+
+<div id="rec42945526" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px; " data-record-type="795">
+<!-- T795 -->
+<div class="t795">
+  <div class="t-container t-align_center">
+    <div class="t-col t-col_10 t-prefix_1">
+            <div class="t795__descr t-descr t-descr_xl t-margin_auto" field="descr" style="">Select the service to see exclusive pricing options.</div>    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec42943908" class="r t-rec t-rec_pt_15 t-rec_pb_60" style="padding-top:15px;padding-bottom:60px;background-color:#ffffff; " data-animationappear="off" data-record-type="395" data-bg-color="#ffffff">
+
+<!-- t395 -->
+<div class="t395">
+  <div class="t-container">
+    <div class="t395__col t-width t-width_10">
+      <div class="t395__wrapper t-align_center">
+                <div class="t395__tab t395__tab_active t395__width_25" data-tab-rec-ids="41962967">
+          <div class="t395__title t-name t-name_xs" style="color:#2d3af7;font-size:14px;font-weight:400;padding-top:14px;padding-bottom:14px;" field="title">WEB DESIGN</div>
+        </div>
+                        <div class="t395__tab t395__width_25" data-tab-rec-ids="41963132">
+          <div class="t395__title t-name t-name_xs" style="color:#2d3af7;font-size:14px;font-weight:400;padding-top:14px;padding-bottom:14px;" field="title2">ADS</div>
+        </div>
+                        <div class="t395__tab t395__width_25" data-tab-rec-ids="41963137">
+          <div class="t395__title t-name t-name_xs" style="color:#2d3af7;font-size:14px;font-weight:400;padding-top:14px;padding-bottom:14px;" field="title3">SOCIAL MEDIA </div>
+        </div>
+                        <div class="t395__tab t395__width_25" data-tab-rec-ids="41963142">
+          <div class="t395__title t-name t-name_xs" style="color:#2d3af7;font-size:14px;font-weight:400;padding-top:14px;padding-bottom:14px;" field="title4">BRANDING</div>
+        </div>
+                      </div>
+      <div class="t395__wrapper_mobile">
+        <div class="t395__firefoxfix"></div>
+        <select class="t395__select t-name">
+                  <option value="41962967">WEB DESIGN</option>
+                          <option value="41963132">ADS</option>
+                          <option value="41963137">SOCIAL MEDIA </option>
+                          <option value="41963142">BRANDING</option>
+                        </select>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style type="text/css">
+  #rec42943908 .t395__tab {
+    border: 1px solid #2d3af7;
+    background-color: #fff !important;
+  }
+  #rec42943908 .t395__tab_active {
+    background-color: #2d3af7 !important;
+    border-color:  #222 !important;
+  }
+  #rec42943908 .t395__tab_active:after {
+    width: 1px;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    background-color:  #222 !important;
+  }
+  
+  #rec42943908 .t395__tab_active .t395__title {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+  }
+  
+  #rec42943908 .t395__tab .t395__title {
+    margin-left: 1px;
+  }
+  #rec42943908 .t395__tab:last-child .t395__title {
+    margin-left: 0;
+  }
+  
+  #rec42943908 .t395__tab:first-child {
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+  }
+  #rec42943908 .t395__tab:last-child {
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-right: 1px solid #2d3af7 !important;
+  }
+  #rec42943908 .t395__tab_active:last-child {
+    border-right: 1px solid #222 !important;
+  }
+  #rec42943908 .t395__select {
+    border: 1px solid #2d3af7;
+    color: #ffffff !important;
+    background-color: #2d3af7 !important;
+  }
+  #rec42943908 .t395__wrapper_mobile:after {
+    border-color: #ffffff transparent transparent transparent;
+  }
+  #rec42943908 .t395__firefoxfix {
+    top: 1px;
+    bottom: 1px;
+    right: 1px;
+    background-color: #2d3af7 !important;
+  }
+  
+</style>
+<script type="text/javascript">
+  $(document).ready(function() { 
+    t395_init('42943908');
+  }); 
+</script>
+
+
+</div>
+
+
+<div id="rec41962967" class="r t-rec t-rec_pt_45 t-rec_pb_45" style="padding-top:45px;padding-bottom:45px; " data-animationappear="off" data-record-type="599">
+<!-- T599 -->
+  
+
+<div class="t599">
+  		<div class="t-section__container t-container">
+		<div class="t-col t-col_12">
+			<div class="t-section__topwrapper t-align_center">
+				<div class="t-section__title t-title t-title_xs" field="btitle"><div style="color:#222121;" data-customstyle="yes">Web Design</div></div>				<div class="t-section__descr t-descr t-descr_xl t-margin_auto" field="bdescr"><div style="color:#232323;" data-customstyle="yes">WordPress, Shopify, BigCommerce, Custom.</div></div>			</div>
+		</div>
+	</div>
+		  <div class="t-container t599__withfeatured">
+                                                                                                              
+            <div class="t599__col t-col t-col_3 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 1-2 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle" style="">Suitable for:<br>portfolio websites, service pages, advertising campaigns</div>        <div class="t599__price t-title t-title_xs" field="price" style=""><div style="font-size:28px;font-family:'Roboto';color:#888888;" data-customstyle="yes"><strong>LANDING<br>PAGE</strong><strong></strong></div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$850</strong></li><li>Clean Design<br>Device-Responsive<br>UX Optimization<br>CTA Optimization<br>Setup on your domain<br>Call tracking<br>Bilingual</li></ul></div></div>                  <a href="#GrowMyBusiness2" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_3 t-align_center t599__featured">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title2" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 3-4 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle2" style="">Suitable for:<br>agencies, restaurants, bars, local and small - medium businesses<br></div>        <div class="t599__price t-title t-title_xs" field="price2" style=""><div style="font-size:28px;color:#09ab09;" data-customstyle="yes">IDENTITY<br>WEBSITE</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr2" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$1,950</strong>
+	</li><li>   Clean Interactive Design<br>Device-Responsive<br>UX Optimization<br>CTA Optimization<br>10 Pages<br>Bilingual</li><li></li></ul></div></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_3 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title3" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 4-6 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle3" style="">Suitable for:<br>retail businesses that want to start selling online<br></div>        <div class="t599__price t-title t-title_xs" field="price3" style=""><div style="font-size:28px;color:#ed4b32;" data-customstyle="yes">E-COMMERCE<br>WEBSITE</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr3" style=""><ul><li><strong>$2,850</strong></li><li>   Clean Interactive Design<br>Home Page Layout<br>Product Page CRO<br>Shipping &amp; Taxes<br>Device-Responsive<br>UX Optimization<br>CTA Optimization<br>20 Products Included</li></ul></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_3 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title4" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 8-10 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle4" style="">Suitable for:<br>any business that has unique functionalities and design</div>        <div class="t599__price t-title t-title_xs" field="price4" style=""><div style="font-size:28px;color:#2990f4;" data-customstyle="yes">CUSTOM<br>WEBSITE</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr4" style=""><ul> <li><strong>$8,000</strong></li><li>   Unique Design<br>Unique Functions<br><span style="color: rgb(18, 88, 175);">SEO Optima Upgrade<br></span>Device-Responsive<br>UX Optimization<br>CTA Optimization<br>10 Pages</li><li></li></ul></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+      </div>
+</div>
+
+<style type="text/css">
+  #rec41962967 .t599__featured .t599__content {
+    
+    
+    
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.70) !important;
+  }
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        setTimeout(function(){
+          t599_init('41962967');
+        }, 500);
+      
+      $(window).bind('resize', t_throttle(function(){t599_init('41962967')}, 250));
+      $('.t599').bind('displayChanged',function(){
+        t599_init('41962967');
+      }); 
+    });
+    $(window).load(function() {
+      t599_init('41962967');
+    });
+</script>
+   
+</div>
+
+
+<div id="rec41963132" class="r t-rec t-rec_pt_45 t-rec_pb_45" style="padding-top:45px;padding-bottom:45px; " data-animationappear="off" data-record-type="599">
+<!-- T599 -->
+  
+
+<div class="t599">
+  		<div class="t-section__container t-container">
+		<div class="t-col t-col_12">
+			<div class="t-section__topwrapper t-align_center">
+				<div class="t-section__title t-title t-title_xs" field="btitle"><div style="color:#222121;" data-customstyle="yes">Advertising</div></div>				<div class="t-section__descr t-descr t-descr_xl t-margin_auto" field="bdescr"><div style="color:#232323;" data-customstyle="yes">Google AdWords, Facebooks &amp; Instagram Ads, LinkedIn Ads</div></div>			</div>
+		</div>
+	</div>
+		  <div class="t-container ">
+                                                                                                              
+            <div class="t599__col t-col t-col_6 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 1 week</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle" style="">Google, Facebook, LinkedIn Advertising.<br>Suitable for Lead Generation Campaigns, E-commerce websites.</div>        <div class="t599__price t-title t-title_xs" field="price" style=""><div style="font-size:28px;font-family:'Roboto';color:#09ab09;" data-customstyle="yes">SETUP / REVISION<strong></strong></div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$400</strong></li><li>Keyword Research<br>Campaign Setup or Revision<br>Analytics Event Tracking<br>Retargeting Setup<br>A/B Testing<br>Call Tracking<br>Lead Tracking (Lead Gen.)<br>Automation</li></ul></div></div>                  <a href="#GrowMyBusiness2" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_6 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title2" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Monthly</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle2" style="">Google, Facebook, LinkedIn Advertising.<br>Suitable for Lead Generation Campaigns, E-commerce websites.</div>        <div class="t599__price t-title t-title_xs" field="price2" style=""><div style="font-size:28px;color:#ff0000;" data-customstyle="yes">MANAGEMENT</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr2" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$400</strong></li><li>Account Management<br>Campaign Management<br>Ads Optimization<br>Audience Segmentation<br>1 Email Marketing Campaign<br>Up to $2,500 advertising budget<br>Monthly Reports</li></ul></div></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+     
+                                                                                                          
+     
+      </div>
+</div>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        setTimeout(function(){
+          t599_init('41963132');
+        }, 500);
+      
+      $(window).bind('resize', t_throttle(function(){t599_init('41963132')}, 250));
+      $('.t599').bind('displayChanged',function(){
+        t599_init('41963132');
+      }); 
+    });
+    $(window).load(function() {
+      t599_init('41963132');
+    });
+</script>
+   
+</div>
+
+
+<div id="rec41963137" class="r t-rec t-rec_pt_45 t-rec_pb_45" style="padding-top:45px;padding-bottom:45px; " data-animationappear="off" data-record-type="599">
+<!-- T599 -->
+  
+
+<div class="t599">
+  		<div class="t-section__container t-container">
+		<div class="t-col t-col_12">
+			<div class="t-section__topwrapper t-align_center">
+				<div class="t-section__title t-title t-title_xs" field="btitle"><div style="color:#222121;" data-customstyle="yes">Social Media Management</div></div>				<div class="t-section__descr t-descr t-descr_xl t-margin_auto" field="bdescr"><div style="color:#232323;" data-customstyle="yes">Facebook, Instagram, Twitter and LinkedIn.</div></div>			</div>
+		</div>
+	</div>
+		  <div class="t-container t599__withfeatured">
+                                                                                                              
+            <div class="t599__col t-col t-col_4 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Launch within 1 week</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle" style="">Suitable for:<br>business that want to start testing content and audience engagement on social</div>        <div class="t599__price t-title t-title_xs" field="price" style=""><div style="font-size:28px;font-family:'Roboto';color:#888888;" data-customstyle="yes">SOCIAL <br>PRESENCE<strong></strong></div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$850</strong></li><li>Facebook<br>Social media strategy<br>Social calendar<br>Content curation &amp; posting<br>2 to 3 post per week<br>Minor advertising<br>Monthly reports</li></ul></div></div>                  <a href="#GrowMyBusiness2" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_4 t-align_center t599__featured">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title2" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Launch within 2 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle2" style="">Suitable for:<br>agencies, restaurants, bars, local and small - medium businesses<br></div>        <div class="t599__price t-title t-title_xs" field="price2" style=""><div style="font-size:28px;color:#09ab09;" data-customstyle="yes">SMALL <br>BUSINESS</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr2" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$1,250</strong></li><li>   Facebook &amp; Instagram<br>Social media strategy<br>Social calendar<br>Content curation &amp; posting<br>Video Content<br>4 to 5 post per week<br>Advertising<br>Audiences management<br>Reputation management<br>Monthly reports</li><li></li></ul></div></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_4 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title3" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Launch within 3 to 4 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle3" style="">Suitable for:<br>retail businesses that want to start selling online<br></div>        <div class="t599__price t-title t-title_xs" field="price3" style=""><div style="font-size:28px;color:#ed4b32;" data-customstyle="yes">CONTENT<br>MARKETING</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr3" style=""><ul><li><strong>$1,650</strong></li><li>   Facebook, Instagram &amp; LinkedIn<br>Social media strategy<br>Social calendar<br>Content curation &amp; posting<br>Video Content<br>Creative writing (2 articles)<br>5+ post per week<br>1 Media day per month<br>Advertising<br>Audiences management<br>Monthly reports</li></ul></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+     
+      </div>
+</div>
+
+<style type="text/css">
+  #rec41963137 .t599__featured .t599__content {
+    
+    
+    
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.70) !important;
+  }
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        setTimeout(function(){
+          t599_init('41963137');
+        }, 500);
+      
+      $(window).bind('resize', t_throttle(function(){t599_init('41963137')}, 250));
+      $('.t599').bind('displayChanged',function(){
+        t599_init('41963137');
+      }); 
+    });
+    $(window).load(function() {
+      t599_init('41963137');
+    });
+</script>
+   
+</div>
+
+
+<div id="rec41963142" class="r t-rec t-rec_pt_45 t-rec_pb_45" style="padding-top:45px;padding-bottom:45px; " data-animationappear="off" data-record-type="599">
+<!-- T599 -->
+  
+
+<div class="t599">
+  		<div class="t-section__container t-container">
+		<div class="t-col t-col_12">
+			<div class="t-section__topwrapper t-align_center">
+				<div class="t-section__title t-title t-title_xs" field="btitle"><div style="color:#222121;" data-customstyle="yes">Branding</div></div>				<div class="t-section__descr t-descr t-descr_xl t-margin_auto" field="bdescr"><div style="color:#232323;" data-customstyle="yes">From simple logo to full 360<strong>°</strong> branding and identity.</div></div>			</div>
+		</div>
+	</div>
+		  <div class="t-container t599__withfeatured">
+                                                                                                              
+            <div class="t599__col t-col t-col_3 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 1-2 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle" style="">Suitable for small business looking to create a basic identity for it's brand<br></div>        <div class="t599__price t-title t-title_xs" field="price" style=""><div style="font-size:28px;font-family:'Roboto';color:#888888;" data-customstyle="yes">BASIC LOGO<br>DESIGN</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$300</strong></li><li>Creative research<br>5 options per submission<br>3 revisions included<br>Folder with all the files</li></ul></div></div>                  <a href="#GrowMyBusiness2" target="_blank" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_3 t-align_center t599__featured">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title2" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 2-3 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle2" style="">Suitable for any business looking to communicate their brand message across all the channels<br></div>        <div class="t599__price t-title t-title_xs" field="price2" style=""><div style="font-size:28px;color:#09ab09;" data-customstyle="yes">360<strong>°</strong><br>BRANDING</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr2" style=""><div style="text-align:center;" data-customstyle="yes"><ul><li><strong>$1,200</strong></li><li>Logo &amp; logotype<br>Business cards<br>Social media uplifting<br>Additional stationary:<br>car wrap, window decal, flyers, signage etc.</li></ul></div></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_3 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title3" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Ready in 2-3 weeks</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle3" style="">Suitable for companies in the "consumer goods" industry<br></div>        <div class="t599__price t-title t-title_xs" field="price3" style=""><div style="font-size:28px;color:#ed4b32;" data-customstyle="yes">PACKAGING<br>DESIGN</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr3" style=""><ul><li><strong>$800</strong></li><li>1 unified concept design<br>2 options per submission<br>3 revisions included<br>Folder with all the files<br>Print ready<br>Line SKUs not included*</li></ul></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+                                                                                                          
+            <div class="t599__col t-col t-col_3 t-align_center ">
+      <div class="t599__content" style="border: 1px solid #e0e6ed; background-color: #ffffff; border-radius: 9px;box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1);">
+        <div class="t599__title t-name t-name_lg" field="title4" style=""><div style="font-size:16px;color:#434343;" data-customstyle="yes">Per hour</div></div>        <div class="t599__subtitle t-descr t-descr_xxs" field="subtitle4" style="">Suitable for any project that involves supportive design or custom quote<br></div>        <div class="t599__price t-title t-title_xs" field="price4" style=""><div style="font-size:28px;color:#2990f4;" data-customstyle="yes">HOURLY<br>WORK</div></div>        <div class="t599__descr t-descr t-descr_xs" field="descr4" style=""><ul> <li><strong>$65</strong></li><li><strong></strong>Consulting<br>Creative research<br>Design<br>Revisions</li></ul></div>                  <a href="#GrowMyBusiness2" target="" class="t599__btn t-btn t-btn_sm" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;"><table style="width:100%; height:100%;"><tbody><tr><td>Start Project</td></tr></tbody></table></a>              </div>
+    </div>
+     
+      </div>
+</div>
+
+<style type="text/css">
+  #rec41963142 .t599__featured .t599__content {
+    
+    
+    
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.70) !important;
+  }
+</style>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        setTimeout(function(){
+          t599_init('41963142');
+        }, 500);
+      
+      $(window).bind('resize', t_throttle(function(){t599_init('41963142')}, 250));
+      $('.t599').bind('displayChanged',function(){
+        t599_init('41963142');
+      }); 
+    });
+    $(window).load(function() {
+      t599_init('41963142');
+    });
+</script>
+   
+</div>
+
+
+<div id="rec42946635" class="r t-rec t-rec_pt_60 t-rec_pb_30" style="padding-top:60px;padding-bottom:30px; " data-record-type="43">
+<!-- T030 -->
+<div class="t030">
+  <div class="t-container t-align_center">
+    <div class="t-col t-col_10 t-prefix_1">      
+      <div class="t030__title t-title t-title_xxs" field="title" style=""><div style="font-size:26px;color:#000000;" data-customstyle="yes"><span style="font-weight: 300;">THEY TRUST US WITH THEIR BUSINESS</span></div></div>      <div class="t030__descr t-descr t-descr_md" field="descr" style=""><div style="font-family:'Open Sans';" data-customstyle="yes"></div></div>    </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec42946838" class="r t-rec t-rec_pb_30" style="padding-bottom:30px; " data-record-type="250">
+<!-- T222 -->
+<div class="t222">
+    <div class="t222__container t-container">
+                <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3766-3238-4331-b035-316635363531/-/empty/logos_frameso06.png" data-original="https://static.tildacdn.com/tild3766-3238-4331-b035-316635363531/logos_frameso06.png" imgfield="img">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3064-6565-4832-a364-323665356366/-/empty/santodomingo.png" data-original="https://static.tildacdn.com/tild3064-6565-4832-a364-323665356366/santodomingo.png" imgfield="img2">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3237-6461-4531-b731-353036343837/-/empty/GlobalPublicAffairs01.png" data-original="https://static.tildacdn.com/tild3237-6461-4531-b731-353036343837/GlobalPublicAffairs01.png" imgfield="img3">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3762-6235-4930-a664-353366383930/-/empty/joel_name05.png" data-original="https://static.tildacdn.com/tild3762-6235-4930-a664-353366383930/joel_name05.png" imgfield="img4">
+                    </div>
+                                <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3732-6664-4332-b062-373863626465/-/empty/2ARPharmacieUniprixSylvainHGelinas.png" data-original="https://static.tildacdn.com/tild3732-6664-4332-b062-373863626465/2ARPharmacieUniprixSylvainHGelinas.png" imgfield="img5">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3731-3934-4339-b830-383336663566/-/empty/Logos_Aguibb02.png" data-original="https://static.tildacdn.com/tild3731-3934-4339-b830-383336663566/Logos_Aguibb02.png" imgfield="img6">
+                    </div>
+                    </div>
+</div>
+</div>
+
+
+<div id="rec42946841" class="r t-rec t-rec_pt_0 t-rec_pb_15" style="padding-top:0px;padding-bottom:15px; " data-record-type="250">
+<!-- T222 -->
+<div class="t222">
+    <div class="t222__container t-container">
+                <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3534-3363-4462-b130-626331323833/-/empty/Logo_aquasense.png" data-original="https://static.tildacdn.com/tild3534-3363-4462-b130-626331323833/Logo_aquasense.png" imgfield="img">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild6663-3230-4337-a134-666537656262/-/empty/Pub_logo_new.png" data-original="https://static.tildacdn.com/tild6663-3230-4337-a134-666537656262/Pub_logo_new.png" imgfield="img2">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild6436-3462-4438-a538-333839663966/-/empty/remax.png" data-original="https://static.tildacdn.com/tild6436-3462-4438-a538-333839663966/remax.png" imgfield="img3">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild6661-3765-4665-a164-303035353432/-/empty/novotel_logo.png" data-original="https://static.tildacdn.com/tild6661-3765-4665-a164-303035353432/novotel_logo.png" imgfield="img4">
+                    </div>
+                                <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3032-6536-4636-a563-626434633732/-/empty/VolkswagenLogo.png" data-original="https://static.tildacdn.com/tild3032-6536-4636-a563-626434633732/VolkswagenLogo.png" imgfield="img5">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+            <a href="http://www.shopsvelte.com/collections/shapewear-leggings" target="_blank">            <img class="t-img" src="https://static.tildacdn.com/tild3634-3139-4736-a535-373066356138/-/empty/svelte_logo.png" data-original="https://static.tildacdn.com/tild3634-3139-4736-a535-373066356138/svelte_logo.png" imgfield="img6" alt="shapewear leggings online store">
+            </a>        </div>
+                    </div>
+</div>
+</div>
+
+
+<div id="rec42946847" class="r t-rec t-rec_pt_0 t-rec_pb_30" style="padding-top:0px;padding-bottom:30px; " data-record-type="250">
+<!-- T222 -->
+<div class="t222">
+    <div class="t222__container t-container">
+                <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3162-3337-4333-b734-353763393336/-/empty/Pegasielogo_0.png" data-original="https://static.tildacdn.com/tild3162-3337-4333-b734-353763393336/Pegasielogo_0.png" imgfield="img">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild6434-6134-4430-a565-343833613130/-/empty/logos_framesx05.png" data-original="https://static.tildacdn.com/tild6434-6134-4430-a565-343833613130/logos_framesx05.png" imgfield="img2">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3865-3530-4833-b539-316531646662/-/empty/logos_framesx04.png" data-original="https://static.tildacdn.com/tild3865-3530-4833-b539-316531646662/logos_framesx04.png" imgfield="img3">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3435-3761-4232-a633-346437343630/-/empty/logos_framesx02.png" data-original="https://static.tildacdn.com/tild3435-3761-4232-a633-346437343630/logos_framesx02.png" imgfield="img4">
+                    </div>
+                                <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild6362-6635-4338-a566-393763666133/-/empty/logos_framesx03.png" data-original="https://static.tildacdn.com/tild6362-6635-4338-a566-393763666133/logos_framesx03.png" imgfield="img5">
+                    </div>
+                        <div class="t-col t222__col_2 t-col_2 t222__greyonhovercolor">
+                        <img class="t-img" src="https://static.tildacdn.com/tild3765-3162-4437-b732-636538346136/-/empty/nutrivilla_logo.png" data-original="https://static.tildacdn.com/tild3765-3162-4437-b732-636538346136/nutrivilla_logo.png" imgfield="img6">
+                    </div>
+                    </div>
+</div>
+</div>
+
+
+<div id="rec42946890" class="r t-rec t-rec_pt_60 t-rec_pb_45" style="padding-top:60px;padding-bottom:45px; " data-record-type="208">
+<!-- T142A -->
+<div class="t142A">
+	<div class="t-container_100">
+	<div class="t142A__wrapone">
+		<div class="t142A__wraptwo">
+            <a href="#rec42947076" target="" class="t-btn   t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="1" style="color:#ffffff;background-color:#2d3af7;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;font-weight:500;box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);"><table style="width:100%; height:100%;"><tbody><tr><td>SEE PROJECTS</td></tr></tbody></table></a>            <a href="https://ttbagroup.com/en/our-montreal-marketing-team/" target="" class="t-btn   t142A__marginleft20px t-animate" data-animate-style="fadeinup" data-animate-group="yes" data-animate-order="2" data-animate-delay="0.3" style="color:#2d3af7;border:1px solid #ffffff;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;font-weight:500;box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);"><table style="width:100%; height:100%;"><tbody><tr><td>THE TEAM</td></tr></tbody></table></a>					</div>
+	</div>
+	</div>
+</div>
+
+		
+		
+		
+	
+	<style>
+	#rec42946890 .t-btn:not(.t-animate_no-hover):hover{
+	  background-color: #ffffff !important;
+	  color: #2d3af7 !important;
+	  border-color: #ffffff !important;
+	  
+	}	
+	#rec42946890 .t-btn:not(.t-animate_no-hover){
+	  -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+	}
+	</style>
+	
+	
+
+</div>
+
+
+<div id="rec42947982" class="r t-rec t-rec_pt_30 t-rec_pb_30" style="padding-top:30px;padding-bottom:30px; " data-record-type="70">
+<!-- T034 -->
+<div class="t034">
+	<div class="t-container t-align_center">
+		<span class="t034__verticalline"></span>
+	</div>
+</div>
+</div>
+
+
+<div id="rec42947076" class="r t-rec t-rec_pt_30 t-rec_pb_0" style="padding-top:30px;padding-bottom:0px; " data-record-type="60">
+<!-- T050 -->
+<div class="t050">
+  <div class="t-container t-align_center">
+    <div class="t-col t-col_10 t-prefix_1">
+            <div class="t050__title t-title t-title_xxl t-animate" data-animate-style="fadeinup" data-animate-group="yes" field="title" style=""><div style="font-size:52px;color:#2d3af7;" data-customstyle="yes"><span style="font-weight: 300;">Case Studies</span></div></div>          </div>
+  </div>
+</div>
+</div>
+
+
+<div id="rec42947084" class="r t-rec t-rec_pt_15 t-rec_pb_60" style="padding-top:15px;padding-bottom:60px; " data-record-type="61">
+<!-- T051 -->
+<div class="t051">
+	<div class="t-container">
+		<div class="t-col t-col_12 ">
+			<div class="t051__text t-text t-text_md t-animate" data-animate-style="fadeinup" field="text"><div style="color:#2d3af7;" data-customstyle="yes">Our list of satisfied clients and successful case studies speak for themselves. <br>We're more than happy to present some of our latest and proudest achievements!</div></div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+<div id="rec42947063" class="r t-rec t-rec_pb_0" style="padding-bottom:0px; " data-animationappear="off" data-record-type="335">
+<!-- T335 -->
+
+<div class="t335">
+  <div class="t-container_100">
+    <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://project-carry.com/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img" data-original="https://static.tildacdn.com/tild3138-6266-4664-a666-656262626166/wow.jpg" style="background-image:url('https://static.tildacdn.com/tild3138-6266-4664-a666-656262626166/-/resize/20x/wow.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title">PROJECT-CARRY<br></div>                <div class="t335__text t-descr t-descr_xxs" field="text"><span style="font-weight: 400;">360 Custom E-commerce</span></div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">VISIT WEBSITE</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+        <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="http://lashvision.com/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img2" data-original="https://static.tildacdn.com/tild3064-3735-4461-a132-333534376635/MMMGLASH031617183panasonic.jpg" style="background-image:url('https://static.tildacdn.com/tild3064-3735-4461-a132-333534376635/-/resize/20x/MMMGLASH031617183panasonic.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title2">LASHVISION</div>                <div class="t335__text t-descr t-descr_xxs" field="text2"><span style="font-weight: 400;">Identity website for an advertising agency<br></span></div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">VISIT WEBSITE</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+            <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/case-m-beauty-salon/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img3" data-original="https://static.tildacdn.com/tild3732-3962-4662-a164-316466386461/AdobeStock_60932573.jpg" style="background-image:url('https://static.tildacdn.com/tild3732-3962-4662-a164-316466386461/-/resize/20x/AdobeStock_60932573.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title3">M SALON</div>                <div class="t335__text t-descr t-descr_xxs" field="text3"><span style="font-weight: 400;">Lead Generation &amp; Branding for beauty salon</span></div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE CASE STUDY</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+            <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/moving-company-adwords-marketing/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img4" data-original="https://static.tildacdn.com/tild3664-3434-4131-b539-656666366632/20930208_14376075329.jpg" style="background-image:url('https://static.tildacdn.com/tild3664-3434-4131-b539-656666366632/-/resize/20x/20930208_14376075329.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -o-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50)); background-image: -ms-linear-gradient(top, rgba(0,0,0,0.50), rgba(0,0,0,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title4">D&amp;D MOVING</div>                <div class="t335__text t-descr t-descr_xxs" field="text4">AdWords Lead Generation</div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE CASE STUDY</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+      </div>
+</div>
+      
+<script type="text/javascript">
+    $(document).ready(function() {
+        t335.initeffect('42947063');
+    }); 
+  
+</script>
+      
+      
+</div>
+
+
+<div id="rec42947066" class="r t-rec t-rec_pb_0" style="padding-bottom:0px; " data-animationappear="off" data-record-type="335">
+<!-- T335 -->
+
+<div class="t335">
+  <div class="t-container_100">
+    <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/marketing-projects/marketing-strategy-for-online-gift-boutique/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img" data-original="https://static.tildacdn.com/tild3261-6634-4930-b930-303032626137/receiveexperiencesmobile.jpg" style="background-image:url('https://static.tildacdn.com/tild3261-6634-4930-b930-303032626137/-/resize/20x/receiveexperiencesmobile.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title">WISHBOX<br></div>                <div class="t335__text t-descr t-descr_xxs" field="text"><span style="font-weight: 400;">Branding and digital marketing strategy for e-commerce gift boutique</span></div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE CASE STUDY</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+        <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/marketing-projects-montreal/seo-for-ecommerce" target="">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img2" data-original="https://static.tildacdn.com/tild6434-3233-4062-a337-663434616434/Style_30051.jpg" style="background-image:url('https://static.tildacdn.com/tild6434-3233-4062-a337-663434616434/-/resize/20x/Style_30051.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title2">SVELTE SHAPEWEAR</div>                <div class="t335__text t-descr t-descr_xxs" field="text2"><span style="font-weight: 400;">SEO strategy for E-commerce shop &amp; Influencer Outreach<br></span></div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE CASE STUDY</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+            <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/seo-promotion-for-software-quality-assurance-company-case-study/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img3" data-original="https://static.tildacdn.com/tild6164-6237-4335-a465-363339336535/servers1.jpg" style="background-image:url('https://static.tildacdn.com/tild6164-6237-4335-a465-363339336535/-/resize/20x/servers1.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title3">PEGASIE TECHNOLOGIES</div>                <div class="t335__text t-descr t-descr_xxs" field="text3"><span style="font-weight: 400;">Conversion rate optimization and SEO</span></div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE CASE STUDY</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+            <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/marketing-projectssocial-media-marketing-for-pub-in-montreal-2/" target="_blank">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast t335__bg_animated t-bgimg" bgimgfield="img4" data-original="https://static.tildacdn.com/tild6433-3865-4234-b965-316635336365/Web1.jpg" style="background-image:url('https://static.tildacdn.com/tild6433-3865-4234-b965-316635336365/-/resize/20x/Web1.jpg');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.50), rgba(21,23,36,0.50));"></div>
+            <div class="t335__textwrapper t335__animation_fast ">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title4">PUB ST PAUL</div>                <div class="t335__text t-descr t-descr_xxs" field="text4">Social media &amp; marketing strategy for the famous Pub St Paul</div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE CASE STUDY</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+      </div>
+</div>
+      
+<script type="text/javascript">
+    $(document).ready(function() {
+        t335.initeffect('42947066');
+    }); 
+  
+</script>
+      
+      
+</div>
+
+
+<div id="rec42947069" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="335">
+<!-- T335 -->
+
+<div class="t335">
+  <div class="t-container_100">
+    <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/logo-book/" target="">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast  t-bgimg" bgimgfield="img" data-original="https://static.tildacdn.com/tild3933-3134-4636-b637-303735383733/LogoBook2.png" style="background-image:url('https://static.tildacdn.com/tild3933-3134-4636-b637-303735383733/-/resize/20x/LogoBook2.png');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60));"></div>
+            <div class="t335__textwrapper t335__animation_fast t335__textwrapper_animated">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title">LOGO BOOK</div>                <div class="t335__text t-descr t-descr_xxs" field="text">Various branding projects</div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">SEE LOGOS</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+        <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="https://ttbagroup.com/en/brand-book-design-online-accessories-store/" target="">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast  t-bgimg" bgimgfield="img2" data-original="https://static.tildacdn.com/tild6238-3264-4234-b532-366331393964/LXRBookMockup_small.png" style="background-image:url('https://static.tildacdn.com/tild6238-3264-4234-b532-366331393964/-/resize/20x/LXRBookMockup_small.png');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60));"></div>
+            <div class="t335__textwrapper t335__animation_fast t335__textwrapper_animated">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title2">LXR BRAND BOOK</div>                <div class="t335__text t-descr t-descr_xxs" field="text2">Brand Book design</div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">VIEW PROJECT</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+            <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="#popup:1" target="">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast  t-bgimg" bgimgfield="img3" data-original="https://static.tildacdn.com/tild6235-3134-4436-a664-343538643530/santo_domingo.png" style="background-image:url('https://static.tildacdn.com/tild6235-3134-4436-a664-343538643530/-/resize/20x/santo_domingo.png');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60));"></div>
+            <div class="t335__textwrapper t335__animation_fast t335__textwrapper_animated">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title3">VIDEO COMMERCIAL</div>                <div class="t335__text t-descr t-descr_xxs" field="text3">Video production for Cafe Santo Domingo</div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">WATCH VIDEO</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+            <div class="t335__col t-cell t-cell_25 t-align_center ">
+      <a href="#popup:2" target="">        <div class="t335__table" style="height:35vh;">
+          <div class="t335__cell t-align_center t-valign_middle">
+            <div class="t335__bg t335__animation_fast  t-bgimg" bgimgfield="img4" data-original="https://static.tildacdn.com/tild3939-3031-4630-a235-616262303664/ScreenShot20161117at125545PM.png" style="background-image:url('https://static.tildacdn.com/tild3939-3031-4630-a235-616262303664/-/resize/20x/ScreenShot20161117at125545PM.png');"></div>
+            <div class="t335__overlay t335__animation_fast" data-tu-ondrag-hide="yes" style="background-image: -moz-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -webkit-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -o-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60)); background-image: -ms-linear-gradient(top, rgba(21,23,36,0.60), rgba(21,23,36,0.60));"></div>
+            <div class="t335__textwrapper t335__animation_fast t335__textwrapper_animated">
+              <div class="t335__textwrapper__content">
+                                <div class="t335__title t-name t-name_md" field="title4">COCO BELLA</div>                <div class="t335__text t-descr t-descr_xxs" field="text4">Video commercial</div>                                                  <div class="t335__button-container">
+                    <div class="t335__button-wrapper">
+                      <div class="t335__submit t-btn t335__submit_small" style="color:#ffffff;background-color:#ed4b3a;border-radius:7px; -moz-border-radius:7px; -webkit-border-radius:7px;">WATCH VIDEO</div>
+                    </div>
+                  </div>
+                                              </div>
+              </div>
+                          
+          </div>
+        </div>
+      </a>    </div>
+      </div>
+</div>
+      
+<script type="text/javascript">
+    $(document).ready(function() {
+        t335.initeffect('42947069');
+    }); 
+  
+</script>
+      
+      
+</div>
+
+
+<div id="rec42947933" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-animationappear="off" data-record-type="554">
+<!-- T554 -->
+<div class="t554">
+	<div class="t554__general-wrapper t-width t-width_100 t-margin_auto">		
+		<div class="t554__card-wrapper">
+			<div class="t554__card t-width_5  t-align_left" style=" top:120px;">
+              <div class="t554__title t-heading t-heading_sm" style="" field="title">TTBA Group Inc.</div>              
+              <div class="t-text t-descr_sm" style="" field="text">5538 Rue St-Patrick, <br>Montreal, QC, H4E 1A8 <br><br> Toll Free: <a href="tel:18005568689">(800) 556-8689<br></a>Montréal: <a href="tel:15145483011">(514) 548-3011</a><br><br></div>              
+                
+              <div class="t-sociallinks">
+  <div class="t-sociallinks__wrapper">
+      <div class="t-sociallinks__item">
+      <a href="https://www.facebook.com/TTBAgroup/" target="_blank">
+                  <svg class="t-sociallinks__svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="25px" height="25px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve"><desc>Facebook</desc><path d="M21.1 7.8C22.5 6.5 24.5 6 26.4 6h6v6.3h-3.9c-.8-.1-1.6.6-1.8 1.4v4.2h5.7c-.1 2-.4 4.1-.7 6.1h-5v18h-7.4V24h-3.6v-6h3.6v-5.9c.1-1.7.7-3.3 1.8-4.3z"></path></svg>
+              </a>
+    </div>
+                    <div class="t-sociallinks__item">
+      <a href="https://www.instagram.com/ttbagroup/" target="_blank">
+                  <svg class="t-sociallinks__svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="25px" height="25px" viewBox="0 0 25 25" enable-background="new 0 0 25 25" xml:space="preserve"><desc>Instagram</desc><path d="M16.396,3.312H8.604c-2.921,0-5.292,2.371-5.292,5.273v7.846c0,2.886,2.371,5.256,5.292,5.256h7.791c2.922,0,5.292-2.37,5.292-5.274V8.586C21.688,5.683,19.317,3.312,16.396,3.312L16.396,3.312z M7.722,12.5c0-2.64,2.142-4.778,4.778-4.778c2.636,0,4.777,2.138,4.777,4.778s-2.142,4.777-4.777,4.777C9.864,17.277,7.722,15.14,7.722,12.5zM17.756,8.182c-0.615,0-1.104-0.487-1.104-1.102s0.488-1.103,1.104-1.103c0.614,0,1.102,0.488,1.102,1.103S18.37,8.182,17.756,8.182L17.756,8.182z"></path><path d="M12.5,9.376c-1.731,0-3.124,1.398-3.124,3.124c0,1.725,1.393,3.124,3.124,3.124c1.732,0,3.124-1.399,3.124-3.124C15.624,10.775,14.211,9.376,12.5,9.376L12.5,9.376z"></path></svg>
+              </a>
+    </div>
+          <div class="t-sociallinks__item">
+      <a href="https://www.linkedin.com/company/ttba-event-lab" target="_blank">
+                  <svg class="t-sociallinks__svg" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="25px" height="25px" viewBox="0 0 48 48" enable-background="new -455 257 48 48" xml:space="preserve"><desc>LinkedIn</desc><path d="M42.3 23.1v13.5h-7.9V24c0-3.2-1.1-5.3-4-5.3-2.2 0-3.5 1.5-4 2.9-.2.5-.3 1.2-.3 1.9v13.2h-7.9s.1-21.4 0-23.6h7.9v3.3s0 .1-.1.1h.1v-.1c1-1.6 2.9-3.9 7.1-3.9 5.2-.1 9.1 3.3 9.1 10.6zM10.1 1.6c-2.7 0-4.4 1.8-4.4 4.1S7.4 9.8 10 9.8h.1c2.7 0 4.4-1.8 4.4-4.1s-1.7-4.1-4.4-4.1zm-3.9 35H14V13H6.2v23.6z"></path></svg>
+              </a>
+    </div>
+        
+  </div>
+</div>
+		  
+	  		</div>
+		</div>
+		<div class="t554_map" style="width:100%; height:600px;"><div class="t-map" id="separateMap42947933" data-map-language="" data-map-x="-74.005941" data-map-y="40.7127837" data-map-zoom="14" data-map-title="TTBA Group Inc." style="width:100%; height:600px;" data-map-style="[{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#d3d3d3&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#808080&quot;},{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#b3b3b3&quot;}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ffffff&quot;},{&quot;weight&quot;:1.8}]},{&quot;featureType&quot;:&quot;road.local&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#d7d7d7&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#ebebeb&quot;}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;geometry&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#a7a7a7&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#ffffff&quot;}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#efefef&quot;}]},{&quot;featureType&quot;:&quot;road&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#696969&quot;}]},{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;on&quot;},{&quot;color&quot;:&quot;#737373&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;labels&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;geometry.stroke&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#d6d6d6&quot;}]},{&quot;featureType&quot;:&quot;road&quot;,&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dadada&quot;}]}]"></div>
+
+<script type="text/javascript">
+  var arMapMarkers42947933 = [
+            {
+    	title:"TTBA Group",
+    	descr:"",
+        lat:"45.463632",
+    	lng:"-73.596414",
+    },
+          ];
+
+$(document).ready(function() {
+  t_appendGoogleMap("42947933","0xa991e425f22eb36452bec776d6e0801bc16e5c57");
+});
+
+</script>
+</div>
+	</div>
+</div>
+         
+      
+<script type="text/javascript">
+var t554__fireRefreshEventOnWindow = function () {
+     var evt = document.createEvent("HTMLEvents");
+     evt.initEvent('resize', true, false);
+     window.dispatchEvent(evt);
+ };
+$('.t554').bind('displayChanged',function(){
+  t554__fireRefreshEventOnWindow();
+});
+</script>  
+
+</div>
+
+</div>
+<!--/allrecords-->
