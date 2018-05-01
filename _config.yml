@@ -24,7 +24,7 @@ exclude: ['CNAME', '_config.yml', '*.json', '.gitignore', 'readme.md', '*.xml', 
 keep_files: ['sftp-config.json', '.htaccess']
 include: ['.htaccess']
 
-plugins_dir:
+plugins:
   - jekyll-redirect-from
   - jekyll-feed
 
