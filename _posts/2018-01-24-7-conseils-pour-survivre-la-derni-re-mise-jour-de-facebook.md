@@ -3,7 +3,7 @@ ref: blog
 published: true
 noindex: false
 nofollow: false
-lang: en
+lang: fr
 tilda: true
 transparent: true
 inverse: true
