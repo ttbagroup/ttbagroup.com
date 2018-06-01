@@ -49,7 +49,8 @@ prose:
           placeholder: "/main-title/"
       - name: "redirect_from"
         field:
-          element: "textarea"
+          element: "text"
+          type: "text"
           label: "Redirect URL"
           help: "This URL will redirect to the permalink"
           placeholder: "/alternative-title/"
