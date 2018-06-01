@@ -49,17 +49,16 @@ prose:
           placeholder: "/main-title/"
       - name: "redirect_from"
         field:
-          element: "textarea"
+          element: "redirect_from"
           label: "Redirect URL"
           help: "This URL will redirect to the permalink"
-          type: "text"
+          type: "textarea"
           placeholder: "/alternative-title/"
       - name: "ref"
         field:
-          element: "text"
+          element: "textarea"
           label: "Reference"
           help: "Short word to identify the translation of the page in other language"
-          type: "text"
           placeholder: "home"
       - name: "lang"
         field:
