@@ -565,3 +565,6 @@ color: rgba(255,255,255,0);
 .site-logo-image--direct{width: 50px;}
 .site-logo-image.site-logo-image--inverse{width: 50px;}
 .site-header.site-header--transparent.site-header--sticky > .site-header-bar > .site-header-main > .site-header-nav.menu > .menu-item{color: #000000;}
+
+.main-badges-icons{width:100%; display: inline-block;}
+.icon-badges img{width: 33.33%; float: left;}
